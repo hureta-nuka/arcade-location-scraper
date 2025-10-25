@@ -37,5 +37,5 @@ jobs:
             git checkout -b new-shop-data
             git add shop_data.json
             git commit -m "Update shop data"
-            git push origin new-shop-data
+            git push -f origin new-shop-data
       
