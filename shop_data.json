@@ -141,6 +141,16 @@
       "access": "JR長府駅徒歩12分"
     },
     {
+      "name": "G-pala小倉店",
+      "operation_time": "",
+      "holiday": "",
+      "latitude": "33.83945824",
+      "longitude": "130.9109857",
+      "tel": "093-953-7405",
+      "address": "北九州市小倉南区上葛原1-14-1",
+      "access": ""
+    },
+    {
       "name": "パスカワールドグリーンランド",
       "operation_time": "10:00～翌3:00",
       "holiday": "無し",
@@ -1461,16 +1471,6 @@
       "access": "イオン下田SC1・2FJR下田駅よりバスで10分八戸市より車で約15km、三沢市より車で約15km"
     },
     {
-      "name": "アミューズメントスペースコミ丸四日市店",
-      "operation_time": "",
-      "holiday": "",
-      "latitude": "34.96631",
-      "longitude": "136.61633",
-      "tel": "059-325-7685",
-      "address": "四日市市鵜の森1-3-19",
-      "access": ""
-    },
-    {
       "name": "アピナ四日市店",
       "operation_time": "",
       "holiday": "",
@@ -2168,6 +2168,16 @@
       "longitude": "139.231968",
       "tel": "0270-62-3886",
       "address": "伊勢崎市西小保方町368スマーク伊勢崎3F302区画",
+      "access": ""
+    },
+    {
+      "name": "ゲームフィールド仙台長町店",
+      "operation_time": "",
+      "holiday": "",
+      "latitude": "38.22565173",
+      "longitude": "140.8768793",
+      "tel": "022-304-2371",
+      "address": "仙台市太白区長町7-20-3ザ･モール仙台長町店3F",
       "access": ""
     },
     {
@@ -3781,8 +3791,8 @@
       "access": "国道126号線成東町姫島地内ローソン奥"
     }
   ],
-  "count": 378,
+  "count": 379,
   "source": "https://p.eagate.573.jp/game/facility/search/p/list.html",
-  "timestamp": "2025-10-25T22:04:58.788059",
+  "timestamp": "2025-11-01T02:00:20.564621",
   "description": "KONAMI e-amusement店舗検索から取得した全店舗データ"
 }
