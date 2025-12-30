@@ -1,0 +1,41 @@
+[
+  {
+    "name": "楽市街道箱崎店3F",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "33.62410817",
+    "longitude": "130.4195897",
+    "tel": "092-642-0761",
+    "address": "福岡市東区箱崎5-1-8楽市街道箱崎店内3F",
+    "access": "3号線沿い九州大学そば",
+    "games": [
+      "GI-GranDesire"
+    ]
+  },
+  {
+    "name": "楽市楽座くりえいと宗像店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "33.81047701",
+    "longitude": "130.563611",
+    "tel": "0940-35-6644",
+    "address": "宗像市くりえいと1-4-4",
+    "access": "県道97号沿いショッピングセンターくりえいと宗像敷地内",
+    "games": [
+      "GI-GranDesire"
+    ]
+  },
+  {
+    "name": "コムテックスクウェア金山",
+    "operation_time": "9:00～24:00",
+    "holiday": "",
+    "latitude": "35.14401179",
+    "longitude": "136.8999767",
+    "tel": "052-321-5601",
+    "address": "名古屋市中区金山1-16-8",
+    "access": "名鉄金山駅徒歩3分",
+    "games": [
+      "GI-GranDesire"
+    ]
+  }
+]

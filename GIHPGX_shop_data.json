@@ -1,0 +1,54 @@
+[
+  {
+    "name": "タイトーステーション尼崎つかしん店",
+    "operation_time": "10:00～21:00",
+    "holiday": "無し",
+    "latitude": "34.761872",
+    "longitude": "135.419929",
+    "tel": "06-6429-8871",
+    "address": "尼崎市塚口本町4-8-1SCつかしん内東町北館3F",
+    "access": "・阪急伊丹線「稲野」(阪急神戸線「塚口」駅で乗りかえ)より約300m ・JR宝塚線「猪名寺」駅より約400m",
+    "games": [
+      "GI-HORSEPARK GX"
+    ]
+  },
+  {
+    "name": "カプコサーカス新潟東店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "37.92475865",
+    "longitude": "139.1146465",
+    "tel": "025-275-3777",
+    "address": "新潟市東区大形本町3-1-2イオン新潟東店",
+    "access": "",
+    "games": [
+      "GI-HORSEPARK GX"
+    ]
+  },
+  {
+    "name": "埼玉レジャーランド春日部店",
+    "operation_time": "一部24時間",
+    "holiday": "無し",
+    "latitude": "35.95940469",
+    "longitude": "139.7289621",
+    "tel": "048-763-4061",
+    "address": "春日部市大字増富字谷際163-1",
+    "access": "国道16号線沿い春日部市増富地内",
+    "games": [
+      "GI-HORSEPARK GX"
+    ]
+  },
+  {
+    "name": "千葉レジャーランド野田店",
+    "operation_time": "一部24時間営業",
+    "holiday": "無し",
+    "latitude": "35.97154747",
+    "longitude": "139.8653487",
+    "tel": "04-7120-3535",
+    "address": "野田市吉春776-1",
+    "access": "国道16号線沿い野田市吉春地内",
+    "games": [
+      "GI-HORSEPARK GX"
+    ]
+  }
+]

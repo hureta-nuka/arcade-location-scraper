@@ -1,0 +1,54 @@
+[
+  {
+    "name": "アミューズメントCUE大和高田",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "34.49978101",
+    "longitude": "135.7354379",
+    "tel": "0745-25-3335",
+    "address": "大和高田市東中2-11-16",
+    "access": "国道166号線東宝交差点そば",
+    "games": [
+      "GI-WorldClassic"
+    ]
+  },
+  {
+    "name": "ファンタジープラザ名古屋店",
+    "operation_time": "10:00～翌5:00",
+    "holiday": "無し",
+    "latitude": "35.22569311",
+    "longitude": "136.908786",
+    "tel": "052-938-3461",
+    "address": "名古屋市北区玄馬町234-1クロスタウン2F",
+    "access": "比良駅徒歩6分/大我麻交差点付近",
+    "games": [
+      "GI-WorldClassic"
+    ]
+  },
+  {
+    "name": "アピナ長岡店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "37.45794202",
+    "longitude": "138.8125194",
+    "tel": "0258-22-5510",
+    "address": "長岡市堺東町22",
+    "access": "国道8号線長岡バイパス堺交差点近く",
+    "games": [
+      "GI-WorldClassic"
+    ]
+  },
+  {
+    "name": "パレパレ稲毛長沼店",
+    "operation_time": "9:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.65753267",
+    "longitude": "140.129187",
+    "tel": "043-304-7878",
+    "address": "千葉市稲毛区長沼原町731-25フレスポ稲毛A2棟-4",
+    "access": "JR稲毛駅より京成バス山王町行き、ヴィルフォーレ下車2分",
+    "games": [
+      "GI-WorldClassic"
+    ]
+  }
+]

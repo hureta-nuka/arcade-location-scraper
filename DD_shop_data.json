@@ -1,0 +1,119 @@
+[
+  {
+    "name": "楽市街道箱崎店3F",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "33.62410817",
+    "longitude": "130.4195897",
+    "tel": "092-642-0761",
+    "address": "福岡市東区箱崎5-1-8楽市街道箱崎店内3F",
+    "access": "3号線沿い九州大学そば",
+    "games": [
+      "DUEL DREAM"
+    ]
+  },
+  {
+    "name": "ラウンドワン松山店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "33.8664873",
+    "longitude": "132.751593",
+    "tel": "089-911-5511",
+    "address": "松山市東長戸1-3-10",
+    "access": "",
+    "games": [
+      "DUEL DREAM"
+    ]
+  },
+  {
+    "name": "ラウンドワン加古川店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "34.74708002",
+    "longitude": "134.836935",
+    "tel": "0794-29-2513",
+    "address": "加古川市尾上町安田字小河原325番6号",
+    "access": "",
+    "games": [
+      "DUEL DREAM"
+    ]
+  },
+  {
+    "name": "YAZ寝屋川店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "34.78044073",
+    "longitude": "135.6193889",
+    "tel": "072-830-7755",
+    "address": "寝屋川市石津中町25-26",
+    "access": "",
+    "games": [
+      "DUEL DREAM"
+    ]
+  },
+  {
+    "name": "アピナ四日市店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "34.94000426",
+    "longitude": "136.6070666",
+    "tel": "059-349-5011",
+    "address": "四日市市泊小柳町4-34",
+    "access": "",
+    "games": [
+      "DUEL DREAM"
+    ]
+  },
+  {
+    "name": "アピナ焼津店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "34.83371431",
+    "longitude": "138.3059489",
+    "tel": "054-623-8555",
+    "address": "焼津市道原585",
+    "access": "",
+    "games": [
+      "DUEL DREAM"
+    ]
+  },
+  {
+    "name": "Amusement&Game MAGHREB",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.624024",
+    "longitude": "139.423196",
+    "tel": "042-371-5556",
+    "address": "多摩市落合1-39-2マグレブビル1F",
+    "access": "京王線・小田急線 多摩センター駅 徒歩3分/多摩モノレール多摩センター駅 徒歩1分",
+    "games": [
+      "DUEL DREAM"
+    ]
+  },
+  {
+    "name": "ラウンドワンわらび店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "35.83078787",
+    "longitude": "139.6742521",
+    "tel": "048-447-8080",
+    "address": "蕨市北町5-1-6",
+    "access": "",
+    "games": [
+      "DUEL DREAM"
+    ]
+  },
+  {
+    "name": "GiGO石岡",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "36.198702",
+    "longitude": "140.303303",
+    "tel": "0299-26-8336",
+    "address": "石岡市東大橋中峯1976-1",
+    "access": "",
+    "games": [
+      "DUEL DREAM"
+    ]
+  }
+]

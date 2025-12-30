@@ -1,0 +1,197 @@
+[
+  {
+    "name": "楽市街道箱崎店2F",
+    "operation_time": "10:00～27:00",
+    "holiday": "無し",
+    "latitude": "33.62410817",
+    "longitude": "130.4195897",
+    "tel": "092-642-0760",
+    "address": "福岡市東区箱崎5-1-8楽市街道箱崎店内2F",
+    "access": "",
+    "games": [
+      "DanceEvolution ARCADE"
+    ]
+  },
+  {
+    "name": "PALO防府",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "34.0522015",
+    "longitude": "131.5685841",
+    "tel": "070-3100-3731",
+    "address": "防府市中央町1-3イオン防府店3F",
+    "access": "",
+    "games": [
+      "DanceEvolution ARCADE"
+    ]
+  },
+  {
+    "name": "モーリーファンタジー那覇",
+    "operation_time": "10:00～22:00",
+    "holiday": "無し",
+    "latitude": "26.19689585",
+    "longitude": "127.6658336",
+    "tel": "070-3100-5314",
+    "address": "那覇市金城5-10-2イオン那覇3F",
+    "access": "モノレール 小禄駅 正面 ジャスコ那覇店内3F",
+    "games": [
+      "DanceEvolution ARCADE"
+    ]
+  },
+  {
+    "name": "PALO松江",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "35.4639773",
+    "longitude": "133.0683985",
+    "tel": "070-3100-4323",
+    "address": "松江市東朝日町151イオン松江3F",
+    "access": "",
+    "games": [
+      "DanceEvolution ARCADE"
+    ]
+  },
+  {
+    "name": "アピナ姫路店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "34.82687",
+    "longitude": "134.7151",
+    "tel": "079-222-8811",
+    "address": "姫路市東郷町1454-3姫路リオス2F",
+    "access": "",
+    "games": [
+      "DanceEvolution ARCADE"
+    ]
+  },
+  {
+    "name": "アピナ四日市店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "34.94000426",
+    "longitude": "136.6070666",
+    "tel": "059-349-5011",
+    "address": "四日市市泊小柳町4-34",
+    "access": "",
+    "games": [
+      "DanceEvolution ARCADE"
+    ]
+  },
+  {
+    "name": "キングジョイ",
+    "operation_time": "9:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.16797694",
+    "longitude": "136.9050444",
+    "tel": "052-241-9515",
+    "address": "名古屋市中区栄3-3-32",
+    "access": "地下鉄栄駅徒歩3分",
+    "games": [
+      "DanceEvolution ARCADE"
+    ]
+  },
+  {
+    "name": "タイトーステーションフェドラ大須店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.15945319",
+    "longitude": "136.9054236",
+    "tel": "052-242-2011",
+    "address": "名古屋市中区大須3-30-31萬松寺駐車場ビル1F･2F",
+    "access": "地下鉄名城線上前津駅より徒歩1分",
+    "games": [
+      "DanceEvolution ARCADE"
+    ]
+  },
+  {
+    "name": "アピナ松本",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "36.21052692",
+    "longitude": "137.9610526",
+    "tel": "0263-24-1133",
+    "address": "松本市双葉19-10",
+    "access": "国道19号線沿い、イトーヨーカドーそば",
+    "games": [
+      "DanceEvolution ARCADE"
+    ]
+  },
+  {
+    "name": "テクノワールド",
+    "operation_time": "店舗にてご確認ください",
+    "holiday": "無し",
+    "latitude": "39.179225",
+    "longitude": "141.162155",
+    "tel": "0197-47-3619",
+    "address": "奥州市江刺愛宕梁川127-1",
+    "access": "",
+    "games": [
+      "DanceEvolution ARCADE"
+    ]
+  },
+  {
+    "name": "ゲームコーナー東部",
+    "operation_time": "9:00～24:00",
+    "holiday": "無し",
+    "latitude": "38.25101621",
+    "longitude": "140.9438974",
+    "tel": "022-287-5880",
+    "address": "仙台市若林区六丁の目中町26-60",
+    "access": "六丁目の交差点より多賀城方面へ向かい車で5分。産業通り沿い。",
+    "games": [
+      "DanceEvolution ARCADE"
+    ]
+  },
+  {
+    "name": "ラウンドワンさいたま･鴻巣店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "36.08064011",
+    "longitude": "139.4902201",
+    "tel": "048-595-2001",
+    "address": "鴻巣市箕田3163-7",
+    "access": "",
+    "games": [
+      "DanceEvolution ARCADE"
+    ]
+  },
+  {
+    "name": "神奈川レジャーランド厚木店",
+    "operation_time": "一部24時間営業",
+    "holiday": "無し",
+    "latitude": "35.44802433",
+    "longitude": "139.3431365",
+    "tel": "050-1722-4336",
+    "address": "厚木市戸室5-31-1",
+    "access": "小田急本厚木駅よりバスにてアンリツ前バス停下車徒歩1分",
+    "games": [
+      "DanceEvolution ARCADE"
+    ]
+  },
+  {
+    "name": "タイトーステーションBIGBOX高田馬場",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.712933",
+    "longitude": "139.70419",
+    "tel": "03-5272-9855",
+    "address": "新宿区高田馬場1-35-3BIGBOX6F",
+    "access": "西武新宿線・高田馬場駅より徒歩1分",
+    "games": [
+      "DanceEvolution ARCADE"
+    ]
+  },
+  {
+    "name": "GiGOデイズタウンつくば",
+    "operation_time": "10:00～24:00",
+    "holiday": "無休",
+    "latitude": "36.07768145",
+    "longitude": "140.1153322",
+    "tel": "070-1459-0875",
+    "address": "つくば市竹園1-9-2デイズタウンつくばB1F",
+    "access": "つくば駅徒歩5分デイズタウンつくばB1F",
+    "games": [
+      "DanceEvolution ARCADE"
+    ]
+  }
+]

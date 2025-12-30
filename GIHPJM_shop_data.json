@@ -1,0 +1,106 @@
+[
+  {
+    "name": "遊道楽 嘉瀬店",
+    "operation_time": "11:00～24:00",
+    "holiday": "無し",
+    "latitude": "33.24215325",
+    "longitude": "130.2565663",
+    "tel": "0952-40-0952",
+    "address": "佐賀市嘉瀬町大字中原2488-1",
+    "access": "207号線沿い",
+    "games": [
+      "GI-HORSEPARK JUDGMENT"
+    ]
+  },
+  {
+    "name": "GiGO北岡崎",
+    "operation_time": "9:00～24:00",
+    "holiday": "無し",
+    "latitude": "34.97365547",
+    "longitude": "137.1600268",
+    "tel": "070-1393-5583",
+    "address": "岡崎市錦町2-4",
+    "access": "国道248号線沿い、愛知環状線北岡崎駅から徒歩3分",
+    "games": [
+      "GI-HORSEPARK JUDGMENT"
+    ]
+  },
+  {
+    "name": "群馬レジャーランド高崎駅東口店",
+    "operation_time": "一部24時間営業",
+    "holiday": "無し",
+    "latitude": "36.32992086",
+    "longitude": "139.0128661",
+    "tel": "027-330-3002",
+    "address": "高崎市江木町333-1高崎EXビル2F",
+    "access": "JR高崎駅東口徒歩10分",
+    "games": [
+      "GI-HORSEPARK JUDGMENT"
+    ]
+  },
+  {
+    "name": "マトリクス前橋店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "36.37294244",
+    "longitude": "139.059637",
+    "tel": "027-212-3133",
+    "address": "前橋市小相木町563-3",
+    "access": "県道13号線小相木交差点を高崎方面へ150m",
+    "games": [
+      "GI-HORSEPARK JUDGMENT"
+    ]
+  },
+  {
+    "name": "キャロム青梅店",
+    "operation_time": "10:00～翌5:00",
+    "holiday": "",
+    "latitude": "35.78660433",
+    "longitude": "139.2700032",
+    "tel": "0428-23-9208",
+    "address": "青梅市千ヶ瀬町4-326-1",
+    "access": "",
+    "games": [
+      "GI-HORSEPARK JUDGMENT"
+    ]
+  },
+  {
+    "name": "ウェアハウス岩槻店",
+    "operation_time": "7:00～23:45",
+    "holiday": "無し",
+    "latitude": "35.94092949",
+    "longitude": "139.6859268",
+    "tel": "048-758-8755",
+    "address": "さいたま市岩槻区加倉3-3-63",
+    "access": "岩槻IC降りて直ぐ",
+    "games": [
+      "GI-HORSEPARK JUDGMENT"
+    ]
+  },
+  {
+    "name": "神奈川レジャーランド厚木店",
+    "operation_time": "一部24時間営業",
+    "holiday": "無し",
+    "latitude": "35.44802433",
+    "longitude": "139.3431365",
+    "tel": "050-1722-4336",
+    "address": "厚木市戸室5-31-1",
+    "access": "小田急本厚木駅よりバスにてアンリツ前バス停下車徒歩1分",
+    "games": [
+      "GI-HORSEPARK JUDGMENT"
+    ]
+  },
+  {
+    "name": "ウェアハウス越谷店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.91195206",
+    "longitude": "139.7637557",
+    "tel": "048-973-4311",
+    "address": "越谷市大字南荻島841-1",
+    "access": "越谷岩槻線沿い、国道4号から車で1分",
+    "games": [
+      "GI-HORSEPARK JUDGMENT"
+    ]
+  }
+]

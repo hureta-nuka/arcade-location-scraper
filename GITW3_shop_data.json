@@ -1,0 +1,80 @@
+[
+  {
+    "name": "難波ヒルズ",
+    "operation_time": "10:15～23:00",
+    "holiday": "無し",
+    "latitude": "34.66626102",
+    "longitude": "135.5018617",
+    "tel": "090-3133-7638",
+    "address": "大阪市中央区難波3-2-34",
+    "access": "地下鉄御堂筋線難波駅下車徒歩5分",
+    "games": [
+      "GI-TURF WILD3"
+    ]
+  },
+  {
+    "name": "ラウンドワン鳴海店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "35.09913151",
+    "longitude": "136.9528735",
+    "tel": "052-899-0700",
+    "address": "名古屋市緑区鳴海町字杜若28",
+    "access": "",
+    "games": [
+      "GI-TURF WILD3"
+    ]
+  },
+  {
+    "name": "アピナ焼津店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "34.83371431",
+    "longitude": "138.3059489",
+    "tel": "054-623-8555",
+    "address": "焼津市道原585",
+    "access": "",
+    "games": [
+      "GI-TURF WILD3"
+    ]
+  },
+  {
+    "name": "アピナ橋本店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.597682",
+    "longitude": "139.337035",
+    "tel": "042-703-6033",
+    "address": "相模原市緑区西橋本5-1-1ラ･フロール駐車場棟1F",
+    "access": "橋本駅から徒歩10分 八王子バイパスから津久井街道へ繋がる側道に入ってすぐ",
+    "games": [
+      "GI-TURF WILD3"
+    ]
+  },
+  {
+    "name": "ラウンドワン町田店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "35.54409488",
+    "longitude": "139.4432407",
+    "tel": "042-710-0091",
+    "address": "町田市森野1-13-14",
+    "access": "",
+    "games": [
+      "GI-TURF WILD3"
+    ]
+  },
+  {
+    "name": "タイトーステーション上野御徒町店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "35.708938",
+    "longitude": "139.774321",
+    "tel": "03-5817-4511",
+    "address": "台東区上野4-6-9湯島商事ビル",
+    "access": "",
+    "games": [
+      "GI-TURF WILD3"
+    ]
+  }
+]

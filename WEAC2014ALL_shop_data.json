@@ -1,0 +1,197 @@
+[
+  {
+    "name": "遊道楽時津店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "32.82008054",
+    "longitude": "129.8473546",
+    "tel": "095-813-2525",
+    "address": "西彼杵郡時津町元村郷863-10",
+    "access": "川平有料道路入り口井出園交差点付近",
+    "games": [
+      "Winning Eleven AC 2014"
+    ]
+  },
+  {
+    "name": "スポラ九品寺",
+    "operation_time": "10:00～翌3:00",
+    "holiday": "無し",
+    "latitude": "32.79041868",
+    "longitude": "130.7149285",
+    "tel": "096-372-5700",
+    "address": "熊本市中央区九品寺5-10-15",
+    "access": "JR豊肥本線南熊本駅徒歩10分",
+    "games": [
+      "Winning Eleven AC 2014"
+    ]
+  },
+  {
+    "name": "スポラ菊陽店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "32.86472855",
+    "longitude": "130.8092457",
+    "tel": "096-213-5720",
+    "address": "菊池郡菊陽町津久礼駄飼代2617-2",
+    "access": "",
+    "games": [
+      "Winning Eleven AC 2014"
+    ]
+  },
+  {
+    "name": "ビバーチャ",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "34.37953351",
+    "longitude": "132.4613726",
+    "tel": "082-504-8665",
+    "address": "広島市中区南竹屋町10-17",
+    "access": "",
+    "games": [
+      "Winning Eleven AC 2014"
+    ]
+  },
+  {
+    "name": "A.Cグランド",
+    "operation_time": "9:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.38308553",
+    "longitude": "136.7461998",
+    "tel": "058-275-0351",
+    "address": "岐阜市茜部大川1-77",
+    "access": "名鉄新岐阜駅15分",
+    "games": [
+      "Winning Eleven AC 2014"
+    ]
+  },
+  {
+    "name": "パルケデアミーゴ",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "38.28378194",
+    "longitude": "140.3216374",
+    "tel": "023-682-1613",
+    "address": "山形市嶋北1-3-1",
+    "access": "",
+    "games": [
+      "Winning Eleven AC 2014"
+    ]
+  },
+  {
+    "name": "GAME BANK",
+    "operation_time": "9:00～24:00",
+    "holiday": "無し",
+    "latitude": "38.352801",
+    "longitude": "140.877385",
+    "tel": "022-776-5677",
+    "address": "仙台市泉区大沢2-5-4",
+    "access": "東北自動車道 泉インター直ぐ",
+    "games": [
+      "Winning Eleven AC 2014"
+    ]
+  },
+  {
+    "name": "タイトーステーション仙台ベガロポリス店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "38.21973354",
+    "longitude": "140.8479417",
+    "tel": "022-307-3685",
+    "address": "仙台市太白区西多賀5-24-1",
+    "access": "国道286号沿い、JR長町駅より車で10分",
+    "games": [
+      "Winning Eleven AC 2014"
+    ]
+  },
+  {
+    "name": "アピナ太田店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "36.28282169",
+    "longitude": "139.3983139",
+    "tel": "0276-48-1489",
+    "address": "太田市内ヶ島町907-1",
+    "access": "太田駅より車で5分富士重工近く",
+    "games": [
+      "Winning Eleven AC 2014"
+    ]
+  },
+  {
+    "name": "アピナ小山店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "36.300419",
+    "longitude": "139.809126",
+    "tel": "0285-31-0050",
+    "address": "小山市駅南町4-27-18",
+    "access": "国道50号線沿い駅南町交差点",
+    "games": [
+      "Winning Eleven AC 2014"
+    ]
+  },
+  {
+    "name": "ドラマ八王子高倉店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.66506526",
+    "longitude": "139.3664795",
+    "tel": "0426-45-7050",
+    "address": "八王子市高倉町55-4",
+    "access": "国道20号、八王子市高倉町「高倉町西」交差点を日野バイパス豊田方面右手",
+    "games": [
+      "Winning Eleven AC 2014"
+    ]
+  },
+  {
+    "name": "アピナ下館店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "36.29325391",
+    "longitude": "139.944075",
+    "tel": "0296-28-0033",
+    "address": "筑西市玉戸1012-3",
+    "access": "R50号玉戸信号近く",
+    "games": [
+      "Winning Eleven AC 2014"
+    ]
+  },
+  {
+    "name": "GiGO相模原",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.57350902",
+    "longitude": "139.3710322",
+    "tel": "080-7465-6268",
+    "address": "相模原市中央区中央2-1-5ムトス内",
+    "access": "JR横浜線相模原駅徒歩15分国道16号線近く",
+    "games": [
+      "Winning Eleven AC 2014"
+    ]
+  },
+  {
+    "name": "ゲームパーク石神井",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.74266197",
+    "longitude": "139.6044655",
+    "tel": "03-3997-3799",
+    "address": "練馬区石神井町3-17-16",
+    "access": "西部池袋線石神井公園駅徒歩2分",
+    "games": [
+      "Winning Eleven AC 2014"
+    ]
+  },
+  {
+    "name": "ランブルプラザ",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.73238612",
+    "longitude": "139.7135866",
+    "tel": "03-5955-5066",
+    "address": "豊島区東池袋1-42-1",
+    "access": "池袋駅東口徒歩3分。ヤマダ電気様裏手。パチンコマルハン様向かい。",
+    "games": [
+      "Winning Eleven AC 2014"
+    ]
+  }
+]

@@ -1,0 +1,145 @@
+[
+  {
+    "name": "アミューズメントCUE大和高田",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "34.49978101",
+    "longitude": "135.7354379",
+    "tel": "0745-25-3335",
+    "address": "大和高田市東中2-11-16",
+    "access": "国道166号線東宝交差点そば",
+    "games": [
+      "SPIN FEVER2"
+    ]
+  },
+  {
+    "name": "メダルパーク メダパ新発田店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "37.95292049",
+    "longitude": "139.2953607",
+    "tel": "0254-28-9015",
+    "address": "新発田市新栄町3-4-26",
+    "access": "",
+    "games": [
+      "SPIN FEVER2"
+    ]
+  },
+  {
+    "name": "アピナ長野村山店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "36.6682177",
+    "longitude": "138.2633103",
+    "tel": "0262-95-9911",
+    "address": "長野市村山502-1アミューズメントプレイスアピナ",
+    "access": "R18号アップルライン入口",
+    "games": [
+      "SPIN FEVER2"
+    ]
+  },
+  {
+    "name": "アピナ塩尻店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "36.14140932",
+    "longitude": "137.9536147",
+    "tel": "026-351-5511",
+    "address": "塩尻市広丘野村1794-1",
+    "access": "国道19号線沿い野村交差点から塩尻方面",
+    "games": [
+      "SPIN FEVER2"
+    ]
+  },
+  {
+    "name": "アピナ焼津店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "34.83371431",
+    "longitude": "138.3059489",
+    "tel": "054-623-8555",
+    "address": "焼津市道原585",
+    "access": "",
+    "games": [
+      "SPIN FEVER2"
+    ]
+  },
+  {
+    "name": "ウェアハウス上尾店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.98142891",
+    "longitude": "139.5998843",
+    "tel": "048-770-3332",
+    "address": "上尾市二ツ宮1044",
+    "access": "R17号より蓮田、伊奈方面車で3分",
+    "games": [
+      "SPIN FEVER2"
+    ]
+  },
+  {
+    "name": "ウェアハウス岩槻店",
+    "operation_time": "7:00～23:45",
+    "holiday": "無し",
+    "latitude": "35.94092949",
+    "longitude": "139.6859268",
+    "tel": "048-758-8755",
+    "address": "さいたま市岩槻区加倉3-3-63",
+    "access": "岩槻IC降りて直ぐ",
+    "games": [
+      "SPIN FEVER2"
+    ]
+  },
+  {
+    "name": "ウェアハウス入谷店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.80112943",
+    "longitude": "139.760997",
+    "tel": "03-3856-5833",
+    "address": "足立区入谷7-8-11",
+    "access": "足立ICから車で3分",
+    "games": [
+      "SPIN FEVER2"
+    ]
+  },
+  {
+    "name": "タイトーステーション上野御徒町店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "35.708938",
+    "longitude": "139.774321",
+    "tel": "03-5817-4511",
+    "address": "台東区上野4-6-9湯島商事ビル",
+    "access": "",
+    "games": [
+      "SPIN FEVER2"
+    ]
+  },
+  {
+    "name": "ウェアハウス南流山店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.84020798",
+    "longitude": "139.9050111",
+    "tel": "04-7159-2351",
+    "address": "流山市南流山4-16-6",
+    "access": "南流山駅から徒歩3分",
+    "games": [
+      "SPIN FEVER2"
+    ]
+  },
+  {
+    "name": "タイトーFステーション市川妙典店",
+    "operation_time": "施設の営業時間に準じる",
+    "holiday": "施設の営業日に準じる",
+    "latitude": "35.69246485",
+    "longitude": "139.9267286",
+    "tel": "047-318-3933",
+    "address": "市川市妙典4-1-1イオン市川妙典店2番街2F",
+    "access": "",
+    "games": [
+      "SPIN FEVER2"
+    ]
+  }
+]

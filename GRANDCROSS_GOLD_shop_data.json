@@ -1,0 +1,1146 @@
+[
+  {
+    "name": "ラウンドワン博多半道橋店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "33.58394157",
+    "longitude": "130.4382666",
+    "tel": "092-475-6611",
+    "address": "福岡市博多区半道橋2-2-8",
+    "access": "",
+    "games": [
+      "GRANDCROSS GOLD"
+    ]
+  },
+  {
+    "name": "ラウンドワン小倉店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "33.89742877",
+    "longitude": "130.8598475",
+    "tel": "093-562-8805",
+    "address": "北九州市小倉北区西港町15-65",
+    "access": "",
+    "games": [
+      "GRANDCROSS GOLD"
+    ]
+  },
+  {
+    "name": "パスカワールドグリーンランド",
+    "operation_time": "10:00～翌3:00",
+    "holiday": "無し",
+    "latitude": "32.98790587",
+    "longitude": "130.4711246",
+    "tel": "0968-69-3001",
+    "address": "荒尾市本井手1574-54",
+    "access": "三井グリーンランドウルトラマンランド横",
+    "games": [
+      "GRANDCROSS GOLD"
+    ]
+  },
+  {
+    "name": "ラウンドワン熊本店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "32.78499883",
+    "longitude": "130.6775647",
+    "tel": "096-325-7200",
+    "address": "熊本市西区春日7-25-15",
+    "access": "",
+    "games": [
+      "GRANDCROSS GOLD"
+    ]
+  },
+  {
+    "name": "ラウンドワン沖縄･宜野湾店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "26.27580261",
+    "longitude": "127.7310389",
+    "tel": "098-870-2110",
+    "address": "宜野湾市真志喜3-28-8",
+    "access": "",
+    "games": [
+      "GRANDCROSS GOLD"
+    ]
+  },
+  {
+    "name": "ラウンドワン鹿児島宇宿店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "31.54388304",
+    "longitude": "130.5427759",
+    "tel": "099-284-0655",
+    "address": "鹿児島市宇宿2-2-2",
+    "access": "",
+    "games": [
+      "GRANDCROSS GOLD"
+    ]
+  },
+  {
+    "name": "ラウンドワン広島店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "34.39365895",
+    "longitude": "132.4600423",
+    "tel": "082-545-8910",
+    "address": "広島市中区立町3-11",
+    "access": "",
+    "games": [
+      "GRANDCROSS GOLD"
+    ]
+  },
+  {
+    "name": "ラウンドワン宮崎店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "31.89458335",
+    "longitude": "131.4170876",
+    "tel": "0985-63-1210",
+    "address": "宮崎市中村東3-4-60",
+    "access": "",
+    "games": [
+      "GRANDCROSS GOLD"
+    ]
+  },
+  {
+    "name": "あみぱらんど福山店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "34.48795195",
+    "longitude": "133.3784594",
+    "tel": "0849-25-6188",
+    "address": "福山市三吉町南2-8-24",
+    "access": "国道2号線沿い、福山警察署から東へすぐ",
+    "games": [
+      "GRANDCROSS GOLD"
+    ]
+  },
+  {
+    "name": "ラウンドワン福山店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "34.489155",
+    "longitude": "133.3925782",
+    "tel": "084-973-9891",
+    "address": "福山市明神町1-9-28",
+    "access": "",
+    "games": [
+      "GRANDCROSS GOLD"
+    ]
+  },
+  {
+    "name": "アミパラ倉敷店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "34.58364137",
+    "longitude": "133.7712207",
+    "tel": "086-430-2111",
+    "address": "倉敷市西中新田624-1アミパラボウル1F",
+    "access": "倉敷市役所前、アミパラボウル1F",
+    "games": [
+      "GRANDCROSS GOLD"
+    ]
+  },
+  {
+    "name": "ラウンドワン岡山妹尾店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "34.62318926",
+    "longitude": "133.8694608",
+    "tel": "086-282-8851",
+    "address": "岡山市南区妹尾3413-1",
+    "access": "",
+    "games": [
+      "GRANDCROSS GOLD"
+    ]
+  },
+  {
+    "name": "アミパラ岡山店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "34.63615978",
+    "longitude": "133.919988",
+    "tel": "086-235-3332",
+    "address": "岡山市北区青江1-13-8",
+    "access": "2号線バイパス・青江交差点から北へすぐ",
+    "games": [
+      "GRANDCROSS GOLD"
+    ]
+  },
+  {
+    "name": "ラウンドワン札幌北21条店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "43.08681907",
+    "longitude": "141.3495671",
+    "tel": "011-733-8801",
+    "address": "札幌市東区北21条東1-1-21",
+    "access": "",
+    "games": [
+      "GRANDCROSS GOLD"
+    ]
+  },
+  {
+    "name": "ラウンドワン高松店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "34.33898638",
+    "longitude": "134.0669994",
+    "tel": "087-812-6115",
+    "address": "高松市松島町2-7-43",
+    "access": "",
+    "games": [
+      "GRANDCROSS GOLD"
+    ]
+  },
+  {
+    "name": "ラウンドワン高知店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "33.55793713",
+    "longitude": "133.554676",
+    "tel": "088-804-3070",
+    "address": "高知市南宝永町4-12",
+    "access": "",
+    "games": [
+      "GRANDCROSS GOLD"
+    ]
+  },
+  {
+    "name": "ラウンドワン札幌白石本通店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "43.03673108",
+    "longitude": "141.4328227",
+    "tel": "011-865-8051",
+    "address": "札幌市白石区本通-16-北1-50",
+    "access": "",
+    "games": [
+      "GRANDCROSS GOLD"
+    ]
+  },
+  {
+    "name": "ラウンドワン旭川店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "43.78651521",
+    "longitude": "142.397308",
+    "tel": "0166-49-5071",
+    "address": "旭川市永山3条1-4-7",
+    "access": "",
+    "games": [
+      "GRANDCROSS GOLD"
+    ]
+  },
+  {
+    "name": "ラウンドワン姫路飾磨店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "34.79228629",
+    "longitude": "134.6871127",
+    "tel": "079-243-1830",
+    "address": "姫路市飾磨区中島1-254",
+    "access": "",
+    "games": [
+      "GRANDCROSS GOLD"
+    ]
+  },
+  {
+    "name": "ラウンドワン函館店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "41.82459206",
+    "longitude": "140.7173548",
+    "tel": "0138-49-8401",
+    "address": "函館市西桔梗町848-11",
+    "access": "",
+    "games": [
+      "GRANDCROSS GOLD"
+    ]
+  },
+  {
+    "name": "アミパラ加古川店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "34.75139256",
+    "longitude": "134.8287077",
+    "tel": "079-456-0044",
+    "address": "加古川市尾上町今福71-2",
+    "access": "JR播但線 京口駅 徒歩20分",
+    "games": [
+      "GRANDCROSS GOLD"
+    ]
+  },
+  {
+    "name": "ホムスタ加古川店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "34.74552902",
+    "longitude": "134.8355115",
+    "tel": "0794-56-2121",
+    "address": "加古川市尾上町安田351-1メガコート",
+    "access": "",
+    "games": [
+      "GRANDCROSS GOLD"
+    ]
+  },
+  {
+    "name": "ラウンドワン加古川店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "34.74708002",
+    "longitude": "134.836935",
+    "tel": "0794-29-2513",
+    "address": "加古川市尾上町安田字小河原325番6号",
+    "access": "",
+    "games": [
+      "GRANDCROSS GOLD"
+    ]
+  },
+  {
+    "name": "バイパスレジャーランド加賀店",
+    "operation_time": "一部24時間営業",
+    "holiday": "無し",
+    "latitude": "36.32515503",
+    "longitude": "136.4113746",
+    "tel": "0761-74-8007",
+    "address": "加賀市箱宮町ヲ1-1",
+    "access": "国道8号線加賀産業道路終点近く",
+    "games": [
+      "GRANDCROSS GOLD"
+    ]
+  },
+  {
+    "name": "バイパスレジャーランド藤江本館",
+    "operation_time": "一部24時間営業",
+    "holiday": "無し",
+    "latitude": "36.58397239",
+    "longitude": "136.621523",
+    "tel": "076-268-3798",
+    "address": "金沢市藤江南2-41",
+    "access": "国道8号線沿い藤江交差点近く",
+    "games": [
+      "GRANDCROSS GOLD"
+    ]
+  },
+  {
+    "name": "福井レジャーランド板垣店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "36.042283",
+    "longitude": "136.233748",
+    "tel": "0776-33-5510",
+    "address": "福井市下馬3-112",
+    "access": "",
+    "games": [
+      "GRANDCROSS GOLD"
+    ]
+  },
+  {
+    "name": "ラウンドワン金沢店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "36.54211559",
+    "longitude": "136.626054",
+    "tel": "076-245-1850",
+    "address": "金沢市横川6-120-1",
+    "access": "",
+    "games": [
+      "GRANDCROSS GOLD"
+    ]
+  },
+  {
+    "name": "ゲームパニック堺",
+    "operation_time": "10:00～23:45",
+    "holiday": "無し",
+    "latitude": "34.597817",
+    "longitude": "135.447433",
+    "tel": "072-224-8295",
+    "address": "堺市堺区築港八幡町1-1堺浜シーサイド内堺浜えんため館",
+    "access": "南海バス20系統「堺市内北回り」 堺駅西口→堺浜シーサイドステージ約17分 堺東駅→堺浜シーサイドステージ約25分",
+    "games": [
+      "GRANDCROSS GOLD"
+    ]
+  },
+  {
+    "name": "ラウンドワン千日前店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "34.667424",
+    "longitude": "135.5026714",
+    "tel": "06-4708-2600",
+    "address": "大阪市中央区難波1-3-1",
+    "access": "",
+    "games": [
+      "GRANDCROSS GOLD"
+    ]
+  },
+  {
+    "name": "ラウンドワン高槻店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "34.83266921",
+    "longitude": "135.6301782",
+    "tel": "072-672-9933",
+    "address": "高槻市辻子3-6-4",
+    "access": "",
+    "games": [
+      "GRANDCROSS GOLD"
+    ]
+  },
+  {
+    "name": "ラウンドワン和歌山店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "34.19849168",
+    "longitude": "135.1859428",
+    "tel": "073-421-8210",
+    "address": "和歌山市小雑賀739-3",
+    "access": "",
+    "games": [
+      "GRANDCROSS GOLD"
+    ]
+  },
+  {
+    "name": "ラウンドワン京都河原町店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "35.00699573",
+    "longitude": "135.7685149",
+    "tel": "075-213-8400",
+    "address": "京都市中京区河原町通り三条下ル山崎町250",
+    "access": "",
+    "games": [
+      "GRANDCROSS GOLD"
+    ]
+  },
+  {
+    "name": "ラウンドワン城東放出店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "34.69651235",
+    "longitude": "135.559648",
+    "tel": "06-6936-0100",
+    "address": "大阪市城東区今福南3-4-38",
+    "access": "",
+    "games": [
+      "GRANDCROSS GOLD"
+    ]
+  },
+  {
+    "name": "ラウンドワン京都伏見店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "34.93599659",
+    "longitude": "135.746198",
+    "tel": "075-622-9911",
+    "address": "京都市伏見区下鳥羽平塚町131",
+    "access": "",
+    "games": [
+      "GRANDCROSS GOLD"
+    ]
+  },
+  {
+    "name": "ラウンドワン堺中央環状店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "34.55707895",
+    "longitude": "135.5362412",
+    "tel": "072-253-9559",
+    "address": "堺市東区石原町2-241",
+    "access": "",
+    "games": [
+      "GRANDCROSS GOLD"
+    ]
+  },
+  {
+    "name": "ラウンドワン東大阪店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "34.6531932",
+    "longitude": "135.60637",
+    "tel": "06-6224-1700",
+    "address": "東大阪市若江南町1-2-12",
+    "access": "",
+    "games": [
+      "GRANDCROSS GOLD"
+    ]
+  },
+  {
+    "name": "ラウンドワン青森店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "40.79867718",
+    "longitude": "140.7483213",
+    "tel": "017-762-3591",
+    "address": "青森市浜田3-1-1",
+    "access": "",
+    "games": [
+      "GRANDCROSS GOLD"
+    ]
+  },
+  {
+    "name": "アピナ富山新庄店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "36.69533117",
+    "longitude": "137.2480753",
+    "tel": "076-491-7700",
+    "address": "富山市荒川3-2-12",
+    "access": "",
+    "games": [
+      "GRANDCROSS GOLD"
+    ]
+  },
+  {
+    "name": "ラウンドワンモレラ岐阜店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "35.455121",
+    "longitude": "136.672955",
+    "tel": "058-323-6600",
+    "address": "本巣市三橋1100",
+    "access": "",
+    "games": [
+      "GRANDCROSS GOLD"
+    ]
+  },
+  {
+    "name": "ラウンドワン名古屋西春店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "35.25506282",
+    "longitude": "136.8439405",
+    "tel": "0568-26-4001",
+    "address": "北名古屋市宇福寺神明15",
+    "access": "",
+    "games": [
+      "GRANDCROSS GOLD"
+    ]
+  },
+  {
+    "name": "ラウンドワンみえ川越IC店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "35.02319916",
+    "longitude": "136.6836502",
+    "tel": "059-361-2130",
+    "address": "三重郡川越町大字南福崎851-1",
+    "access": "",
+    "games": [
+      "GRANDCROSS GOLD"
+    ]
+  },
+  {
+    "name": "ラウンドワン新潟店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "37.88807436",
+    "longitude": "139.0177537",
+    "tel": "025-280-1322",
+    "address": "新潟市中央区美咲町2-1-38",
+    "access": "",
+    "games": [
+      "GRANDCROSS GOLD"
+    ]
+  },
+  {
+    "name": "ラウンドワン中川一号線店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "35.12338322",
+    "longitude": "136.8636484",
+    "tel": "052-665-5353",
+    "address": "名古屋市中川区法蔵町2-23",
+    "access": "",
+    "games": [
+      "GRANDCROSS GOLD"
+    ]
+  },
+  {
+    "name": "ラウンドワンイーアス春日井店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "35.25898",
+    "longitude": "136.98241",
+    "tel": "0568-86-1600",
+    "address": "春日井市六軒屋町東丘22区画番号3010",
+    "access": "",
+    "games": [
+      "GRANDCROSS GOLD"
+    ]
+  },
+  {
+    "name": "アピナ長岡店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "37.45794202",
+    "longitude": "138.8125194",
+    "tel": "0258-22-5510",
+    "address": "長岡市堺東町22",
+    "access": "国道8号線長岡バイパス堺交差点近く",
+    "games": [
+      "GRANDCROSS GOLD"
+    ]
+  },
+  {
+    "name": "ゲームパニック大高",
+    "operation_time": "9:00～23:45",
+    "holiday": "無し",
+    "latitude": "35.04850561",
+    "longitude": "136.9496236",
+    "tel": "052-625-5360",
+    "address": "名古屋市緑区忠治山201グランドボウルB2F",
+    "access": "国道23号線大高町共和IC側道グランドボウルB2階",
+    "games": [
+      "GRANDCROSS GOLD"
+    ]
+  },
+  {
+    "name": "ラウンドワン長野店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "36.65105714",
+    "longitude": "138.225192",
+    "tel": "026-254-5801",
+    "address": "長野市大字東和田827-6",
+    "access": "",
+    "games": [
+      "GRANDCROSS GOLD"
+    ]
+  },
+  {
+    "name": "アピナ長野村山店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "36.6682177",
+    "longitude": "138.2633103",
+    "tel": "0262-95-9911",
+    "address": "長野市村山502-1アミューズメントプレイスアピナ",
+    "access": "R18号アップルライン入口",
+    "games": [
+      "GRANDCROSS GOLD"
+    ]
+  },
+  {
+    "name": "ラウンドワン半田店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "34.88609688",
+    "longitude": "136.9412056",
+    "tel": "0569-25-7351",
+    "address": "半田市瑞穂町6-7-8",
+    "access": "",
+    "games": [
+      "GRANDCROSS GOLD"
+    ]
+  },
+  {
+    "name": "アピナ塩尻店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "36.14140932",
+    "longitude": "137.9536147",
+    "tel": "026-351-5511",
+    "address": "塩尻市広丘野村1794-1",
+    "access": "国道19号線沿い野村交差点から塩尻方面",
+    "games": [
+      "GRANDCROSS GOLD"
+    ]
+  },
+  {
+    "name": "アピナ上田店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "36.416102",
+    "longitude": "138.223307",
+    "tel": "0268-75-8055",
+    "address": "上田市秋和359-1",
+    "access": "",
+    "games": [
+      "GRANDCROSS GOLD"
+    ]
+  },
+  {
+    "name": "ラウンドワン豊橋店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "34.7239242",
+    "longitude": "137.4323261",
+    "tel": "0532-65-2212",
+    "address": "豊橋市大岩町字岩田27-2",
+    "access": "",
+    "games": [
+      "GRANDCROSS GOLD"
+    ]
+  },
+  {
+    "name": "群馬レジャーランド渋川店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "36.4742053",
+    "longitude": "139.0154654",
+    "tel": "0279-25-0718",
+    "address": "渋川市八木原1364",
+    "access": "",
+    "games": [
+      "GRANDCROSS GOLD"
+    ]
+  },
+  {
+    "name": "群馬レジャーランド高崎駅東口店",
+    "operation_time": "一部24時間営業",
+    "holiday": "無し",
+    "latitude": "36.32992086",
+    "longitude": "139.0128661",
+    "tel": "027-330-3002",
+    "address": "高崎市江木町333-1高崎EXビル2F",
+    "access": "JR高崎駅東口徒歩10分",
+    "games": [
+      "GRANDCROSS GOLD"
+    ]
+  },
+  {
+    "name": "ラウンドワン前橋店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "36.36888377",
+    "longitude": "139.1051864",
+    "tel": "027-287-1501",
+    "address": "前橋市天川大島町1101-1",
+    "access": "",
+    "games": [
+      "GRANDCROSS GOLD"
+    ]
+  },
+  {
+    "name": "群馬レジャーランド藤岡店",
+    "operation_time": "一部24時間営業",
+    "holiday": "",
+    "latitude": "36.27426745",
+    "longitude": "139.0718857",
+    "tel": "0274-40-2371",
+    "address": "藤岡市中2002-1",
+    "access": "県道13号沿い、上信越道藤岡IC北 カーオプション店『ピット100』2階",
+    "games": [
+      "GRANDCROSS GOLD"
+    ]
+  },
+  {
+    "name": "ラウンドワンスタジアム仙台泉店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "38.35192551",
+    "longitude": "140.8797545",
+    "tel": "022-347-4471",
+    "address": "仙台市泉区大沢2-12-4仙台泉インターシティ1F",
+    "access": "",
+    "games": [
+      "GRANDCROSS GOLD"
+    ]
+  },
+  {
+    "name": "群馬レジャーランド伊勢崎店",
+    "operation_time": "一部24時間営業",
+    "holiday": "無し",
+    "latitude": "36.31824274",
+    "longitude": "139.1723592",
+    "tel": "0270-40-5330",
+    "address": "伊勢崎市連取町3066-1",
+    "access": "伊勢崎市内県道2号線沿い伊勢崎オート近く",
+    "games": [
+      "GRANDCROSS GOLD"
+    ]
+  },
+  {
+    "name": "群馬レジャーランド太田店",
+    "operation_time": "一部24時間営業",
+    "holiday": "無し",
+    "latitude": "36.26802219",
+    "longitude": "139.3761382",
+    "tel": "0276-47-8030",
+    "address": "太田市西矢島町162-2",
+    "access": "",
+    "games": [
+      "GRANDCROSS GOLD"
+    ]
+  },
+  {
+    "name": "ドラマ足利店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "36.32220259",
+    "longitude": "139.4503607",
+    "tel": "0284-73-9559",
+    "address": "足利市朝倉町244-1",
+    "access": "東武伊勢崎線足利市駅より徒歩10分",
+    "games": [
+      "GRANDCROSS GOLD"
+    ]
+  },
+  {
+    "name": "ラウンドワン静岡･駿河店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "34.950991",
+    "longitude": "138.360524",
+    "tel": "054-201-1601",
+    "address": "静岡市駿河区向手越1-10-1",
+    "access": "",
+    "games": [
+      "GRANDCROSS GOLD"
+    ]
+  },
+  {
+    "name": "ラウンドワン郡山店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "37.40229903",
+    "longitude": "140.3957065",
+    "tel": "024-941-3191",
+    "address": "郡山市向河原町4-55",
+    "access": "",
+    "games": [
+      "GRANDCROSS GOLD"
+    ]
+  },
+  {
+    "name": "ラウンドワン富士店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "35.15310644",
+    "longitude": "138.6938016",
+    "tel": "0545-51-3636",
+    "address": "富士市八代町4-15",
+    "access": "",
+    "games": [
+      "GRANDCROSS GOLD"
+    ]
+  },
+  {
+    "name": "ラウンドワンさいたま･鴻巣店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "36.08064011",
+    "longitude": "139.4902201",
+    "tel": "048-595-2001",
+    "address": "鴻巣市箕田3163-7",
+    "access": "",
+    "games": [
+      "GRANDCROSS GOLD"
+    ]
+  },
+  {
+    "name": "ドラマ瑞穂店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.76337213",
+    "longitude": "139.3568934",
+    "tel": "042-556-6605",
+    "address": "西多摩郡瑞穂町武蔵382-1",
+    "access": "JR八高線「箱根ヶ崎駅」から武蔵村山市方面に徒歩25分",
+    "games": [
+      "GRANDCROSS GOLD"
+    ]
+  },
+  {
+    "name": "アピナ小山店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "36.300419",
+    "longitude": "139.809126",
+    "tel": "0285-31-0050",
+    "address": "小山市駅南町4-27-18",
+    "access": "国道50号線沿い駅南町交差点",
+    "games": [
+      "GRANDCROSS GOLD"
+    ]
+  },
+  {
+    "name": "アピナ川越店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.9037481",
+    "longitude": "139.5155363",
+    "tel": "049-230-1068",
+    "address": "川越市泉町1-1",
+    "access": "JR川越線南古谷駅徒歩3分",
+    "games": [
+      "GRANDCROSS GOLD"
+    ]
+  },
+  {
+    "name": "ラウンドワン所沢店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "35.78935214",
+    "longitude": "139.4700049",
+    "tel": "04-2940-8631",
+    "address": "所沢市東町5-22TOCOTOCO SQUARE6F",
+    "access": "",
+    "games": [
+      "GRANDCROSS GOLD"
+    ]
+  },
+  {
+    "name": "アピナ橋本店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.597682",
+    "longitude": "139.337035",
+    "tel": "042-703-6033",
+    "address": "相模原市緑区西橋本5-1-1ラ･フロール駐車場棟1F",
+    "access": "橋本駅から徒歩10分 八王子バイパスから津久井街道へ繋がる側道に入ってすぐ",
+    "games": [
+      "GRANDCROSS GOLD"
+    ]
+  },
+  {
+    "name": "ラウンドワン朝霞店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "35.79026242",
+    "longitude": "139.5796756",
+    "tel": "048-450-1822",
+    "address": "朝霞市膝折町2-16-10",
+    "access": "",
+    "games": [
+      "GRANDCROSS GOLD"
+    ]
+  },
+  {
+    "name": "埼玉レジャーランド春日部店",
+    "operation_time": "一部24時間",
+    "holiday": "無し",
+    "latitude": "35.95940469",
+    "longitude": "139.7289621",
+    "tel": "048-763-4061",
+    "address": "春日部市大字増富字谷際163-1",
+    "access": "国道16号線沿い春日部市増富地内",
+    "games": [
+      "GRANDCROSS GOLD"
+    ]
+  },
+  {
+    "name": "神奈川レジャーランド厚木店",
+    "operation_time": "一部24時間営業",
+    "holiday": "無し",
+    "latitude": "35.44802433",
+    "longitude": "139.3431365",
+    "tel": "050-1722-4336",
+    "address": "厚木市戸室5-31-1",
+    "access": "小田急本厚木駅よりバスにてアンリツ前バス停下車徒歩1分",
+    "games": [
+      "GRANDCROSS GOLD"
+    ]
+  },
+  {
+    "name": "千葉レジャーランド野田店",
+    "operation_time": "一部24時間営業",
+    "holiday": "無し",
+    "latitude": "35.97154747",
+    "longitude": "139.8653487",
+    "tel": "04-7120-3535",
+    "address": "野田市吉春776-1",
+    "access": "国道16号線沿い野田市吉春地内",
+    "games": [
+      "GRANDCROSS GOLD"
+    ]
+  },
+  {
+    "name": "ゲームシティ川口店",
+    "operation_time": "10:00～23:50",
+    "holiday": "無し",
+    "latitude": "35.80263316",
+    "longitude": "139.7255584",
+    "tel": "048-250-3855",
+    "address": "川口市栄町1-10-5",
+    "access": "JR川口駅東口徒歩10分",
+    "games": [
+      "GRANDCROSS GOLD"
+    ]
+  },
+  {
+    "name": "ラウンドワン草加店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "35.81240056",
+    "longitude": "139.7878993",
+    "tel": "048-920-3701",
+    "address": "草加市谷塚上町204-1",
+    "access": "",
+    "games": [
+      "GRANDCROSS GOLD"
+    ]
+  },
+  {
+    "name": "ラウンドワンららぽーと新三郷店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "35.859813",
+    "longitude": "139.865774",
+    "tel": "048-950-7501",
+    "address": "三郷市新三郷ららシティ3-1-1ららぽーと新三郷 2F",
+    "access": "",
+    "games": [
+      "GRANDCROSS GOLD"
+    ]
+  },
+  {
+    "name": "ドラマ港北インター店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.51925659",
+    "longitude": "139.5847927",
+    "tel": "045-474-6604",
+    "address": "横浜市都筑区東方町321-6",
+    "access": "第三京浜港北IC右側交差点左折約500M",
+    "games": [
+      "GRANDCROSS GOLD"
+    ]
+  },
+  {
+    "name": "ゲームパニック三郷",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "35.84215546",
+    "longitude": "139.8548102",
+    "tel": "048-953-8295",
+    "address": "三郷市ピアラシティ1-1-200",
+    "access": "",
+    "games": [
+      "GRANDCROSS GOLD"
+    ]
+  },
+  {
+    "name": "ドラマ藤沢店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.35751243",
+    "longitude": "139.4682681",
+    "tel": "0466-82-0328",
+    "address": "藤沢市本藤沢5-6-8",
+    "access": "小田急江ノ島線善行駅より徒歩15分",
+    "games": [
+      "GRANDCROSS GOLD"
+    ]
+  },
+  {
+    "name": "タイトーFステーションオリナス錦糸町店",
+    "operation_time": "10:00～23:45",
+    "holiday": "無し",
+    "latitude": "35.700721",
+    "longitude": "139.816024",
+    "tel": "03-5610-7376",
+    "address": "墨田区太平4-1-2オリナスB1F",
+    "access": "JR総武線錦糸町駅北口から徒歩5分",
+    "games": [
+      "GRANDCROSS GOLD"
+    ]
+  },
+  {
+    "name": "ラウンドワン南砂店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "35.67184786",
+    "longitude": "139.8361845",
+    "tel": "03-5617-6911",
+    "address": "江東区南砂6-7-15トピレックプラザ4F",
+    "access": "",
+    "games": [
+      "GRANDCROSS GOLD"
+    ]
+  },
+  {
+    "name": "ラウンドワン川崎大師店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "35.53846653",
+    "longitude": "139.741634",
+    "tel": "044-270-1541",
+    "address": "川崎市川崎区殿町1-5-1",
+    "access": "",
+    "games": [
+      "GRANDCROSS GOLD"
+    ]
+  },
+  {
+    "name": "ゲームパニックつくば",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "36.04632758",
+    "longitude": "140.1679958",
+    "tel": "080-3350-1839",
+    "address": "土浦市中村東1-1-1",
+    "access": "",
+    "games": [
+      "GRANDCROSS GOLD"
+    ]
+  },
+  {
+    "name": "ラウンドワンアリオ柏店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "35.832403",
+    "longitude": "140.012023",
+    "tel": "04-7190-1201",
+    "address": "柏市大島田1-6-1セブンパークアリオ柏 1070",
+    "access": "",
+    "games": [
+      "GRANDCROSS GOLD"
+    ]
+  },
+  {
+    "name": "ラウンドワン市川鬼高店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "35.711239",
+    "longitude": "139.927465",
+    "tel": "047-320-3801",
+    "address": "市川市鬼高4-1-3",
+    "access": "",
+    "games": [
+      "GRANDCROSS GOLD"
+    ]
+  },
+  {
+    "name": "スポーツウェーブ鉄腕24稲毛長沼店",
+    "operation_time": "一部24時間営業",
+    "holiday": "無し",
+    "latitude": "35.66179317",
+    "longitude": "140.1264239",
+    "tel": "043-215-5560",
+    "address": "千葉市稲毛区長沼原町697",
+    "access": "東関東自動車道 千葉北ICから約5分 千葉総合運動場そば",
+    "games": [
+      "GRANDCROSS GOLD"
+    ]
+  },
+  {
+    "name": "スポーツウェーブ鉄腕24浜野店",
+    "operation_time": "一部24時間営業",
+    "holiday": "無し",
+    "latitude": "35.55423187",
+    "longitude": "140.1264305",
+    "tel": "043-300-8033",
+    "address": "千葉市中央区浜野町1025-59",
+    "access": "館山自動車道蘇我ICより車で8分",
+    "games": [
+      "GRANDCROSS GOLD"
+    ]
+  },
+  {
+    "name": "千葉レジャーランド成東店",
+    "operation_time": "一部24時間営業",
+    "holiday": "無し",
+    "latitude": "35.58828462",
+    "longitude": "140.3904243",
+    "tel": "047-580-1777",
+    "address": "山武市姫島111-1",
+    "access": "国道126号線成東町姫島地内ローソン奥",
+    "games": [
+      "GRANDCROSS GOLD"
+    ]
+  }
+]
