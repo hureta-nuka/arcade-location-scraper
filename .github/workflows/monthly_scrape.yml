@@ -1,4 +1,4 @@
-name: Daily Scrape
+name: Monthly Scrape
 
 permissions:
   contents: write
