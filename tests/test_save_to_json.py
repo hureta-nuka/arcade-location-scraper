@@ -1,14 +1,12 @@
 import json
 from pathlib import Path
 from main import save_to_json
+import pytest
 
-def test_save_to_json(tmp_path: Path):
-    '''save_to_jsonが正しく動くかテスト'''
-    # 1.テスト用ファイルパス
-    test_file = tmp_path / "test_shop_data.json"
-
-    # 2.テストデータ
-    test_data = {
+@pytest.fixture
+def test_data():
+    '''テストデータ'''
+    return  {
         "shops": [{
             "name": "アミパラ佐世保店",
             "operation_time": "10:00～24:00",
@@ -26,7 +24,15 @@ def test_save_to_json(tmp_path: Path):
         "description": "KONAMI e-amusement店舗検索から取得した全店舗データ"
     }
 
-    # 3.テストデータ保存
+def test_save_to_json(tmp_path: Path, test_data: dict):
+    '''save_to_jsonが正しく動くかテスト'''
+    # 関数が存在するか確認
+    assert callable(save_to_json)
+
+    # テスト用ファイルパス
+    test_file = tmp_path / "test_shop_data.json"
+
+    # テストデータ保存
     save_to_json(test_data, test_file)
 
     # ファイル生成確認
