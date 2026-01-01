@@ -1,0 +1,223 @@
+[
+  {
+    "name": "アミパラ佐世保店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "33.15005741",
+    "longitude": "129.7804145",
+    "tel": "0956-34-8880",
+    "address": "佐世保市大塔町18-15",
+    "access": "JR大塔駅徒歩3分",
+    "games": [
+      "FORTUNE TRINITY 精霊の至宝祭"
+    ]
+  },
+  {
+    "name": "パスカランド長嶺店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "32.811421",
+    "longitude": "130.76182",
+    "tel": "096-282-8662",
+    "address": "熊本市東区長嶺西1-5-1シュロアモール長嶺内",
+    "access": "",
+    "games": [
+      "FORTUNE TRINITY 精霊の至宝祭"
+    ]
+  },
+  {
+    "name": "アミパラ周南久米店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "34.03737576",
+    "longitude": "131.8441913",
+    "tel": "083-436-1234",
+    "address": "周南市久米中央5-6-1イオンタウン周南久米内",
+    "access": "",
+    "games": [
+      "FORTUNE TRINITY 精霊の至宝祭"
+    ]
+  },
+  {
+    "name": "アミパラ日吉津店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.44581571",
+    "longitude": "133.3869124",
+    "tel": "0859-37-1959",
+    "address": "西伯郡日吉津村日吉津1160-1イオン日吉津SC西館2F",
+    "access": "米子道米子ICより北へ車で5分 イオン日吉津ショッピングセンター西館1階",
+    "games": [
+      "FORTUNE TRINITY 精霊の至宝祭"
+    ]
+  },
+  {
+    "name": "アミパラ丸亀店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "34.28466398",
+    "longitude": "133.8209638",
+    "tel": "0877-24-6666",
+    "address": "丸亀市飯野町西分字川縁甲584-1ハローズ棟",
+    "access": "坂出ICから5分国道11号線沿い ニトリ隣",
+    "games": [
+      "FORTUNE TRINITY 精霊の至宝祭"
+    ]
+  },
+  {
+    "name": "アミパラ高知店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "33.56792315",
+    "longitude": "133.6344447",
+    "tel": "088-863-4343",
+    "address": "南国市篠原194-1",
+    "access": "南国ICを降りて南に突き当たり、東へ1km",
+    "games": [
+      "FORTUNE TRINITY 精霊の至宝祭"
+    ]
+  },
+  {
+    "name": "ゲームパニック大高",
+    "operation_time": "9:00～23:45",
+    "holiday": "無し",
+    "latitude": "35.04850561",
+    "longitude": "136.9496236",
+    "tel": "052-625-5360",
+    "address": "名古屋市緑区忠治山201グランドボウルB2F",
+    "access": "国道23号線大高町共和IC側道グランドボウルB2階",
+    "games": [
+      "FORTUNE TRINITY 精霊の至宝祭"
+    ]
+  },
+  {
+    "name": "アピナ佐久インター店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "36.284455",
+    "longitude": "138.482344",
+    "tel": "026-778-3399",
+    "address": "佐久市岩村田北1-13-1",
+    "access": "佐久インター近く",
+    "games": [
+      "FORTUNE TRINITY 精霊の至宝祭"
+    ]
+  },
+  {
+    "name": "パルケデアミーゴ",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "38.28378194",
+    "longitude": "140.3216374",
+    "tel": "023-682-1613",
+    "address": "山形市嶋北1-3-1",
+    "access": "",
+    "games": [
+      "FORTUNE TRINITY 精霊の至宝祭"
+    ]
+  },
+  {
+    "name": "GAME BANK",
+    "operation_time": "9:00～24:00",
+    "holiday": "無し",
+    "latitude": "38.352801",
+    "longitude": "140.877385",
+    "tel": "022-776-5677",
+    "address": "仙台市泉区大沢2-5-4",
+    "access": "東北自動車道 泉インター直ぐ",
+    "games": [
+      "FORTUNE TRINITY 精霊の至宝祭"
+    ]
+  },
+  {
+    "name": "ウェアハウス上尾店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.98142891",
+    "longitude": "139.5998843",
+    "tel": "048-770-3332",
+    "address": "上尾市二ツ宮1044",
+    "access": "R17号より蓮田、伊奈方面車で3分",
+    "games": [
+      "FORTUNE TRINITY 精霊の至宝祭"
+    ]
+  },
+  {
+    "name": "ウェアハウス三橋店",
+    "operation_time": "一部24時間営業",
+    "holiday": "無し",
+    "latitude": "35.91589833",
+    "longitude": "139.5959286",
+    "tel": "048-795-8380",
+    "address": "さいたま市西区三橋6-955-1",
+    "access": "国道17号バイパス三橋六丁目交差点",
+    "games": [
+      "FORTUNE TRINITY 精霊の至宝祭"
+    ]
+  },
+  {
+    "name": "ウェアハウス岩槻店",
+    "operation_time": "7:00～23:45",
+    "holiday": "無し",
+    "latitude": "35.94092949",
+    "longitude": "139.6859268",
+    "tel": "048-758-8755",
+    "address": "さいたま市岩槻区加倉3-3-63",
+    "access": "岩槻IC降りて直ぐ",
+    "games": [
+      "FORTUNE TRINITY 精霊の至宝祭"
+    ]
+  },
+  {
+    "name": "ギガステーション戸田店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.83477805",
+    "longitude": "139.6530213",
+    "tel": "048-421-1201",
+    "address": "戸田市美女木943-7",
+    "access": "",
+    "games": [
+      "FORTUNE TRINITY 精霊の至宝祭"
+    ]
+  },
+  {
+    "name": "ウェアハウス越谷店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.91195206",
+    "longitude": "139.7637557",
+    "tel": "048-973-4311",
+    "address": "越谷市大字南荻島841-1",
+    "access": "越谷岩槻線沿い、国道4号から車で1分",
+    "games": [
+      "FORTUNE TRINITY 精霊の至宝祭"
+    ]
+  },
+  {
+    "name": "サープラ八潮あそびタウン",
+    "operation_time": "9:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.80837561",
+    "longitude": "139.8437875",
+    "tel": "048-994-5377",
+    "address": "八潮市大瀬1-1-3フレスポ八潮3F",
+    "access": "つくばエクスプレス・八潮駅隣接フレスポ八潮3F",
+    "games": [
+      "FORTUNE TRINITY 精霊の至宝祭"
+    ]
+  },
+  {
+    "name": "シルクハット津田沼",
+    "operation_time": "9:00～23:45",
+    "holiday": "無し",
+    "latitude": "35.69040687",
+    "longitude": "140.0221583",
+    "tel": "",
+    "address": "習志野市津田沼1-2-1十三ビルB1F",
+    "access": "JR津田沼駅、京成新津田沼駅徒歩1分",
+    "games": [
+      "FORTUNE TRINITY 精霊の至宝祭"
+    ]
+  }
+]

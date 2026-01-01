@@ -1,0 +1,93 @@
+[
+  {
+    "name": "遊道楽 嘉瀬店",
+    "operation_time": "11:00～24:00",
+    "holiday": "無し",
+    "latitude": "33.24215325",
+    "longitude": "130.2565663",
+    "tel": "0952-40-0952",
+    "address": "佐賀市嘉瀬町大字中原2488-1",
+    "access": "207号線沿い",
+    "games": [
+      "Venus Fountain"
+    ]
+  },
+  {
+    "name": "キャッツアイ篠路店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "43.14070168",
+    "longitude": "141.3571701",
+    "tel": "011-776-1500",
+    "address": "札幌市北区篠路1条4-6-30",
+    "access": "JR篠路駅下車徒歩20分",
+    "games": [
+      "Venus Fountain"
+    ]
+  },
+  {
+    "name": "アピナ富山豊田店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "36.7211336",
+    "longitude": "137.2352552",
+    "tel": "076-433-3355",
+    "address": "富山市豊田町2-12-66",
+    "access": "国道8号線豊田東交差点近く",
+    "games": [
+      "Venus Fountain"
+    ]
+  },
+  {
+    "name": "メダルパーク メダパ新発田店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "37.95292049",
+    "longitude": "139.2953607",
+    "tel": "0254-28-9015",
+    "address": "新発田市新栄町3-4-26",
+    "access": "",
+    "games": [
+      "Venus Fountain"
+    ]
+  },
+  {
+    "name": "安城メトロポリス",
+    "operation_time": "平日10:00～24:00、土日祝日9:00～24:00",
+    "holiday": "無し",
+    "latitude": "34.95485697",
+    "longitude": "137.0975854",
+    "tel": "0566-74-8238",
+    "address": "安城市浜富町6-8",
+    "access": "JR東海道本線安城駅より車で3分・徒歩10分",
+    "games": [
+      "Venus Fountain"
+    ]
+  },
+  {
+    "name": "ゲームコーナー東部",
+    "operation_time": "9:00～24:00",
+    "holiday": "無し",
+    "latitude": "38.25101621",
+    "longitude": "140.9438974",
+    "tel": "022-287-5880",
+    "address": "仙台市若林区六丁の目中町26-60",
+    "access": "六丁目の交差点より多賀城方面へ向かい車で5分。産業通り沿い。",
+    "games": [
+      "Venus Fountain"
+    ]
+  },
+  {
+    "name": "大慶園",
+    "operation_time": "一部24時間営業",
+    "holiday": "無し",
+    "latitude": "35.76304297",
+    "longitude": "139.96933",
+    "tel": "047-337-5001",
+    "address": "市川市大町359",
+    "access": "JR市川大野駅下車 市川植物園行きバス乗車 市川斎場前下車徒歩10分・北総線大町駅から車5分",
+    "games": [
+      "Venus Fountain"
+    ]
+  }
+]

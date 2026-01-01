@@ -1,0 +1,106 @@
+[
+  {
+    "name": "ゲームアイビス太子店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "34.83203126",
+    "longitude": "134.6001053",
+    "tel": "0792-77-2320",
+    "address": "揖保郡太子町太田2148-1",
+    "access": "姫路バイパス太子ランプより相生方面へ車で5分",
+    "games": [
+      "GI-Turf TV"
+    ]
+  },
+  {
+    "name": "ラウンドワン豊中店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "34.75733488",
+    "longitude": "135.465555",
+    "tel": "06-6865-2200",
+    "address": "豊中市名神口1-1-1",
+    "access": "",
+    "games": [
+      "GI-Turf TV"
+    ]
+  },
+  {
+    "name": "ラウンドワン東淀川店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "34.74289355",
+    "longitude": "135.5255278",
+    "tel": "06-6160-2221",
+    "address": "大阪市東淀川区菅原7-14-29",
+    "access": "",
+    "games": [
+      "GI-Turf TV"
+    ]
+  },
+  {
+    "name": "ラウンドワン堺中央環状店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "34.55707895",
+    "longitude": "135.5362412",
+    "tel": "072-253-9559",
+    "address": "堺市東区石原町2-241",
+    "access": "",
+    "games": [
+      "GI-Turf TV"
+    ]
+  },
+  {
+    "name": "ラウンドワン府中本町駅前店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "35.667312",
+    "longitude": "139.477387",
+    "tel": "042-340-4901",
+    "address": "府中市本町1-13-3カネタビル",
+    "access": "",
+    "games": [
+      "GI-Turf TV"
+    ]
+  },
+  {
+    "name": "アドアーズ亀戸店",
+    "operation_time": "10:00～23:45",
+    "holiday": "無し",
+    "latitude": "35.69873199",
+    "longitude": "139.8259341",
+    "tel": "03-5836-5761",
+    "address": "江東区亀戸5-2-6サンエービル1-5F",
+    "access": "明治通りラーメン「日高屋」隣",
+    "games": [
+      "GI-Turf TV"
+    ]
+  },
+  {
+    "name": "ラウンドワン南砂店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "35.67184786",
+    "longitude": "139.8361845",
+    "tel": "03-5617-6911",
+    "address": "江東区南砂6-7-15トピレックプラザ4F",
+    "access": "",
+    "games": [
+      "GI-Turf TV"
+    ]
+  },
+  {
+    "name": "ラウンドワン市川鬼高店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "35.711239",
+    "longitude": "139.927465",
+    "tel": "047-320-3801",
+    "address": "市川市鬼高4-1-3",
+    "access": "",
+    "games": [
+      "GI-Turf TV"
+    ]
+  }
+]

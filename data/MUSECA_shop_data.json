@@ -1,0 +1,80 @@
+[
+  {
+    "name": "G-STAGE小倉店",
+    "operation_time": "10:00～20:00",
+    "holiday": "無し",
+    "latitude": "33.88758128",
+    "longitude": "130.8847829",
+    "tel": "093-551-3133",
+    "address": "北九州市小倉北区浅野2-14-5",
+    "access": "小倉駅前あるあるシティ2F",
+    "games": [
+      "MUSECA"
+    ]
+  },
+  {
+    "name": "プレイハウスエリナ",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "37.71741366",
+    "longitude": "138.8908286",
+    "tel": "0256-82-4541",
+    "address": "新潟市西蒲区津雲田640",
+    "access": "JR「岩室駅」より車で5分。駅より国道116号を南下し国道沿い右側。",
+    "games": [
+      "MUSECA"
+    ]
+  },
+  {
+    "name": "タイトーステーションフェドラ大須店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.15945319",
+    "longitude": "136.9054236",
+    "tel": "052-242-2011",
+    "address": "名古屋市中区大須3-30-31萬松寺駐車場ビル1F･2F",
+    "access": "地下鉄名城線上前津駅より徒歩1分",
+    "games": [
+      "MUSECA"
+    ]
+  },
+  {
+    "name": "タイトーFステーション郡山アティ店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "37.3969187",
+    "longitude": "140.3875023",
+    "tel": "024-990-2368",
+    "address": "郡山市駅前1-16-7郡山アティ7F",
+    "access": "",
+    "games": [
+      "MUSECA"
+    ]
+  },
+  {
+    "name": "WORLD GAME CIRCUS",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "35.69651",
+    "longitude": "139.42878",
+    "tel": "042-512-5610",
+    "address": "立川市羽衣町2-4-13羽衣長田ビル101",
+    "access": "",
+    "games": [
+      "MUSECA"
+    ]
+  },
+  {
+    "name": "GiGOデイズタウンつくば",
+    "operation_time": "10:00～24:00",
+    "holiday": "無休",
+    "latitude": "36.07768145",
+    "longitude": "140.1153322",
+    "tel": "070-1459-0875",
+    "address": "つくば市竹園1-9-2デイズタウンつくばB1F",
+    "access": "つくば駅徒歩5分デイズタウンつくばB1F",
+    "games": [
+      "MUSECA"
+    ]
+  }
+]

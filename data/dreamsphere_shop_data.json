@@ -1,0 +1,249 @@
+[
+  {
+    "name": "スポラ菊陽店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "32.86472855",
+    "longitude": "130.8092457",
+    "tel": "096-213-5720",
+    "address": "菊池郡菊陽町津久礼駄飼代2617-2",
+    "access": "",
+    "games": [
+      "DreamSphere GRANDCROSS"
+    ]
+  },
+  {
+    "name": "福山メトロポリス",
+    "operation_time": "10:00～23:50",
+    "holiday": "無し",
+    "latitude": "34.46583759",
+    "longitude": "133.407424",
+    "tel": "084-981-5095",
+    "address": "福山市一文字町24-1",
+    "access": "JR東福山駅より車で10分",
+    "games": [
+      "DreamSphere GRANDCROSS"
+    ]
+  },
+  {
+    "name": "キャッツアイ篠路店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "43.14070168",
+    "longitude": "141.3571701",
+    "tel": "011-776-1500",
+    "address": "札幌市北区篠路1条4-6-30",
+    "access": "JR篠路駅下車徒歩20分",
+    "games": [
+      "DreamSphere GRANDCROSS"
+    ]
+  },
+  {
+    "name": "キャッツアイ新札幌店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "43.04493545",
+    "longitude": "141.4754191",
+    "tel": "011-899-1500",
+    "address": "札幌市厚別区厚別東5条1-2-10",
+    "access": "JR、札幌市営地下鉄新札幌駅下車徒歩20分",
+    "games": [
+      "DreamSphere GRANDCROSS"
+    ]
+  },
+  {
+    "name": "キャッツアイ清田店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "43.00286736",
+    "longitude": "141.4364379",
+    "tel": "011-884-2828",
+    "address": "札幌市清田区清田1条1-20-1",
+    "access": "国道36号線、札幌ドームより車5分",
+    "games": [
+      "DreamSphere GRANDCROSS"
+    ]
+  },
+  {
+    "name": "バイパスレジャーランド藤江本館",
+    "operation_time": "一部24時間営業",
+    "holiday": "無し",
+    "latitude": "36.58397239",
+    "longitude": "136.621523",
+    "tel": "076-268-3798",
+    "address": "金沢市藤江南2-41",
+    "access": "国道8号線沿い藤江交差点近く",
+    "games": [
+      "DreamSphere GRANDCROSS"
+    ]
+  },
+  {
+    "name": "ゲームパニック堺",
+    "operation_time": "10:00～23:45",
+    "holiday": "無し",
+    "latitude": "34.597817",
+    "longitude": "135.447433",
+    "tel": "072-224-8295",
+    "address": "堺市堺区築港八幡町1-1堺浜シーサイド内堺浜えんため館",
+    "access": "南海バス20系統「堺市内北回り」 堺駅西口→堺浜シーサイドステージ約17分 堺東駅→堺浜シーサイドステージ約25分",
+    "games": [
+      "DreamSphere GRANDCROSS"
+    ]
+  },
+  {
+    "name": "メジャーロード黒埼店",
+    "operation_time": "8:00～24:00",
+    "holiday": "無し",
+    "latitude": "37.8682122",
+    "longitude": "139.0173084",
+    "tel": "025-370-7300",
+    "address": "新潟市西区山田3303",
+    "access": "黒埼IC降りて国道8号を白根方面へ走りサントノーレ裏。",
+    "games": [
+      "DreamSphere GRANDCROSS"
+    ]
+  },
+  {
+    "name": "GiGO長久手",
+    "operation_time": "9:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.17139252",
+    "longitude": "137.045573",
+    "tel": "0561-64-5205",
+    "address": "長久手市武蔵塚705",
+    "access": "",
+    "games": [
+      "DreamSphere GRANDCROSS"
+    ]
+  },
+  {
+    "name": "群馬レジャーランド藤岡店",
+    "operation_time": "一部24時間営業",
+    "holiday": "",
+    "latitude": "36.27426745",
+    "longitude": "139.0718857",
+    "tel": "0274-40-2371",
+    "address": "藤岡市中2002-1",
+    "access": "県道13号沿い、上信越道藤岡IC北 カーオプション店『ピット100』2階",
+    "games": [
+      "DreamSphere GRANDCROSS"
+    ]
+  },
+  {
+    "name": "群馬レジャーランド伊勢崎店",
+    "operation_time": "一部24時間営業",
+    "holiday": "無し",
+    "latitude": "36.31824274",
+    "longitude": "139.1723592",
+    "tel": "0270-40-5330",
+    "address": "伊勢崎市連取町3066-1",
+    "access": "伊勢崎市内県道2号線沿い伊勢崎オート近く",
+    "games": [
+      "DreamSphere GRANDCROSS"
+    ]
+  },
+  {
+    "name": "群馬レジャーランド太田店",
+    "operation_time": "一部24時間営業",
+    "holiday": "無し",
+    "latitude": "36.26802219",
+    "longitude": "139.3761382",
+    "tel": "0276-47-8030",
+    "address": "太田市西矢島町162-2",
+    "access": "",
+    "games": [
+      "DreamSphere GRANDCROSS"
+    ]
+  },
+  {
+    "name": "アピナ上尾店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "35.987191",
+    "longitude": "139.579877",
+    "tel": "048-783-4747",
+    "address": "上尾市緑丘3-3-11-2プリンセス棟別棟",
+    "access": "",
+    "games": [
+      "DreamSphere GRANDCROSS"
+    ]
+  },
+  {
+    "name": "アピナ川越店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.9037481",
+    "longitude": "139.5155363",
+    "tel": "049-230-1068",
+    "address": "川越市泉町1-1",
+    "access": "JR川越線南古谷駅徒歩3分",
+    "games": [
+      "DreamSphere GRANDCROSS"
+    ]
+  },
+  {
+    "name": "ウェアハウス三橋店",
+    "operation_time": "一部24時間営業",
+    "holiday": "無し",
+    "latitude": "35.91589833",
+    "longitude": "139.5959286",
+    "tel": "048-795-8380",
+    "address": "さいたま市西区三橋6-955-1",
+    "access": "国道17号バイパス三橋六丁目交差点",
+    "games": [
+      "DreamSphere GRANDCROSS"
+    ]
+  },
+  {
+    "name": "神奈川レジャーランド厚木店",
+    "operation_time": "一部24時間営業",
+    "holiday": "無し",
+    "latitude": "35.44802433",
+    "longitude": "139.3431365",
+    "tel": "050-1722-4336",
+    "address": "厚木市戸室5-31-1",
+    "access": "小田急本厚木駅よりバスにてアンリツ前バス停下車徒歩1分",
+    "games": [
+      "DreamSphere GRANDCROSS"
+    ]
+  },
+  {
+    "name": "千葉レジャーランド野田店",
+    "operation_time": "一部24時間営業",
+    "holiday": "無し",
+    "latitude": "35.97154747",
+    "longitude": "139.8653487",
+    "tel": "04-7120-3535",
+    "address": "野田市吉春776-1",
+    "access": "国道16号線沿い野田市吉春地内",
+    "games": [
+      "DreamSphere GRANDCROSS"
+    ]
+  },
+  {
+    "name": "タイトーFステーションオリナス錦糸町店",
+    "operation_time": "10:00～23:45",
+    "holiday": "無し",
+    "latitude": "35.700721",
+    "longitude": "139.816024",
+    "tel": "03-5610-7376",
+    "address": "墨田区太平4-1-2オリナスB1F",
+    "access": "JR総武線錦糸町駅北口から徒歩5分",
+    "games": [
+      "DreamSphere GRANDCROSS"
+    ]
+  },
+  {
+    "name": "キャッツアイ八千代店",
+    "operation_time": "日～木・祝日:10:00～翌1:00  金・土・祝前日:10:00～翌2:00",
+    "holiday": "",
+    "latitude": "35.73361854",
+    "longitude": "140.0724826",
+    "tel": "047-480-0231",
+    "address": "八千代市緑が丘西2-13-3ism緑が丘内",
+    "access": "",
+    "games": [
+      "DreamSphere GRANDCROSS"
+    ]
+  }
+]

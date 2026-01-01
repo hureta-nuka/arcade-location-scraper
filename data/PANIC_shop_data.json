@@ -1,0 +1,1458 @@
+[
+  {
+    "name": "タイトーステーション福岡天神店",
+    "operation_time": "10:00～翌1:00",
+    "holiday": "無し",
+    "latitude": "33.5896519",
+    "longitude": "130.3962521",
+    "tel": "092-737-5500",
+    "address": "福岡市中央区天神2-6-35サザンクロスビル",
+    "access": "西鉄福岡駅北口より徒歩2分",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "楽市街道箱崎店3F",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "33.62410817",
+    "longitude": "130.4195897",
+    "tel": "092-642-0761",
+    "address": "福岡市東区箱崎5-1-8楽市街道箱崎店内3F",
+    "access": "3号線沿い九州大学そば",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "サープラ荒尾あそびタウン",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "33.001771",
+    "longitude": "130.437759",
+    "tel": "096-882-8986",
+    "address": "荒尾市原万田700-1",
+    "access": "",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "パスカワールドグリーンランド",
+    "operation_time": "10:00～翌3:00",
+    "holiday": "無し",
+    "latitude": "32.98790587",
+    "longitude": "130.4711246",
+    "tel": "0968-69-3001",
+    "address": "荒尾市本井手1574-54",
+    "access": "三井グリーンランドウルトラマンランド横",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "パスカワールド宇土店",
+    "operation_time": "日曜～木曜 10:00～23:00  金曜・土曜 10:00～24:00",
+    "holiday": "無し",
+    "latitude": "32.68271108",
+    "longitude": "130.6679513",
+    "tel": "0964-22-5311",
+    "address": "宇土市善道寺町綾織95",
+    "access": "松橋ICより車で10分、宇土シティーショッピングセンター内",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "アミュージアム周南店",
+    "operation_time": "10:00～23:00",
+    "holiday": "無し",
+    "latitude": "34.01848693",
+    "longitude": "131.8630744",
+    "tel": "0833-44-3290",
+    "address": "下松市中央町21-3ゆめタウン下松3F",
+    "access": "JR下松駅から車で10分。THEMALL周南食遊館3階。",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "ラウンドワン沖縄･南風原店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "26.19509176",
+    "longitude": "127.7210653",
+    "tel": "098-940-6670",
+    "address": "島尻郡南風原町字兼城下茂原552",
+    "access": "",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "サープラ鹿児島あそびタウン",
+    "operation_time": "9:00～24:00",
+    "holiday": "無し",
+    "latitude": "31.57003616",
+    "longitude": "130.565823",
+    "tel": "099-213-0223",
+    "address": "鹿児島市与次郎1-11-1 2F",
+    "access": "フレスポジャングルパーク鹿児島店2F",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "アミパラ松江店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "35.463684",
+    "longitude": "133.074132",
+    "tel": "0852-67-1700",
+    "address": "松江市東朝日町203-1",
+    "access": "",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "サープラ国分あそびタウン",
+    "operation_time": "9:00～24:00",
+    "holiday": "無し",
+    "latitude": "31.72203434",
+    "longitude": "130.756017",
+    "tel": "0995-48-6789",
+    "address": "霧島市国分広瀬2-4-1",
+    "access": "",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "GiGOアルパーク北棟",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "34.37630292",
+    "longitude": "132.3950257",
+    "tel": "090-9155-1362",
+    "address": "広島市西区草津南4-7-1アルパーク北棟2F",
+    "access": "",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "アミパラ広島店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "34.39350431",
+    "longitude": "132.4360428",
+    "tel": "082-297-7135",
+    "address": "広島市西区西観音町3-17",
+    "access": "平和大通り沿い、西区区役所から東へすぐ",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "アミパラがいな店",
+    "operation_time": "10:00 ～ 24:00",
+    "holiday": "無し",
+    "latitude": "35.43797411",
+    "longitude": "133.3392651",
+    "tel": "0859-39-1800",
+    "address": "米子市日ノ出町1-8-13",
+    "access": "米子しんまち天満屋から南西へ300m",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "アミパラ日吉津店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.44581571",
+    "longitude": "133.3869124",
+    "tel": "0859-37-1959",
+    "address": "西伯郡日吉津村日吉津1160-1イオン日吉津SC西館2F",
+    "access": "米子道米子ICより北へ車で5分 イオン日吉津ショッピングセンター西館1階",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "ラウンドワン宮崎店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "31.89458335",
+    "longitude": "131.4170876",
+    "tel": "0985-63-1210",
+    "address": "宮崎市中村東3-4-60",
+    "access": "",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "アミパラ神辺店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "34.54578493",
+    "longitude": "133.3586159",
+    "tel": "084-963-3555",
+    "address": "福山市神辺町大字新道上字1-2-1",
+    "access": "フジグラン神辺店向かい",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "あみぱらんど福山店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "34.48795195",
+    "longitude": "133.3784594",
+    "tel": "0849-25-6188",
+    "address": "福山市三吉町南2-8-24",
+    "access": "国道2号線沿い、福山警察署から東へすぐ",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "アミパラ津山店",
+    "operation_time": "9:00～22:00",
+    "holiday": "無し",
+    "latitude": "35.06470307",
+    "longitude": "134.0455074",
+    "tel": "0868-21-8071",
+    "address": "津山市河辺1000-1イオン津山SC内2F",
+    "access": "中国自動車道津山IC下車正面 イオン津山ショッピングセンター内2F",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "アミパラ倉敷店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "34.58364137",
+    "longitude": "133.7712207",
+    "tel": "086-430-2111",
+    "address": "倉敷市西中新田624-1アミパラボウル1F",
+    "access": "倉敷市役所前、アミパラボウル1F",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "アミパラ岡山店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "34.63615978",
+    "longitude": "133.919988",
+    "tel": "086-235-3332",
+    "address": "岡山市北区青江1-13-8",
+    "access": "2号線バイパス・青江交差点から北へすぐ",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "アミパラ丸亀店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "34.28466398",
+    "longitude": "133.8209638",
+    "tel": "0877-24-6666",
+    "address": "丸亀市飯野町西分字川縁甲584-1ハローズ棟",
+    "access": "坂出ICから5分国道11号線沿い ニトリ隣",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "ラウンドワン高松店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "34.33898638",
+    "longitude": "134.0669994",
+    "tel": "087-812-6115",
+    "address": "高松市松島町2-7-43",
+    "access": "",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "アミパラ高知店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "33.56792315",
+    "longitude": "133.6344447",
+    "tel": "088-863-4343",
+    "address": "南国市篠原194-1",
+    "access": "南国ICを降りて南に突き当たり、東へ1km",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "ラウンドワン旭川店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "43.78651521",
+    "longitude": "142.397308",
+    "tel": "0166-49-5071",
+    "address": "旭川市永山3条1-4-7",
+    "access": "",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "ゲームアイビス太子店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "34.83203126",
+    "longitude": "134.6001053",
+    "tel": "0792-77-2320",
+    "address": "揖保郡太子町太田2148-1",
+    "access": "姫路バイパス太子ランプより相生方面へ車で5分",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "GiGOイオンモール苫小牧",
+    "operation_time": "ゲームコーナー9:00～24:00 / メダルコーナー9:00～23:30",
+    "holiday": "無し",
+    "latitude": "42.65619751",
+    "longitude": "141.6419704",
+    "tel": "0144-52-1212",
+    "address": "苫小牧市柳町3-1-20イオンモール苫小牧2F",
+    "access": "JR苫小牧駅よりバス20分",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "アミューズメントパフェ パレパレ",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "34.08586633",
+    "longitude": "134.5426759",
+    "tel": "088-677-8991",
+    "address": "徳島市南田宮2-2-46",
+    "access": "国道11号線から田宮街道を西に車で5分",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "ラウンドワン徳島･万代店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "34.064828",
+    "longitude": "134.564699",
+    "tel": "088-612-0025",
+    "address": "徳島市万代町4-19-1",
+    "access": "",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "アミパラ伊川谷店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "34.67051125",
+    "longitude": "135.024939",
+    "tel": "078-940-9838",
+    "address": "神戸市西区池上3-2-3",
+    "access": "",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "サープラ京都あそびタウン",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "35.01029561",
+    "longitude": "135.741185",
+    "tel": "075-813-2150",
+    "address": "京都市中京区西ノ京栂尾町107BiVi二条内2F",
+    "access": "",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "ラウンドワン高槻店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "34.83266921",
+    "longitude": "135.6301782",
+    "tel": "072-672-9933",
+    "address": "高槻市辻子3-6-4",
+    "access": "",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "ラウンドワン守口店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "34.7562488",
+    "longitude": "135.5886793",
+    "tel": "06-6907-9270",
+    "address": "守口市佐太東町2-6-14ジャガーグリーン2F",
+    "access": "",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "YAZ寝屋川店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "34.78044073",
+    "longitude": "135.6193889",
+    "tel": "072-830-7755",
+    "address": "寝屋川市石津中町25-26",
+    "access": "",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "アミュージアム岸和田店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "34.45954954",
+    "longitude": "135.3924047",
+    "tel": "0724-33-9711",
+    "address": "岸和田市下松町1-3-1ウィンディ岸和田",
+    "access": "JR下松駅から徒歩7分。国道26号線沿い、ウインディ岸和田内",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "アミパラ久御山店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "34.895478",
+    "longitude": "135.747069",
+    "tel": "075-754-7722",
+    "address": "久世郡久御山町大字森大内337イオンタウン久御山内",
+    "access": "",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "ラウンドワンららぽーと和泉店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "34.435599",
+    "longitude": "135.447876",
+    "tel": "0725-51-2100",
+    "address": "和泉市あゆみ野4-4-7ららぽーと和泉店 4F 42100",
+    "access": "",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "アミパラ大東店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "34.7010172",
+    "longitude": "135.6386857",
+    "tel": "072-813-7600",
+    "address": "大東市南新田2-3-5",
+    "access": "",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "ラウンドワン東大阪店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "34.6531932",
+    "longitude": "135.60637",
+    "tel": "06-6224-1700",
+    "address": "東大阪市若江南町1-2-12",
+    "access": "",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "アピナ富山豊田店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "36.7211336",
+    "longitude": "137.2352552",
+    "tel": "076-433-3355",
+    "address": "富山市豊田町2-12-66",
+    "access": "国道8号線豊田東交差点近く",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "アピナ富山南店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "36.665007",
+    "longitude": "137.217248",
+    "tel": "076-461-6644",
+    "address": "富山市堀川町355-3",
+    "access": "富山マイプラザ店内",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "アピナ富山新庄店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "36.69533117",
+    "longitude": "137.2480753",
+    "tel": "076-491-7700",
+    "address": "富山市荒川3-2-12",
+    "access": "",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "アミパラ橿原店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "34.52935645",
+    "longitude": "135.7966131",
+    "tel": "0744-25-0550",
+    "address": "橿原市十市町1222-1ツインゲート橿原1F",
+    "access": "",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "大垣メトロポリス",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.36694278",
+    "longitude": "136.6291725",
+    "tel": "0584-75-5734",
+    "address": "大垣市三塚町字西沼523-1",
+    "access": "",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "アピナ四日市店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "34.94000426",
+    "longitude": "136.6070666",
+    "tel": "059-349-5011",
+    "address": "四日市市泊小柳町4-34",
+    "access": "",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "アミューズメントワールドメトロポリス小牧店",
+    "operation_time": "平日10:00～23:50 土日祝日前 9:00～23:50",
+    "holiday": "無し",
+    "latitude": "35.2951722",
+    "longitude": "136.905659",
+    "tel": "0568-71-0005",
+    "address": "小牧市村中新町33",
+    "access": "名神高速小牧インターより南へ1km R41号間々本町交差点角",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "ラウンドワン中川一号線店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "35.12338322",
+    "longitude": "136.8636484",
+    "tel": "052-665-5353",
+    "address": "名古屋市中川区法蔵町2-23",
+    "access": "",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "キングジョイ",
+    "operation_time": "9:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.16797694",
+    "longitude": "136.9050444",
+    "tel": "052-241-9515",
+    "address": "名古屋市中区栄3-3-32",
+    "access": "地下鉄栄駅徒歩3分",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "アピナ長岡店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "37.45794202",
+    "longitude": "138.8125194",
+    "tel": "0258-22-5510",
+    "address": "長岡市堺東町22",
+    "access": "国道8号線長岡バイパス堺交差点近く",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "ラウンドワン鳴海店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "35.09913151",
+    "longitude": "136.9528735",
+    "tel": "052-899-0700",
+    "address": "名古屋市緑区鳴海町字杜若28",
+    "access": "",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "ゲームパニック大高",
+    "operation_time": "9:00～23:45",
+    "holiday": "無し",
+    "latitude": "35.04850561",
+    "longitude": "136.9496236",
+    "tel": "052-625-5360",
+    "address": "名古屋市緑区忠治山201グランドボウルB2F",
+    "access": "国道23号線大高町共和IC側道グランドボウルB2階",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "アピナ川中島店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "36.597909",
+    "longitude": "138.157802",
+    "tel": "026-214-6699",
+    "address": "長野市川中島町御厨967-1",
+    "access": "77号線長野南郵便局隣",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "アピナ大橋店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "36.6265199",
+    "longitude": "138.2003591",
+    "tel": "026-225-8765",
+    "address": "長野市若里7-9-12",
+    "access": "R18号長野大橋北側",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "ラウンドワン半田店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "34.88609688",
+    "longitude": "136.9412056",
+    "tel": "0569-25-7351",
+    "address": "半田市瑞穂町6-7-8",
+    "access": "",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "M'Sパーク豊田店",
+    "operation_time": "一部24時間営業",
+    "holiday": "",
+    "latitude": "35.0565113",
+    "longitude": "137.1404324",
+    "tel": "0565-71-0027",
+    "address": "豊田市寿町3-10-11",
+    "access": "愛知環状鉄道三河豊田駅10分。名鉄三河線土橋駅より徒歩10分。",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "安城メトロポリス",
+    "operation_time": "平日10:00～24:00、土日祝日9:00～24:00",
+    "holiday": "無し",
+    "latitude": "34.95485697",
+    "longitude": "137.0975854",
+    "tel": "0566-74-8238",
+    "address": "安城市浜富町6-8",
+    "access": "JR東海道本線安城駅より車で3分・徒歩10分",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "ポート24幸田",
+    "operation_time": "10:00～24:00",
+    "holiday": "無休",
+    "latitude": "34.89016302",
+    "longitude": "137.1632649",
+    "tel": "0564-63-6588",
+    "address": "額田郡幸田町大字高力字沖原15カメリアガーデン幸田内",
+    "access": "東名高速音羽蒲郡ICから車で30分",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "ラウンドワンさいたま･上里店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "36.259925",
+    "longitude": "139.137383",
+    "tel": "0495-35-2201",
+    "address": "児玉郡上里町大字金久保字周川394-1",
+    "access": "",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "ラウンドワン福島店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "37.75259469",
+    "longitude": "140.4562354",
+    "tel": "024-525-4731",
+    "address": "福島市太田町14-18",
+    "access": "",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "アピナ太田店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "36.28282169",
+    "longitude": "139.3983139",
+    "tel": "0276-48-1489",
+    "address": "太田市内ヶ島町907-1",
+    "access": "太田駅より車で5分富士重工近く",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "ドラマ足利店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "36.32220259",
+    "longitude": "139.4503607",
+    "tel": "0284-73-9559",
+    "address": "足利市朝倉町244-1",
+    "access": "東武伊勢崎線足利市駅より徒歩10分",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "プレイタウンパル富士吉田店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.48301003",
+    "longitude": "138.7797075",
+    "tel": "0555-22-8668",
+    "address": "富士吉田市新西原4-12-15",
+    "access": "富士急ハイランドそば",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "スーパーウェーブ静岡店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "35.01361",
+    "longitude": "138.43421",
+    "tel": "054-340-5888",
+    "address": "静岡市清水区鳥坂860フレスポ静岡2F西",
+    "access": "",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "アピナ焼津店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "34.83371431",
+    "longitude": "138.3059489",
+    "tel": "054-623-8555",
+    "address": "焼津市道原585",
+    "access": "",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "サープラ富士あそびタウン",
+    "operation_time": "10:00～24:00 土日祝9:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.16272123",
+    "longitude": "138.6694286",
+    "tel": "0545-67-7733",
+    "address": "富士市永田町2-94",
+    "access": "東名高速富士I.C車で10分",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "namcoフェドラP&D佐野店",
+    "operation_time": "10:00～23:00 土日祝9:00～23:00",
+    "holiday": "無し",
+    "latitude": "36.29729",
+    "longitude": "139.605644",
+    "tel": "0283-85-9518",
+    "address": "佐野市高萩町1340",
+    "access": "",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "ラウンドワンさいたま･鴻巣店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "36.08064011",
+    "longitude": "139.4902201",
+    "tel": "048-595-2001",
+    "address": "鴻巣市箕田3163-7",
+    "access": "",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "ラウンドワン宇都宮店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "36.54080987",
+    "longitude": "139.8868656",
+    "tel": "028-614-8171",
+    "address": "宇都宮市江曽島町2072-1",
+    "access": "",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "ドラマ瑞穂店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.76337213",
+    "longitude": "139.3568934",
+    "tel": "042-556-6605",
+    "address": "西多摩郡瑞穂町武蔵382-1",
+    "access": "JR八高線「箱根ヶ崎駅」から武蔵村山市方面に徒歩25分",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "アピナ小山店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "36.300419",
+    "longitude": "139.809126",
+    "tel": "0285-31-0050",
+    "address": "小山市駅南町4-27-18",
+    "access": "国道50号線沿い駅南町交差点",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "サープラ沼津あそびタウン",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.10266451",
+    "longitude": "138.8598883",
+    "tel": "055-926-7739",
+    "address": "沼津市大手町1-1-5",
+    "access": "JR沼津駅徒歩5分",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "ウェアハウス上尾店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.98142891",
+    "longitude": "139.5998843",
+    "tel": "048-770-3332",
+    "address": "上尾市二ツ宮1044",
+    "access": "R17号より蓮田、伊奈方面車で3分",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "シルクハット八王子",
+    "operation_time": "10:00～24:45",
+    "holiday": "",
+    "latitude": "35.65636374",
+    "longitude": "139.3384725",
+    "tel": "",
+    "address": "八王子市旭町2-5八王子ツインタワービル3F",
+    "access": "JR八王子駅前",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "ドラマ八王子高倉店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.66506526",
+    "longitude": "139.3664795",
+    "tel": "0426-45-7050",
+    "address": "八王子市高倉町55-4",
+    "access": "国道20号、八王子市高倉町「高倉町西」交差点を日野バイパス豊田方面右手",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "タイトーステーション所沢店",
+    "operation_time": "09:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.7881",
+    "longitude": "139.47243",
+    "tel": "04-2925-9071",
+    "address": "所沢市日吉町3-7",
+    "access": "所沢駅西口プロペ通りを徒歩3分",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "ウェアハウス三橋店",
+    "operation_time": "一部24時間営業",
+    "holiday": "無し",
+    "latitude": "35.91589833",
+    "longitude": "139.5959286",
+    "tel": "048-795-8380",
+    "address": "さいたま市西区三橋6-955-1",
+    "access": "国道17号バイパス三橋六丁目交差点",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "アピナ橋本店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.597682",
+    "longitude": "139.337035",
+    "tel": "042-703-6033",
+    "address": "相模原市緑区西橋本5-1-1ラ･フロール駐車場棟1F",
+    "access": "橋本駅から徒歩10分 八王子バイパスから津久井街道へ繋がる側道に入ってすぐ",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "アピナ下館店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "36.29325391",
+    "longitude": "139.944075",
+    "tel": "0296-28-0033",
+    "address": "筑西市玉戸1012-3",
+    "access": "R50号玉戸信号近く",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "ウェアハウス岩槻店",
+    "operation_time": "7:00～23:45",
+    "holiday": "無し",
+    "latitude": "35.94092949",
+    "longitude": "139.6859268",
+    "tel": "048-758-8755",
+    "address": "さいたま市岩槻区加倉3-3-63",
+    "access": "岩槻IC降りて直ぐ",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "ラウンドワン府中本町駅前店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "35.667312",
+    "longitude": "139.477387",
+    "tel": "042-340-4901",
+    "address": "府中市本町1-13-3カネタビル",
+    "access": "",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "アミュージアムOSC店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.75310339",
+    "longitude": "139.595028",
+    "tel": "03-5933-0880",
+    "address": "練馬区東大泉2-34-1オズスタジオシティ2F",
+    "access": "西武池袋線大泉学園駅徒歩15分。車で10分。OZスタジオシティ2F(LIVINOZ大泉向い)",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "シルクハット本厚木",
+    "operation_time": "9:00～23:45",
+    "holiday": "無し",
+    "latitude": "35.44024066",
+    "longitude": "139.3629959",
+    "tel": "",
+    "address": "厚木市中町3-4-22第二会田ビル2F",
+    "access": "小田急「本厚木駅」北口より徒歩1分 第二会田ビル",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "ウェアハウス越谷店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.91195206",
+    "longitude": "139.7637557",
+    "tel": "048-973-4311",
+    "address": "越谷市大字南荻島841-1",
+    "access": "越谷岩槻線沿い、国道4号から車で1分",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "アミューズメントFUNFUN越谷店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "35.912884",
+    "longitude": "139.771184",
+    "tel": "048-970-4490",
+    "address": "越谷市大字南荻島2770-1",
+    "access": "",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "ラウンドワン板橋店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "35.77658",
+    "longitude": "139.67879",
+    "tel": "03-5922-3521",
+    "address": "板橋区相生町16-13",
+    "access": "",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "ゲームシティ川口店",
+    "operation_time": "10:00～23:50",
+    "holiday": "無し",
+    "latitude": "35.80263316",
+    "longitude": "139.7255584",
+    "tel": "048-250-3855",
+    "address": "川口市栄町1-10-5",
+    "access": "JR川口駅東口徒歩10分",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "ウェアハウス入谷店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.80112943",
+    "longitude": "139.760997",
+    "tel": "03-3856-5833",
+    "address": "足立区入谷7-8-11",
+    "access": "足立ICから車で3分",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "タイトーステーション池袋ロサ店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.732483",
+    "longitude": "139.709305",
+    "tel": "03-3982-1270",
+    "address": "豊島区西池袋1-37-12ロサ会館1F",
+    "access": "JR池袋駅西口、北口より徒歩3分",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "アドアーズサンシャイン店",
+    "operation_time": "10:00～23:45",
+    "holiday": "無し",
+    "latitude": "35.72996953",
+    "longitude": "139.714918",
+    "tel": "03-3971-9601",
+    "address": "豊島区東池袋1-14-4シネマサンシャイン1-3F",
+    "access": "シネマサンシャインビル内",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "タイトーステーション溝の口店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "35.600042",
+    "longitude": "139.61245",
+    "tel": "044-328-9262",
+    "address": "川崎市高津区溝口1-11-8",
+    "access": "",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "サープラ横浜あそびタウン",
+    "operation_time": "9:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.55234069",
+    "longitude": "139.579585",
+    "tel": "045-914-7386",
+    "address": "横浜市都筑区中川中央1-25ノースポートモール6F",
+    "access": "横浜市営地下鉄センター北駅ノースポートモール6F",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "ウェアハウス草加店",
+    "operation_time": "一部24時間",
+    "holiday": "無し",
+    "latitude": "35.82979825",
+    "longitude": "139.8207329",
+    "tel": "048-930-5261",
+    "address": "八潮市南後谷507",
+    "access": "草加産業道路沿い",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "ウェアハウス保木間店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.78913885",
+    "longitude": "139.8032547",
+    "tel": "03-3860-7822",
+    "address": "足立区保木間1-1-19-1F",
+    "access": "竹の塚駅より車で7分",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "ドラマ港北インター店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.51925659",
+    "longitude": "139.5847927",
+    "tel": "045-474-6604",
+    "address": "横浜市都筑区東方町321-6",
+    "access": "第三京浜港北IC右側交差点左折約500M",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "タイトーステーション渋谷店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.659983",
+    "longitude": "139.70204",
+    "tel": "03-5467-6565",
+    "address": "渋谷区渋谷1-24-12渋谷東映プラザB1F",
+    "access": "JR渋谷駅・宮益坂口より徒歩1分",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "ゲームパニック三郷",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "35.84215546",
+    "longitude": "139.8548102",
+    "tel": "048-953-8295",
+    "address": "三郷市ピアラシティ1-1-200",
+    "access": "",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "ドラマ藤沢店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.35751243",
+    "longitude": "139.4682681",
+    "tel": "0466-82-0328",
+    "address": "藤沢市本藤沢5-6-8",
+    "access": "小田急江ノ島線善行駅より徒歩15分",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "サープラ八潮あそびタウン",
+    "operation_time": "9:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.80837561",
+    "longitude": "139.8437875",
+    "tel": "048-994-5377",
+    "address": "八潮市大瀬1-1-3フレスポ八潮3F",
+    "access": "つくばエクスプレス・八潮駅隣接フレスポ八潮3F",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "アドアーズ上野アメ横店",
+    "operation_time": "10:00～23:30",
+    "holiday": "無し",
+    "latitude": "35.71002035",
+    "longitude": "139.7742619",
+    "tel": "03-5812-1570",
+    "address": "台東区上野4-9-14上野KKビルB1-4F",
+    "access": "アメ横センタービルそば",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "タイトーFステーションオリナス錦糸町店",
+    "operation_time": "10:00～23:45",
+    "holiday": "無し",
+    "latitude": "35.700721",
+    "longitude": "139.816024",
+    "tel": "03-5610-7376",
+    "address": "墨田区太平4-1-2オリナスB1F",
+    "access": "JR総武線錦糸町駅北口から徒歩5分",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "ジアス上大岡店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.40665354",
+    "longitude": "139.5960833",
+    "tel": "045-847-4780",
+    "address": "横浜市港南区上大岡西2-1-28赤い風船ビル2F",
+    "access": "京浜急行「上大岡駅」下車徒歩3分、横浜市営地下鉄「上大岡駅」下車徒歩1分赤い風船モールパート1 1階",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "シルクハット川崎ダイス",
+    "operation_time": "9:00～24:45",
+    "holiday": "無し",
+    "latitude": "35.5314121",
+    "longitude": "139.7002166",
+    "tel": "",
+    "address": "川崎市川崎区駅前本町8ダイスビルB2F",
+    "access": "JR川崎駅アゼリア地下街と直結、京急川崎駅中央口徒歩1分",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "シルクハット伊勢佐木町",
+    "operation_time": "9:00～23:45",
+    "holiday": "無し",
+    "latitude": "35.44281185",
+    "longitude": "139.629987",
+    "tel": "",
+    "address": "横浜市中区伊勢佐木町3-96日活会館ビル3F",
+    "access": "JR関内駅北口より徒歩7分・京急線日ノ出町より徒歩6分・横浜市営地下鉄ブルーライン伊勢佐木長者町駅より徒歩4分",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "ラウンドワン南砂店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "35.67184786",
+    "longitude": "139.8361845",
+    "tel": "03-5617-6911",
+    "address": "江東区南砂6-7-15トピレックプラザ4F",
+    "access": "",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "タイトーステーション南砂町SUNAMO店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "35.66562168",
+    "longitude": "139.8356003",
+    "tel": "03-6666-8395",
+    "address": "江東区新砂3-4-31南砂町SUNAMO4F",
+    "access": "",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "ゲームパニックつくば",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "36.04632758",
+    "longitude": "140.1679958",
+    "tel": "080-3350-1839",
+    "address": "土浦市中村東1-1-1",
+    "access": "",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "大慶園",
+    "operation_time": "一部24時間営業",
+    "holiday": "無し",
+    "latitude": "35.76304297",
+    "longitude": "139.96933",
+    "tel": "047-337-5001",
+    "address": "市川市大町359",
+    "access": "JR市川大野駅下車 市川植物園行きバス乗車 市川斎場前下車徒歩10分・北総線大町駅から車5分",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "シルクハット津田沼",
+    "operation_time": "9:00～23:45",
+    "holiday": "無し",
+    "latitude": "35.69040687",
+    "longitude": "140.0221583",
+    "tel": "",
+    "address": "習志野市津田沼1-2-1十三ビルB1F",
+    "access": "JR津田沼駅、京成新津田沼駅徒歩1分",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "GiGOひたちなか",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "36.34756197",
+    "longitude": "140.5803556",
+    "tel": "070-1449-2941",
+    "address": "ひたちなか市田中後40-11",
+    "access": "",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "ラッキーバッティングドーム",
+    "operation_time": "9:00～23:50",
+    "holiday": "無し",
+    "latitude": "35.72444576",
+    "longitude": "140.0674286",
+    "tel": "047-458-8208",
+    "address": "八千代市大和田新田1088",
+    "access": "東葉高速鉄道八千代緑が丘駅徒歩10分",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "パレパレ稲毛長沼店",
+    "operation_time": "9:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.65753267",
+    "longitude": "140.129187",
+    "tel": "043-304-7878",
+    "address": "千葉市稲毛区長沼原町731-25フレスポ稲毛A2棟-4",
+    "access": "JR稲毛駅より京成バス山王町行き、ヴィルフォーレ下車2分",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "アドアーズ千葉北店",
+    "operation_time": "10:00～23:45",
+    "holiday": "無し",
+    "latitude": "35.66037597",
+    "longitude": "140.1393385",
+    "tel": "043-421-6322",
+    "address": "千葉市稲毛区山王町310-1ROUTE66PARK内",
+    "access": "県道66号線沿オートバックス横",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "GiGO神栖",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.89792811",
+    "longitude": "140.6444633",
+    "tel": "070-1458-2514",
+    "address": "神栖市神栖1-8-1",
+    "access": "東関東自動車道:潮来I.Cから約10分",
+    "games": [
+      "PanicPirates"
+    ]
+  }
+]

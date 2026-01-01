@@ -1,0 +1,626 @@
+[
+  {
+    "name": "遊道楽新合川",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "33.32176241",
+    "longitude": "130.541007",
+    "tel": "0942-45-3335",
+    "address": "久留米市新合川1-6-7",
+    "access": "国道210号線バイパス沿い",
+    "games": [
+      "SPINFEVER 夢幻のオーケストラ"
+    ]
+  },
+  {
+    "name": "G-pala小倉店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "33.83945824",
+    "longitude": "130.9109857",
+    "tel": "093-953-7405",
+    "address": "北九州市小倉南区上葛原1-14-1",
+    "access": "",
+    "games": [
+      "SPINFEVER 夢幻のオーケストラ"
+    ]
+  },
+  {
+    "name": "パスカワールドグリーンランド",
+    "operation_time": "10:00～翌3:00",
+    "holiday": "無し",
+    "latitude": "32.98790587",
+    "longitude": "130.4711246",
+    "tel": "0968-69-3001",
+    "address": "荒尾市本井手1574-54",
+    "access": "三井グリーンランドウルトラマンランド横",
+    "games": [
+      "SPINFEVER 夢幻のオーケストラ"
+    ]
+  },
+  {
+    "name": "パスカワールド宇土店",
+    "operation_time": "日曜～木曜 10:00～23:00  金曜・土曜 10:00～24:00",
+    "holiday": "無し",
+    "latitude": "32.68271108",
+    "longitude": "130.6679513",
+    "tel": "0964-22-5311",
+    "address": "宇土市善道寺町綾織95",
+    "access": "松橋ICより車で10分、宇土シティーショッピングセンター内",
+    "games": [
+      "SPINFEVER 夢幻のオーケストラ"
+    ]
+  },
+  {
+    "name": "タイトーFステーションニシムタ出水",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "32.106272",
+    "longitude": "130.345224",
+    "tel": "0996-68-8150",
+    "address": "出水市六月田町347",
+    "access": "",
+    "games": [
+      "SPINFEVER 夢幻のオーケストラ"
+    ]
+  },
+  {
+    "name": "ラウンドワン広島店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "34.39365895",
+    "longitude": "132.4600423",
+    "tel": "082-545-8910",
+    "address": "広島市中区立町3-11",
+    "access": "",
+    "games": [
+      "SPINFEVER 夢幻のオーケストラ"
+    ]
+  },
+  {
+    "name": "福山メトロポリス",
+    "operation_time": "10:00～23:50",
+    "holiday": "無し",
+    "latitude": "34.46583759",
+    "longitude": "133.407424",
+    "tel": "084-981-5095",
+    "address": "福山市一文字町24-1",
+    "access": "JR東福山駅より車で10分",
+    "games": [
+      "SPINFEVER 夢幻のオーケストラ"
+    ]
+  },
+  {
+    "name": "キャッツアイ篠路店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "43.14070168",
+    "longitude": "141.3571701",
+    "tel": "011-776-1500",
+    "address": "札幌市北区篠路1条4-6-30",
+    "access": "JR篠路駅下車徒歩20分",
+    "games": [
+      "SPINFEVER 夢幻のオーケストラ"
+    ]
+  },
+  {
+    "name": "ゲームパニック堺",
+    "operation_time": "10:00～23:45",
+    "holiday": "無し",
+    "latitude": "34.597817",
+    "longitude": "135.447433",
+    "tel": "072-224-8295",
+    "address": "堺市堺区築港八幡町1-1堺浜シーサイド内堺浜えんため館",
+    "access": "南海バス20系統「堺市内北回り」 堺駅西口→堺浜シーサイドステージ約17分 堺東駅→堺浜シーサイドステージ約25分",
+    "games": [
+      "SPINFEVER 夢幻のオーケストラ"
+    ]
+  },
+  {
+    "name": "滋賀レジャーランド大津店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "35.003875",
+    "longitude": "135.883431",
+    "tel": "077-548-7851",
+    "address": "大津市におの浜3-1-43",
+    "access": "",
+    "games": [
+      "SPINFEVER 夢幻のオーケストラ"
+    ]
+  },
+  {
+    "name": "アピナ富山豊田店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "36.7211336",
+    "longitude": "137.2352552",
+    "tel": "076-433-3355",
+    "address": "富山市豊田町2-12-66",
+    "access": "国道8号線豊田東交差点近く",
+    "games": [
+      "SPINFEVER 夢幻のオーケストラ"
+    ]
+  },
+  {
+    "name": "アピナ富山南店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "36.665007",
+    "longitude": "137.217248",
+    "tel": "076-461-6644",
+    "address": "富山市堀川町355-3",
+    "access": "富山マイプラザ店内",
+    "games": [
+      "SPINFEVER 夢幻のオーケストラ"
+    ]
+  },
+  {
+    "name": "アピナ富山新庄店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "36.69533117",
+    "longitude": "137.2480753",
+    "tel": "076-491-7700",
+    "address": "富山市荒川3-2-12",
+    "access": "",
+    "games": [
+      "SPINFEVER 夢幻のオーケストラ"
+    ]
+  },
+  {
+    "name": "A.Cグランド",
+    "operation_time": "9:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.38308553",
+    "longitude": "136.7461998",
+    "tel": "058-275-0351",
+    "address": "岐阜市茜部大川1-77",
+    "access": "名鉄新岐阜駅15分",
+    "games": [
+      "SPINFEVER 夢幻のオーケストラ"
+    ]
+  },
+  {
+    "name": "アピナ四日市店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "34.94000426",
+    "longitude": "136.6070666",
+    "tel": "059-349-5011",
+    "address": "四日市市泊小柳町4-34",
+    "access": "",
+    "games": [
+      "SPINFEVER 夢幻のオーケストラ"
+    ]
+  },
+  {
+    "name": "ファンタジープラザ名古屋店",
+    "operation_time": "10:00～翌5:00",
+    "holiday": "無し",
+    "latitude": "35.22569311",
+    "longitude": "136.908786",
+    "tel": "052-938-3461",
+    "address": "名古屋市北区玄馬町234-1クロスタウン2F",
+    "access": "比良駅徒歩6分/大我麻交差点付近",
+    "games": [
+      "SPINFEVER 夢幻のオーケストラ"
+    ]
+  },
+  {
+    "name": "アピナ鶴岡店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "38.75839782",
+    "longitude": "139.8439993",
+    "tel": "0235-29-1141",
+    "address": "鶴岡市文下字広野1-1",
+    "access": "",
+    "games": [
+      "SPINFEVER 夢幻のオーケストラ"
+    ]
+  },
+  {
+    "name": "アピナ長岡店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "37.45794202",
+    "longitude": "138.8125194",
+    "tel": "0258-22-5510",
+    "address": "長岡市堺東町22",
+    "access": "国道8号線長岡バイパス堺交差点近く",
+    "games": [
+      "SPINFEVER 夢幻のオーケストラ"
+    ]
+  },
+  {
+    "name": "ゲームパニック大高",
+    "operation_time": "9:00～23:45",
+    "holiday": "無し",
+    "latitude": "35.04850561",
+    "longitude": "136.9496236",
+    "tel": "052-625-5360",
+    "address": "名古屋市緑区忠治山201グランドボウルB2F",
+    "access": "国道23号線大高町共和IC側道グランドボウルB2階",
+    "games": [
+      "SPINFEVER 夢幻のオーケストラ"
+    ]
+  },
+  {
+    "name": "GiGO長久手",
+    "operation_time": "9:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.17139252",
+    "longitude": "137.045573",
+    "tel": "0561-64-5205",
+    "address": "長久手市武蔵塚705",
+    "access": "",
+    "games": [
+      "SPINFEVER 夢幻のオーケストラ"
+    ]
+  },
+  {
+    "name": "アピナ川中島店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "36.597909",
+    "longitude": "138.157802",
+    "tel": "026-214-6699",
+    "address": "長野市川中島町御厨967-1",
+    "access": "77号線長野南郵便局隣",
+    "games": [
+      "SPINFEVER 夢幻のオーケストラ"
+    ]
+  },
+  {
+    "name": "メダルパーク メダパ新発田店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "37.95292049",
+    "longitude": "139.2953607",
+    "tel": "0254-28-9015",
+    "address": "新発田市新栄町3-4-26",
+    "access": "",
+    "games": [
+      "SPINFEVER 夢幻のオーケストラ"
+    ]
+  },
+  {
+    "name": "アピナ大橋店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "36.6265199",
+    "longitude": "138.2003591",
+    "tel": "026-225-8765",
+    "address": "長野市若里7-9-12",
+    "access": "R18号長野大橋北側",
+    "games": [
+      "SPINFEVER 夢幻のオーケストラ"
+    ]
+  },
+  {
+    "name": "アピナ長野村山店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "36.6682177",
+    "longitude": "138.2633103",
+    "tel": "0262-95-9911",
+    "address": "長野市村山502-1アミューズメントプレイスアピナ",
+    "access": "R18号アップルライン入口",
+    "games": [
+      "SPINFEVER 夢幻のオーケストラ"
+    ]
+  },
+  {
+    "name": "M'Sパーク豊田店",
+    "operation_time": "一部24時間営業",
+    "holiday": "",
+    "latitude": "35.0565113",
+    "longitude": "137.1404324",
+    "tel": "0565-71-0027",
+    "address": "豊田市寿町3-10-11",
+    "access": "愛知環状鉄道三河豊田駅10分。名鉄三河線土橋駅より徒歩10分。",
+    "games": [
+      "SPINFEVER 夢幻のオーケストラ"
+    ]
+  },
+  {
+    "name": "アピナ上田店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "36.416102",
+    "longitude": "138.223307",
+    "tel": "0268-75-8055",
+    "address": "上田市秋和359-1",
+    "access": "",
+    "games": [
+      "SPINFEVER 夢幻のオーケストラ"
+    ]
+  },
+  {
+    "name": "GiGO北岡崎",
+    "operation_time": "9:00～24:00",
+    "holiday": "無し",
+    "latitude": "34.97365547",
+    "longitude": "137.1600268",
+    "tel": "070-1393-5583",
+    "address": "岡崎市錦町2-4",
+    "access": "国道248号線沿い、愛知環状線北岡崎駅から徒歩3分",
+    "games": [
+      "SPINFEVER 夢幻のオーケストラ"
+    ]
+  },
+  {
+    "name": "ポート24幸田",
+    "operation_time": "10:00～24:00",
+    "holiday": "無休",
+    "latitude": "34.89016302",
+    "longitude": "137.1632649",
+    "tel": "0564-63-6588",
+    "address": "額田郡幸田町大字高力字沖原15カメリアガーデン幸田内",
+    "access": "東名高速音羽蒲郡ICから車で30分",
+    "games": [
+      "SPINFEVER 夢幻のオーケストラ"
+    ]
+  },
+  {
+    "name": "アピナ佐久インター店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "36.284455",
+    "longitude": "138.482344",
+    "tel": "026-778-3399",
+    "address": "佐久市岩村田北1-13-1",
+    "access": "佐久インター近く",
+    "games": [
+      "SPINFEVER 夢幻のオーケストラ"
+    ]
+  },
+  {
+    "name": "豊川メトロポリス",
+    "operation_time": "平日10:00～24:00 土日9:00～24:00",
+    "holiday": "無し",
+    "latitude": "34.80229218",
+    "longitude": "137.3847976",
+    "tel": "0533-85-6540",
+    "address": "豊川市下長山町上アライ14-1",
+    "access": "東名高速豊川インター南・国道151号線・城下交差点東へ500m",
+    "games": [
+      "SPINFEVER 夢幻のオーケストラ"
+    ]
+  },
+  {
+    "name": "パルケデアミーゴ",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "38.28378194",
+    "longitude": "140.3216374",
+    "tel": "023-682-1613",
+    "address": "山形市嶋北1-3-1",
+    "access": "",
+    "games": [
+      "SPINFEVER 夢幻のオーケストラ"
+    ]
+  },
+  {
+    "name": "ポート24浜松店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無休",
+    "latitude": "34.68017431",
+    "longitude": "137.6443768",
+    "tel": "053-440-5588",
+    "address": "浜松市中央区坪井町4183",
+    "access": "東名高速浜松西ICから車で15分",
+    "games": [
+      "SPINFEVER 夢幻のオーケストラ"
+    ]
+  },
+  {
+    "name": "群馬レジャーランド藤岡店",
+    "operation_time": "一部24時間営業",
+    "holiday": "",
+    "latitude": "36.27426745",
+    "longitude": "139.0718857",
+    "tel": "0274-40-2371",
+    "address": "藤岡市中2002-1",
+    "access": "県道13号沿い、上信越道藤岡IC北 カーオプション店『ピット100』2階",
+    "games": [
+      "SPINFEVER 夢幻のオーケストラ"
+    ]
+  },
+  {
+    "name": "GAME BANK",
+    "operation_time": "9:00～24:00",
+    "holiday": "無し",
+    "latitude": "38.352801",
+    "longitude": "140.877385",
+    "tel": "022-776-5677",
+    "address": "仙台市泉区大沢2-5-4",
+    "access": "東北自動車道 泉インター直ぐ",
+    "games": [
+      "SPINFEVER 夢幻のオーケストラ"
+    ]
+  },
+  {
+    "name": "ゲームコーナー東部",
+    "operation_time": "9:00～24:00",
+    "holiday": "無し",
+    "latitude": "38.25101621",
+    "longitude": "140.9438974",
+    "tel": "022-287-5880",
+    "address": "仙台市若林区六丁の目中町26-60",
+    "access": "六丁目の交差点より多賀城方面へ向かい車で5分。産業通り沿い。",
+    "games": [
+      "SPINFEVER 夢幻のオーケストラ"
+    ]
+  },
+  {
+    "name": "アピナ太田店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "36.28282169",
+    "longitude": "139.3983139",
+    "tel": "0276-48-1489",
+    "address": "太田市内ヶ島町907-1",
+    "access": "太田駅より車で5分富士重工近く",
+    "games": [
+      "SPINFEVER 夢幻のオーケストラ"
+    ]
+  },
+  {
+    "name": "タイトーFステーション郡山オリエントパーク店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "37.37465045",
+    "longitude": "140.3487929",
+    "tel": "024-946-8222",
+    "address": "郡山市安積町荒井字大久保35-1",
+    "access": "",
+    "games": [
+      "SPINFEVER 夢幻のオーケストラ"
+    ]
+  },
+  {
+    "name": "ラウンドワンさいたま･鴻巣店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "36.08064011",
+    "longitude": "139.4902201",
+    "tel": "048-595-2001",
+    "address": "鴻巣市箕田3163-7",
+    "access": "",
+    "games": [
+      "SPINFEVER 夢幻のオーケストラ"
+    ]
+  },
+  {
+    "name": "アピナ川越店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.9037481",
+    "longitude": "139.5155363",
+    "tel": "049-230-1068",
+    "address": "川越市泉町1-1",
+    "access": "JR川越線南古谷駅徒歩3分",
+    "games": [
+      "SPINFEVER 夢幻のオーケストラ"
+    ]
+  },
+  {
+    "name": "アピナ橋本店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.597682",
+    "longitude": "139.337035",
+    "tel": "042-703-6033",
+    "address": "相模原市緑区西橋本5-1-1ラ･フロール駐車場棟1F",
+    "access": "橋本駅から徒歩10分 八王子バイパスから津久井街道へ繋がる側道に入ってすぐ",
+    "games": [
+      "SPINFEVER 夢幻のオーケストラ"
+    ]
+  },
+  {
+    "name": "アピナ下館店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "36.29325391",
+    "longitude": "139.944075",
+    "tel": "0296-28-0033",
+    "address": "筑西市玉戸1012-3",
+    "access": "R50号玉戸信号近く",
+    "games": [
+      "SPINFEVER 夢幻のオーケストラ"
+    ]
+  },
+  {
+    "name": "Amusement&Game MAGHREB",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.624024",
+    "longitude": "139.423196",
+    "tel": "042-371-5556",
+    "address": "多摩市落合1-39-2マグレブビル1F",
+    "access": "京王線・小田急線 多摩センター駅 徒歩3分/多摩モノレール多摩センター駅 徒歩1分",
+    "games": [
+      "SPINFEVER 夢幻のオーケストラ"
+    ]
+  },
+  {
+    "name": "アミューズメントFUNFUN越谷店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "35.912884",
+    "longitude": "139.771184",
+    "tel": "048-970-4490",
+    "address": "越谷市大字南荻島2770-1",
+    "access": "",
+    "games": [
+      "SPINFEVER 夢幻のオーケストラ"
+    ]
+  },
+  {
+    "name": "ウェアハウス保木間店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.78913885",
+    "longitude": "139.8032547",
+    "tel": "03-3860-7822",
+    "address": "足立区保木間1-1-19-1F",
+    "access": "竹の塚駅より車で7分",
+    "games": [
+      "SPINFEVER 夢幻のオーケストラ"
+    ]
+  },
+  {
+    "name": "ゲームパニック三郷",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "35.84215546",
+    "longitude": "139.8548102",
+    "tel": "048-953-8295",
+    "address": "三郷市ピアラシティ1-1-200",
+    "access": "",
+    "games": [
+      "SPINFEVER 夢幻のオーケストラ"
+    ]
+  },
+  {
+    "name": "ドラマ藤沢店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.35751243",
+    "longitude": "139.4682681",
+    "tel": "0466-82-0328",
+    "address": "藤沢市本藤沢5-6-8",
+    "access": "小田急江ノ島線善行駅より徒歩15分",
+    "games": [
+      "SPINFEVER 夢幻のオーケストラ"
+    ]
+  },
+  {
+    "name": "ゲームパニックつくば",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "36.04632758",
+    "longitude": "140.1679958",
+    "tel": "080-3350-1839",
+    "address": "土浦市中村東1-1-1",
+    "access": "",
+    "games": [
+      "SPINFEVER 夢幻のオーケストラ"
+    ]
+  },
+  {
+    "name": "大慶園",
+    "operation_time": "一部24時間営業",
+    "holiday": "無し",
+    "latitude": "35.76304297",
+    "longitude": "139.96933",
+    "tel": "047-337-5001",
+    "address": "市川市大町359",
+    "access": "JR市川大野駅下車 市川植物園行きバス乗車 市川斎場前下車徒歩10分・北総線大町駅から車5分",
+    "games": [
+      "SPINFEVER 夢幻のオーケストラ"
+    ]
+  }
+]

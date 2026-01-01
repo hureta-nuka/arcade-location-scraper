@@ -1,0 +1,171 @@
+[
+  {
+    "name": "ラウンドワン福岡天神店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "33.58960223",
+    "longitude": "130.3968402",
+    "tel": "092-720-8101",
+    "address": "福岡市中央区天神2-6-12",
+    "access": "",
+    "games": [
+      "QuizKnock STADIUM"
+    ]
+  },
+  {
+    "name": "ラウンドワン広島店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "34.39365895",
+    "longitude": "132.4600423",
+    "tel": "082-545-8910",
+    "address": "広島市中区立町3-11",
+    "access": "",
+    "games": [
+      "QuizKnock STADIUM"
+    ]
+  },
+  {
+    "name": "ラウンドワン札幌すすきの店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "43.05431311",
+    "longitude": "141.3540587",
+    "tel": "011-520-1022",
+    "address": "札幌市中央区南五条西3-6-1札幌東宝公楽ビル",
+    "access": "",
+    "games": [
+      "QuizKnock STADIUM"
+    ]
+  },
+  {
+    "name": "ラウンドワン金沢店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "36.54211559",
+    "longitude": "136.626054",
+    "tel": "076-245-1850",
+    "address": "金沢市横川6-120-1",
+    "access": "",
+    "games": [
+      "QuizKnock STADIUM"
+    ]
+  },
+  {
+    "name": "ラウンドワン京都河原町店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "35.00699573",
+    "longitude": "135.7685149",
+    "tel": "075-213-8400",
+    "address": "京都市中京区河原町通り三条下ル山崎町250",
+    "access": "",
+    "games": [
+      "QuizKnock STADIUM"
+    ]
+  },
+  {
+    "name": "ラウンドワン堺中央環状店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "34.55707895",
+    "longitude": "135.5362412",
+    "tel": "072-253-9559",
+    "address": "堺市東区石原町2-241",
+    "access": "",
+    "games": [
+      "QuizKnock STADIUM"
+    ]
+  },
+  {
+    "name": "ラウンドワンみえ川越IC店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "35.02319916",
+    "longitude": "136.6836502",
+    "tel": "059-361-2130",
+    "address": "三重郡川越町大字南福崎851-1",
+    "access": "",
+    "games": [
+      "QuizKnock STADIUM"
+    ]
+  },
+  {
+    "name": "ラウンドワン中川一号線店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "35.12338322",
+    "longitude": "136.8636484",
+    "tel": "052-665-5353",
+    "address": "名古屋市中川区法蔵町2-23",
+    "access": "",
+    "games": [
+      "QuizKnock STADIUM"
+    ]
+  },
+  {
+    "name": "ラウンドワン鳴海店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "35.09913151",
+    "longitude": "136.9528735",
+    "tel": "052-899-0700",
+    "address": "名古屋市緑区鳴海町字杜若28",
+    "access": "",
+    "games": [
+      "QuizKnock STADIUM"
+    ]
+  },
+  {
+    "name": "ゲームセンターテクノポリス",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "37.42498834",
+    "longitude": "138.8377613",
+    "tel": "0258-33-1516",
+    "address": "長岡市要町1-8-50",
+    "access": "JR「宮内駅」西口より徒歩で5分。県道498号線沿い。",
+    "games": [
+      "QuizKnock STADIUM"
+    ]
+  },
+  {
+    "name": "GiGO天童",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "38.34302924",
+    "longitude": "140.3739732",
+    "tel": "023-656-9370",
+    "address": "天童市南町1-5-26",
+    "access": "JR「天童駅」より車で10分。国道13号線を南下し国道沿い左側。",
+    "games": [
+      "QuizKnock STADIUM"
+    ]
+  },
+  {
+    "name": "ラウンドワンさいたま･鴻巣店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "36.08064011",
+    "longitude": "139.4902201",
+    "tel": "048-595-2001",
+    "address": "鴻巣市箕田3163-7",
+    "access": "",
+    "games": [
+      "QuizKnock STADIUM"
+    ]
+  },
+  {
+    "name": "ゲームW店",
+    "operation_time": "10:00～24:00",
+    "holiday": "不定休",
+    "latitude": "35.72942259",
+    "longitude": "139.6828924",
+    "tel": "03-5983-7880",
+    "address": "豊島区南長崎5-27-6",
+    "access": "西武池袋線 東長崎駅より徒歩2分",
+    "games": [
+      "QuizKnock STADIUM"
+    ]
+  }
+]

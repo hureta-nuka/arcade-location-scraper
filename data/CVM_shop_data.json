@@ -1,0 +1,769 @@
+[
+  {
+    "name": "タイトーステーション福岡天神店",
+    "operation_time": "10:00～翌1:00",
+    "holiday": "無し",
+    "latitude": "33.5896519",
+    "longitude": "130.3962521",
+    "tel": "092-737-5500",
+    "address": "福岡市中央区天神2-6-35サザンクロスビル",
+    "access": "西鉄福岡駅北口より徒歩2分",
+    "games": [
+      "悪魔城ドラキュラ THE MEDAL"
+    ]
+  },
+  {
+    "name": "楽市街道箱崎店3F",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "33.62410817",
+    "longitude": "130.4195897",
+    "tel": "092-642-0761",
+    "address": "福岡市東区箱崎5-1-8楽市街道箱崎店内3F",
+    "access": "3号線沿い九州大学そば",
+    "games": [
+      "悪魔城ドラキュラ THE MEDAL"
+    ]
+  },
+  {
+    "name": "サープラ荒尾あそびタウン",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "33.001771",
+    "longitude": "130.437759",
+    "tel": "096-882-8986",
+    "address": "荒尾市原万田700-1",
+    "access": "",
+    "games": [
+      "悪魔城ドラキュラ THE MEDAL"
+    ]
+  },
+  {
+    "name": "パスカワールドグリーンランド",
+    "operation_time": "10:00～翌3:00",
+    "holiday": "無し",
+    "latitude": "32.98790587",
+    "longitude": "130.4711246",
+    "tel": "0968-69-3001",
+    "address": "荒尾市本井手1574-54",
+    "access": "三井グリーンランドウルトラマンランド横",
+    "games": [
+      "悪魔城ドラキュラ THE MEDAL"
+    ]
+  },
+  {
+    "name": "ラウンドワン沖縄･南風原店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "26.19509176",
+    "longitude": "127.7210653",
+    "tel": "098-940-6670",
+    "address": "島尻郡南風原町字兼城下茂原552",
+    "access": "",
+    "games": [
+      "悪魔城ドラキュラ THE MEDAL"
+    ]
+  },
+  {
+    "name": "アミパラ松江店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "35.463684",
+    "longitude": "133.074132",
+    "tel": "0852-67-1700",
+    "address": "松江市東朝日町203-1",
+    "access": "",
+    "games": [
+      "悪魔城ドラキュラ THE MEDAL"
+    ]
+  },
+  {
+    "name": "アミパラ広島店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "34.39350431",
+    "longitude": "132.4360428",
+    "tel": "082-297-7135",
+    "address": "広島市西区西観音町3-17",
+    "access": "平和大通り沿い、西区区役所から東へすぐ",
+    "games": [
+      "悪魔城ドラキュラ THE MEDAL"
+    ]
+  },
+  {
+    "name": "アミパラ日吉津店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.44581571",
+    "longitude": "133.3869124",
+    "tel": "0859-37-1959",
+    "address": "西伯郡日吉津村日吉津1160-1イオン日吉津SC西館2F",
+    "access": "米子道米子ICより北へ車で5分 イオン日吉津ショッピングセンター西館1階",
+    "games": [
+      "悪魔城ドラキュラ THE MEDAL"
+    ]
+  },
+  {
+    "name": "アミパラ東尾道店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "34.43048495",
+    "longitude": "133.2315964",
+    "tel": "0848-36-5715",
+    "address": "尾道市高須町5688",
+    "access": "",
+    "games": [
+      "悪魔城ドラキュラ THE MEDAL"
+    ]
+  },
+  {
+    "name": "タイトーステーションフジグラン神辺店",
+    "operation_time": "9:00～24:00",
+    "holiday": "無し",
+    "latitude": "34.544153",
+    "longitude": "133.357731",
+    "tel": "084-960-0789",
+    "address": "福山市神辺町大字新道上字2-10-26 フジグラン神辺店3F",
+    "access": "JR福塩線、道上駅下車。徒歩15分 フジグラン神辺店3階です。",
+    "games": [
+      "悪魔城ドラキュラ THE MEDAL"
+    ]
+  },
+  {
+    "name": "あみぱらんど福山店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "34.48795195",
+    "longitude": "133.3784594",
+    "tel": "0849-25-6188",
+    "address": "福山市三吉町南2-8-24",
+    "access": "国道2号線沿い、福山警察署から東へすぐ",
+    "games": [
+      "悪魔城ドラキュラ THE MEDAL"
+    ]
+  },
+  {
+    "name": "アミパラ倉敷店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "34.58364137",
+    "longitude": "133.7712207",
+    "tel": "086-430-2111",
+    "address": "倉敷市西中新田624-1アミパラボウル1F",
+    "access": "倉敷市役所前、アミパラボウル1F",
+    "games": [
+      "悪魔城ドラキュラ THE MEDAL"
+    ]
+  },
+  {
+    "name": "アミパラ岡山店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "34.63615978",
+    "longitude": "133.919988",
+    "tel": "086-235-3332",
+    "address": "岡山市北区青江1-13-8",
+    "access": "2号線バイパス・青江交差点から北へすぐ",
+    "games": [
+      "悪魔城ドラキュラ THE MEDAL"
+    ]
+  },
+  {
+    "name": "アミパラ丸亀店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "34.28466398",
+    "longitude": "133.8209638",
+    "tel": "0877-24-6666",
+    "address": "丸亀市飯野町西分字川縁甲584-1ハローズ棟",
+    "access": "坂出ICから5分国道11号線沿い ニトリ隣",
+    "games": [
+      "悪魔城ドラキュラ THE MEDAL"
+    ]
+  },
+  {
+    "name": "ラウンドワン高松店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "34.33898638",
+    "longitude": "134.0669994",
+    "tel": "087-812-6115",
+    "address": "高松市松島町2-7-43",
+    "access": "",
+    "games": [
+      "悪魔城ドラキュラ THE MEDAL"
+    ]
+  },
+  {
+    "name": "ラウンドワン加古川店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "34.74708002",
+    "longitude": "134.836935",
+    "tel": "0794-29-2513",
+    "address": "加古川市尾上町安田字小河原325番6号",
+    "access": "",
+    "games": [
+      "悪魔城ドラキュラ THE MEDAL"
+    ]
+  },
+  {
+    "name": "GiGOイオンモール苫小牧",
+    "operation_time": "ゲームコーナー9:00～24:00 / メダルコーナー9:00～23:30",
+    "holiday": "無し",
+    "latitude": "42.65619751",
+    "longitude": "141.6419704",
+    "tel": "0144-52-1212",
+    "address": "苫小牧市柳町3-1-20イオンモール苫小牧2F",
+    "access": "JR苫小牧駅よりバス20分",
+    "games": [
+      "悪魔城ドラキュラ THE MEDAL"
+    ]
+  },
+  {
+    "name": "アミパラ伊川谷店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "34.67051125",
+    "longitude": "135.024939",
+    "tel": "078-940-9838",
+    "address": "神戸市西区池上3-2-3",
+    "access": "",
+    "games": [
+      "悪魔城ドラキュラ THE MEDAL"
+    ]
+  },
+  {
+    "name": "ラウンドワン高槻店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "34.83266921",
+    "longitude": "135.6301782",
+    "tel": "072-672-9933",
+    "address": "高槻市辻子3-6-4",
+    "access": "",
+    "games": [
+      "悪魔城ドラキュラ THE MEDAL"
+    ]
+  },
+  {
+    "name": "ラウンドワン守口店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "34.7562488",
+    "longitude": "135.5886793",
+    "tel": "06-6907-9270",
+    "address": "守口市佐太東町2-6-14ジャガーグリーン2F",
+    "access": "",
+    "games": [
+      "悪魔城ドラキュラ THE MEDAL"
+    ]
+  },
+  {
+    "name": "アミパラ大東店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "34.7010172",
+    "longitude": "135.6386857",
+    "tel": "072-813-7600",
+    "address": "大東市南新田2-3-5",
+    "access": "",
+    "games": [
+      "悪魔城ドラキュラ THE MEDAL"
+    ]
+  },
+  {
+    "name": "ラウンドワン東大阪店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "34.6531932",
+    "longitude": "135.60637",
+    "tel": "06-6224-1700",
+    "address": "東大阪市若江南町1-2-12",
+    "access": "",
+    "games": [
+      "悪魔城ドラキュラ THE MEDAL"
+    ]
+  },
+  {
+    "name": "アピナ富山南店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "36.665007",
+    "longitude": "137.217248",
+    "tel": "076-461-6644",
+    "address": "富山市堀川町355-3",
+    "access": "富山マイプラザ店内",
+    "games": [
+      "悪魔城ドラキュラ THE MEDAL"
+    ]
+  },
+  {
+    "name": "アピナ富山新庄店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "36.69533117",
+    "longitude": "137.2480753",
+    "tel": "076-491-7700",
+    "address": "富山市荒川3-2-12",
+    "access": "",
+    "games": [
+      "悪魔城ドラキュラ THE MEDAL"
+    ]
+  },
+  {
+    "name": "アピナ四日市店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "34.94000426",
+    "longitude": "136.6070666",
+    "tel": "059-349-5011",
+    "address": "四日市市泊小柳町4-34",
+    "access": "",
+    "games": [
+      "悪魔城ドラキュラ THE MEDAL"
+    ]
+  },
+  {
+    "name": "ラウンドワン中川一号線店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "35.12338322",
+    "longitude": "136.8636484",
+    "tel": "052-665-5353",
+    "address": "名古屋市中川区法蔵町2-23",
+    "access": "",
+    "games": [
+      "悪魔城ドラキュラ THE MEDAL"
+    ]
+  },
+  {
+    "name": "アピナ長岡店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "37.45794202",
+    "longitude": "138.8125194",
+    "tel": "0258-22-5510",
+    "address": "長岡市堺東町22",
+    "access": "国道8号線長岡バイパス堺交差点近く",
+    "games": [
+      "悪魔城ドラキュラ THE MEDAL"
+    ]
+  },
+  {
+    "name": "ゲームパニック大高",
+    "operation_time": "9:00～23:45",
+    "holiday": "無し",
+    "latitude": "35.04850561",
+    "longitude": "136.9496236",
+    "tel": "052-625-5360",
+    "address": "名古屋市緑区忠治山201グランドボウルB2F",
+    "access": "国道23号線大高町共和IC側道グランドボウルB2階",
+    "games": [
+      "悪魔城ドラキュラ THE MEDAL"
+    ]
+  },
+  {
+    "name": "アピナ太田店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "36.28282169",
+    "longitude": "139.3983139",
+    "tel": "0276-48-1489",
+    "address": "太田市内ヶ島町907-1",
+    "access": "太田駅より車で5分富士重工近く",
+    "games": [
+      "悪魔城ドラキュラ THE MEDAL"
+    ]
+  },
+  {
+    "name": "スーパーウェーブ静岡店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "35.01361",
+    "longitude": "138.43421",
+    "tel": "054-340-5888",
+    "address": "静岡市清水区鳥坂860フレスポ静岡2F西",
+    "access": "",
+    "games": [
+      "悪魔城ドラキュラ THE MEDAL"
+    ]
+  },
+  {
+    "name": "アピナ焼津店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "34.83371431",
+    "longitude": "138.3059489",
+    "tel": "054-623-8555",
+    "address": "焼津市道原585",
+    "access": "",
+    "games": [
+      "悪魔城ドラキュラ THE MEDAL"
+    ]
+  },
+  {
+    "name": "ラウンドワンさいたま･鴻巣店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "36.08064011",
+    "longitude": "139.4902201",
+    "tel": "048-595-2001",
+    "address": "鴻巣市箕田3163-7",
+    "access": "",
+    "games": [
+      "悪魔城ドラキュラ THE MEDAL"
+    ]
+  },
+  {
+    "name": "アピナ小山店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "36.300419",
+    "longitude": "139.809126",
+    "tel": "0285-31-0050",
+    "address": "小山市駅南町4-27-18",
+    "access": "国道50号線沿い駅南町交差点",
+    "games": [
+      "悪魔城ドラキュラ THE MEDAL"
+    ]
+  },
+  {
+    "name": "ウェアハウス上尾店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.98142891",
+    "longitude": "139.5998843",
+    "tel": "048-770-3332",
+    "address": "上尾市二ツ宮1044",
+    "access": "R17号より蓮田、伊奈方面車で3分",
+    "games": [
+      "悪魔城ドラキュラ THE MEDAL"
+    ]
+  },
+  {
+    "name": "シルクハット八王子",
+    "operation_time": "10:00～24:45",
+    "holiday": "",
+    "latitude": "35.65636374",
+    "longitude": "139.3384725",
+    "tel": "",
+    "address": "八王子市旭町2-5八王子ツインタワービル3F",
+    "access": "JR八王子駅前",
+    "games": [
+      "悪魔城ドラキュラ THE MEDAL"
+    ]
+  },
+  {
+    "name": "ドラマ八王子高倉店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.66506526",
+    "longitude": "139.3664795",
+    "tel": "0426-45-7050",
+    "address": "八王子市高倉町55-4",
+    "access": "国道20号、八王子市高倉町「高倉町西」交差点を日野バイパス豊田方面右手",
+    "games": [
+      "悪魔城ドラキュラ THE MEDAL"
+    ]
+  },
+  {
+    "name": "タイトーステーション所沢店",
+    "operation_time": "09:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.7881",
+    "longitude": "139.47243",
+    "tel": "04-2925-9071",
+    "address": "所沢市日吉町3-7",
+    "access": "所沢駅西口プロペ通りを徒歩3分",
+    "games": [
+      "悪魔城ドラキュラ THE MEDAL"
+    ]
+  },
+  {
+    "name": "ウェアハウス三橋店",
+    "operation_time": "一部24時間営業",
+    "holiday": "無し",
+    "latitude": "35.91589833",
+    "longitude": "139.5959286",
+    "tel": "048-795-8380",
+    "address": "さいたま市西区三橋6-955-1",
+    "access": "国道17号バイパス三橋六丁目交差点",
+    "games": [
+      "悪魔城ドラキュラ THE MEDAL"
+    ]
+  },
+  {
+    "name": "アピナ橋本店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.597682",
+    "longitude": "139.337035",
+    "tel": "042-703-6033",
+    "address": "相模原市緑区西橋本5-1-1ラ･フロール駐車場棟1F",
+    "access": "橋本駅から徒歩10分 八王子バイパスから津久井街道へ繋がる側道に入ってすぐ",
+    "games": [
+      "悪魔城ドラキュラ THE MEDAL"
+    ]
+  },
+  {
+    "name": "Amusement&Game MAGHREB",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.624024",
+    "longitude": "139.423196",
+    "tel": "042-371-5556",
+    "address": "多摩市落合1-39-2マグレブビル1F",
+    "access": "京王線・小田急線 多摩センター駅 徒歩3分/多摩モノレール多摩センター駅 徒歩1分",
+    "games": [
+      "悪魔城ドラキュラ THE MEDAL"
+    ]
+  },
+  {
+    "name": "ラウンドワン府中本町駅前店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "35.667312",
+    "longitude": "139.477387",
+    "tel": "042-340-4901",
+    "address": "府中市本町1-13-3カネタビル",
+    "access": "",
+    "games": [
+      "悪魔城ドラキュラ THE MEDAL"
+    ]
+  },
+  {
+    "name": "ウェアハウス越谷店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.91195206",
+    "longitude": "139.7637557",
+    "tel": "048-973-4311",
+    "address": "越谷市大字南荻島841-1",
+    "access": "越谷岩槻線沿い、国道4号から車で1分",
+    "games": [
+      "悪魔城ドラキュラ THE MEDAL"
+    ]
+  },
+  {
+    "name": "アミューズメントFUNFUN越谷店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "35.912884",
+    "longitude": "139.771184",
+    "tel": "048-970-4490",
+    "address": "越谷市大字南荻島2770-1",
+    "access": "",
+    "games": [
+      "悪魔城ドラキュラ THE MEDAL"
+    ]
+  },
+  {
+    "name": "タイトーステーション海老名ビナウォーク店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.452455",
+    "longitude": "139.395834",
+    "tel": "046-292-5160",
+    "address": "海老名市中央1-18-1ビナウォーク6番館2F",
+    "access": "JR相模線、相鉄線、小田急線、海老名駅より徒歩5分",
+    "games": [
+      "悪魔城ドラキュラ THE MEDAL"
+    ]
+  },
+  {
+    "name": "ゲームシティ川口店",
+    "operation_time": "10:00～23:50",
+    "holiday": "無し",
+    "latitude": "35.80263316",
+    "longitude": "139.7255584",
+    "tel": "048-250-3855",
+    "address": "川口市栄町1-10-5",
+    "access": "JR川口駅東口徒歩10分",
+    "games": [
+      "悪魔城ドラキュラ THE MEDAL"
+    ]
+  },
+  {
+    "name": "タイトーステーション溝の口店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "35.600042",
+    "longitude": "139.61245",
+    "tel": "044-328-9262",
+    "address": "川崎市高津区溝口1-11-8",
+    "access": "",
+    "games": [
+      "悪魔城ドラキュラ THE MEDAL"
+    ]
+  },
+  {
+    "name": "サープラ横浜あそびタウン",
+    "operation_time": "9:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.55234069",
+    "longitude": "139.579585",
+    "tel": "045-914-7386",
+    "address": "横浜市都筑区中川中央1-25ノースポートモール6F",
+    "access": "横浜市営地下鉄センター北駅ノースポートモール6F",
+    "games": [
+      "悪魔城ドラキュラ THE MEDAL"
+    ]
+  },
+  {
+    "name": "ウェアハウス草加店",
+    "operation_time": "一部24時間",
+    "holiday": "無し",
+    "latitude": "35.82979825",
+    "longitude": "139.8207329",
+    "tel": "048-930-5261",
+    "address": "八潮市南後谷507",
+    "access": "草加産業道路沿い",
+    "games": [
+      "悪魔城ドラキュラ THE MEDAL"
+    ]
+  },
+  {
+    "name": "タイトーステーション渋谷店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.659983",
+    "longitude": "139.70204",
+    "tel": "03-5467-6565",
+    "address": "渋谷区渋谷1-24-12渋谷東映プラザB1F",
+    "access": "JR渋谷駅・宮益坂口より徒歩1分",
+    "games": [
+      "悪魔城ドラキュラ THE MEDAL"
+    ]
+  },
+  {
+    "name": "ドラマ藤沢店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.35751243",
+    "longitude": "139.4682681",
+    "tel": "0466-82-0328",
+    "address": "藤沢市本藤沢5-6-8",
+    "access": "小田急江ノ島線善行駅より徒歩15分",
+    "games": [
+      "悪魔城ドラキュラ THE MEDAL"
+    ]
+  },
+  {
+    "name": "タイトーFステーションオリナス錦糸町店",
+    "operation_time": "10:00～23:45",
+    "holiday": "無し",
+    "latitude": "35.700721",
+    "longitude": "139.816024",
+    "tel": "03-5610-7376",
+    "address": "墨田区太平4-1-2オリナスB1F",
+    "access": "JR総武線錦糸町駅北口から徒歩5分",
+    "games": [
+      "悪魔城ドラキュラ THE MEDAL"
+    ]
+  },
+  {
+    "name": "ジアス上大岡店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.40665354",
+    "longitude": "139.5960833",
+    "tel": "045-847-4780",
+    "address": "横浜市港南区上大岡西2-1-28赤い風船ビル2F",
+    "access": "京浜急行「上大岡駅」下車徒歩3分、横浜市営地下鉄「上大岡駅」下車徒歩1分赤い風船モールパート1 1階",
+    "games": [
+      "悪魔城ドラキュラ THE MEDAL"
+    ]
+  },
+  {
+    "name": "シルクハット川崎ダイス",
+    "operation_time": "9:00～24:45",
+    "holiday": "無し",
+    "latitude": "35.5314121",
+    "longitude": "139.7002166",
+    "tel": "",
+    "address": "川崎市川崎区駅前本町8ダイスビルB2F",
+    "access": "JR川崎駅アゼリア地下街と直結、京急川崎駅中央口徒歩1分",
+    "games": [
+      "悪魔城ドラキュラ THE MEDAL"
+    ]
+  },
+  {
+    "name": "シルクハット伊勢佐木町",
+    "operation_time": "9:00～23:45",
+    "holiday": "無し",
+    "latitude": "35.44281185",
+    "longitude": "139.629987",
+    "tel": "",
+    "address": "横浜市中区伊勢佐木町3-96日活会館ビル3F",
+    "access": "JR関内駅北口より徒歩7分・京急線日ノ出町より徒歩6分・横浜市営地下鉄ブルーライン伊勢佐木長者町駅より徒歩4分",
+    "games": [
+      "悪魔城ドラキュラ THE MEDAL"
+    ]
+  },
+  {
+    "name": "GiGO水戸南",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "36.350325",
+    "longitude": "140.443003",
+    "tel": "029-244-1045",
+    "address": "水戸市千波町2017-1",
+    "access": "",
+    "games": [
+      "悪魔城ドラキュラ THE MEDAL"
+    ]
+  },
+  {
+    "name": "シルクハット津田沼",
+    "operation_time": "9:00～23:45",
+    "holiday": "無し",
+    "latitude": "35.69040687",
+    "longitude": "140.0221583",
+    "tel": "",
+    "address": "習志野市津田沼1-2-1十三ビルB1F",
+    "access": "JR津田沼駅、京成新津田沼駅徒歩1分",
+    "games": [
+      "悪魔城ドラキュラ THE MEDAL"
+    ]
+  },
+  {
+    "name": "GiGOひたちなか",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "36.34756197",
+    "longitude": "140.5803556",
+    "tel": "070-1449-2941",
+    "address": "ひたちなか市田中後40-11",
+    "access": "",
+    "games": [
+      "悪魔城ドラキュラ THE MEDAL"
+    ]
+  },
+  {
+    "name": "パレパレ稲毛長沼店",
+    "operation_time": "9:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.65753267",
+    "longitude": "140.129187",
+    "tel": "043-304-7878",
+    "address": "千葉市稲毛区長沼原町731-25フレスポ稲毛A2棟-4",
+    "access": "JR稲毛駅より京成バス山王町行き、ヴィルフォーレ下車2分",
+    "games": [
+      "悪魔城ドラキュラ THE MEDAL"
+    ]
+  },
+  {
+    "name": "アドアーズ千葉北店",
+    "operation_time": "10:00～23:45",
+    "holiday": "無し",
+    "latitude": "35.66037597",
+    "longitude": "140.1393385",
+    "tel": "043-421-6322",
+    "address": "千葉市稲毛区山王町310-1ROUTE66PARK内",
+    "access": "県道66号線沿オートバックス横",
+    "games": [
+      "悪魔城ドラキュラ THE MEDAL"
+    ]
+  }
+]

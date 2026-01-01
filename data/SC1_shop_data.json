@@ -1,0 +1,41 @@
+[
+  {
+    "name": "ゲームコング",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "35.07730389",
+    "longitude": "137.1608843",
+    "tel": "0565-35-0300",
+    "address": "豊田市広路町2-20",
+    "access": "",
+    "games": [
+      "Steel Chronicle VICTROOPERS"
+    ]
+  },
+  {
+    "name": "アミューズメントフィールドバイヨン",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.85617882",
+    "longitude": "139.522425",
+    "tel": "0492-65-1400",
+    "address": "ふじみ野市うれし野2-16-1LCモールうれし野2F",
+    "access": "東武東上線「ふじみ野」駅徒歩6分ショッピングモールリズム横",
+    "games": [
+      "Steel Chronicle VICTROOPERS"
+    ]
+  },
+  {
+    "name": "ASO:VIBA!",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.64677066",
+    "longitude": "139.7109583",
+    "tel": "03-3444-4912",
+    "address": "渋谷区恵比寿1-10-5",
+    "access": "JR山手線恵比寿駅徒歩1分",
+    "games": [
+      "Steel Chronicle VICTROOPERS"
+    ]
+  }
+]

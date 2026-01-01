@@ -1,0 +1,54 @@
+[
+  {
+    "name": "キャッツアイ篠路店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "43.14070168",
+    "longitude": "141.3571701",
+    "tel": "011-776-1500",
+    "address": "札幌市北区篠路1条4-6-30",
+    "access": "JR篠路駅下車徒歩20分",
+    "games": [
+      "GI-VICTORY ROAD(DXタイプ)"
+    ]
+  },
+  {
+    "name": "ウェアハウス上尾店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.98142891",
+    "longitude": "139.5998843",
+    "tel": "048-770-3332",
+    "address": "上尾市二ツ宮1044",
+    "access": "R17号より蓮田、伊奈方面車で3分",
+    "games": [
+      "GI-VICTORY ROAD(DXタイプ)"
+    ]
+  },
+  {
+    "name": "ウェアハウス草加店",
+    "operation_time": "一部24時間",
+    "holiday": "無し",
+    "latitude": "35.82979825",
+    "longitude": "139.8207329",
+    "tel": "048-930-5261",
+    "address": "八潮市南後谷507",
+    "access": "草加産業道路沿い",
+    "games": [
+      "GI-VICTORY ROAD(DXタイプ)"
+    ]
+  },
+  {
+    "name": "アドアーズイサゴ店",
+    "operation_time": "10:00～23:30",
+    "holiday": "無し",
+    "latitude": "35.52972044",
+    "longitude": "139.7004317",
+    "tel": "044-246-3161",
+    "address": "川崎市川崎区砂子2-5-5(株)岡田屋2BKビル1F",
+    "access": "銀柳から仲見世通り善光寺角を左",
+    "games": [
+      "GI-VICTORY ROAD(DXタイプ)"
+    ]
+  }
+]

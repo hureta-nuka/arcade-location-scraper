@@ -1,0 +1,28 @@
+[
+  {
+    "name": "サープラ京都あそびタウン",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "35.01029561",
+    "longitude": "135.741185",
+    "tel": "075-813-2150",
+    "address": "京都市中京区西ノ京栂尾町107BiVi二条内2F",
+    "access": "",
+    "games": [
+      "GI-WorldClassic RISING"
+    ]
+  },
+  {
+    "name": "サープラOZ浜松あそびタウン",
+    "operation_time": "9:00～24:00",
+    "holiday": "無し",
+    "latitude": "34.72247074",
+    "longitude": "137.7647101",
+    "tel": "053-466-3387",
+    "address": "浜松市中央区宮竹町322-1",
+    "access": "東名高速浜松IC車で20分",
+    "games": [
+      "GI-WorldClassic RISING"
+    ]
+  }
+]

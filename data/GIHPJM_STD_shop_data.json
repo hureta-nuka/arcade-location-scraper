@@ -1,0 +1,54 @@
+[
+  {
+    "name": "遊道楽時津店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "32.82008054",
+    "longitude": "129.8473546",
+    "tel": "095-813-2525",
+    "address": "西彼杵郡時津町元村郷863-10",
+    "access": "川平有料道路入り口井出園交差点付近",
+    "games": [
+      "GI-HORSEPARK JUDGMENT STD"
+    ]
+  },
+  {
+    "name": "遊道楽新合川",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "33.32176241",
+    "longitude": "130.541007",
+    "tel": "0942-45-3335",
+    "address": "久留米市新合川1-6-7",
+    "access": "国道210号線バイパス沿い",
+    "games": [
+      "GI-HORSEPARK JUDGMENT STD"
+    ]
+  },
+  {
+    "name": "フェスタコスモタウン佐伯店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "32.9610561",
+    "longitude": "131.8662353",
+    "tel": "0972-22-3660",
+    "address": "佐伯市鶴岡西町2-163コスモタウン佐伯内",
+    "access": "",
+    "games": [
+      "GI-HORSEPARK JUDGMENT STD"
+    ]
+  },
+  {
+    "name": "イミグランデ大和店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.49148588",
+    "longitude": "139.4547647",
+    "tel": "046-277-8571",
+    "address": "大和市鶴間2-12-27",
+    "access": "小田急鶴間駅徒歩5分",
+    "games": [
+      "GI-HORSEPARK JUDGMENT STD"
+    ]
+  }
+]

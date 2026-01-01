@@ -1,0 +1,847 @@
+[
+  {
+    "name": "遊道楽 嘉瀬店",
+    "operation_time": "11:00～24:00",
+    "holiday": "無し",
+    "latitude": "33.24215325",
+    "longitude": "130.2565663",
+    "tel": "0952-40-0952",
+    "address": "佐賀市嘉瀬町大字中原2488-1",
+    "access": "207号線沿い",
+    "games": [
+      "REFLEC BEAT"
+    ]
+  },
+  {
+    "name": "遊道楽新合川",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "33.32176241",
+    "longitude": "130.541007",
+    "tel": "0942-45-3335",
+    "address": "久留米市新合川1-6-7",
+    "access": "国道210号線バイパス沿い",
+    "games": [
+      "REFLEC BEAT"
+    ]
+  },
+  {
+    "name": "PEP魚町",
+    "operation_time": "10:00～翌1:00",
+    "holiday": "無し",
+    "latitude": "33.88396547",
+    "longitude": "130.880026",
+    "tel": "093-513-1511",
+    "address": "北九州市小倉北区魚町2-4-20",
+    "access": "モノレール平和通り駅徒歩1分",
+    "games": [
+      "REFLEC BEAT"
+    ]
+  },
+  {
+    "name": "G-pala日田店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "33.32522467",
+    "longitude": "130.9114515",
+    "tel": "0973-25-5262",
+    "address": "日田市友田997-1",
+    "access": "",
+    "games": [
+      "REFLEC BEAT"
+    ]
+  },
+  {
+    "name": "フェスタ人吉店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "32.2120774",
+    "longitude": "130.7482481",
+    "tel": "0966-24-6210",
+    "address": "人吉市宝来町1307-1人吉レックス内",
+    "access": "人吉駅より車で5分",
+    "games": [
+      "REFLEC BEAT"
+    ]
+  },
+  {
+    "name": "モーリーファンタジー那覇",
+    "operation_time": "10:00～22:00",
+    "holiday": "無し",
+    "latitude": "26.19689585",
+    "longitude": "127.6658336",
+    "tel": "070-3100-5314",
+    "address": "那覇市金城5-10-2イオン那覇3F",
+    "access": "モノレール 小禄駅 正面 ジャスコ那覇店内3F",
+    "games": [
+      "REFLEC BEAT"
+    ]
+  },
+  {
+    "name": "アミューズメントスペース遊ランド稚内店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "45.40077226",
+    "longitude": "141.6807113",
+    "tel": "0162-22-2233",
+    "address": "稚内市港5-8-15",
+    "access": "",
+    "games": [
+      "REFLEC BEAT"
+    ]
+  },
+  {
+    "name": "トライセン萩原店",
+    "operation_time": "ボウリングコーナー:10:00～24:00 ゲームコーナー:7:00～翌3:00",
+    "holiday": "無し",
+    "latitude": "33.249338",
+    "longitude": "131.643415",
+    "tel": "097-556-2188",
+    "address": "大分市萩原4-227-1ACS内3F",
+    "access": "臨界産業道路沿い 大洲総合運動公園近く",
+    "games": [
+      "REFLEC BEAT"
+    ]
+  },
+  {
+    "name": "タイトーステーション広島紙屋町店",
+    "operation_time": "平日10:00～24:00 土日祝9:00～24:00",
+    "holiday": "無し",
+    "latitude": "34.394034",
+    "longitude": "132.456154",
+    "tel": "082-544-3961",
+    "address": "広島市中区紙屋町2-2-21",
+    "access": "広島電鉄 紙屋町西電停より徒歩2分",
+    "games": [
+      "REFLEC BEAT"
+    ]
+  },
+  {
+    "name": "メカランド サルビア",
+    "operation_time": "10:00～翌3:00",
+    "holiday": "無し",
+    "latitude": "35.51980336",
+    "longitude": "134.2034528",
+    "tel": "0857-31-0000",
+    "address": "鳥取市南隈860",
+    "access": "ジャスコ鳥取北店より徒歩15分",
+    "games": [
+      "REFLEC BEAT"
+    ]
+  },
+  {
+    "name": "ふぇすたらんど倉敷マスカット店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "34.62752957",
+    "longitude": "133.8016045",
+    "tel": "086-463-9311",
+    "address": "倉敷市松島1163-2マルナカマスカット店別館3F",
+    "access": "",
+    "games": [
+      "REFLEC BEAT"
+    ]
+  },
+  {
+    "name": "キャッツアイ新札幌店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "43.04493545",
+    "longitude": "141.4754191",
+    "tel": "011-899-1500",
+    "address": "札幌市厚別区厚別東5条1-2-10",
+    "access": "JR、札幌市営地下鉄新札幌駅下車徒歩20分",
+    "games": [
+      "REFLEC BEAT"
+    ]
+  },
+  {
+    "name": "アピナ姫路店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "34.82687",
+    "longitude": "134.7151",
+    "tel": "079-222-8811",
+    "address": "姫路市東郷町1454-3姫路リオス2F",
+    "access": "",
+    "games": [
+      "REFLEC BEAT"
+    ]
+  },
+  {
+    "name": "ファンタジープラザ苫小牧店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "42.64112709",
+    "longitude": "141.5953404",
+    "tel": "0144-34-4390",
+    "address": "苫小牧市木場町1-6-1MEGAドンキホーテ苫小牧店2F",
+    "access": "",
+    "games": [
+      "REFLEC BEAT"
+    ]
+  },
+  {
+    "name": "遊ランド富良野店",
+    "operation_time": "13:00～翌1:00",
+    "holiday": "無し",
+    "latitude": "43.34423305",
+    "longitude": "142.3786409",
+    "tel": "0167-39-0123",
+    "address": "富良野市弥生町5-50",
+    "access": "富良野駅徒歩10分",
+    "games": [
+      "REFLEC BEAT"
+    ]
+  },
+  {
+    "name": "アピナ野々市バッティングセンター",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "36.5367673",
+    "longitude": "136.6111101",
+    "tel": "076-248-8889",
+    "address": "野々市市若松町5-5",
+    "access": "ホームセンターヤマギシ近く",
+    "games": [
+      "REFLEC BEAT"
+    ]
+  },
+  {
+    "name": "アルプラザボウル鯖江",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.968299",
+    "longitude": "136.188691",
+    "tel": "0778-54-0089",
+    "address": "鯖江市下河端町16-6-1",
+    "access": "",
+    "games": [
+      "REFLEC BEAT"
+    ]
+  },
+  {
+    "name": "アミューズメントCUE京都円町店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "35.01880055",
+    "longitude": "135.7309726",
+    "tel": "075-462-9316",
+    "address": "京都市中京区西ノ京西円町40",
+    "access": "",
+    "games": [
+      "REFLEC BEAT"
+    ]
+  },
+  {
+    "name": "GiGO難波アビオン",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "34.66278737",
+    "longitude": "135.5032116",
+    "tel": "070-1458-1437",
+    "address": "大阪市浪速区難波中2-3-15MMOビル1-2F",
+    "access": "",
+    "games": [
+      "REFLEC BEAT"
+    ]
+  },
+  {
+    "name": "キョーイチアミューズメントパーク吉祥院",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "34.9658897",
+    "longitude": "135.7248239",
+    "tel": "075-672-4321",
+    "address": "京都市南区吉祥院石原長田町1-2",
+    "access": "",
+    "games": [
+      "REFLEC BEAT"
+    ]
+  },
+  {
+    "name": "スペースファンタジーインフィニ",
+    "operation_time": "10:00～23:00",
+    "holiday": "無し",
+    "latitude": "40.60673278",
+    "longitude": "140.495868",
+    "tel": "0172-26-2661",
+    "address": "弘前市城東北3-10-1さくら野弘前店4F",
+    "access": "",
+    "games": [
+      "REFLEC BEAT"
+    ]
+  },
+  {
+    "name": "トップラン東大阪",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "34.69383",
+    "longitude": "135.61757",
+    "tel": "072-970-6923",
+    "address": "東大阪市東鴻池町1-6-30イオンタウン東大阪2F",
+    "access": "",
+    "games": [
+      "REFLEC BEAT"
+    ]
+  },
+  {
+    "name": "アピナ富山豊田店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "36.7211336",
+    "longitude": "137.2352552",
+    "tel": "076-433-3355",
+    "address": "富山市豊田町2-12-66",
+    "access": "国道8号線豊田東交差点近く",
+    "games": [
+      "REFLEC BEAT"
+    ]
+  },
+  {
+    "name": "ドリーム キャンディ",
+    "operation_time": "一部24時間",
+    "holiday": "無し",
+    "latitude": "34.775269",
+    "longitude": "136.122796",
+    "tel": "0595-26-7568",
+    "address": "伊賀市小田町711-1",
+    "access": "西大手駅から約13分",
+    "games": [
+      "REFLEC BEAT"
+    ]
+  },
+  {
+    "name": "岐阜レジャーランド穂積店",
+    "operation_time": "7:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.38432479",
+    "longitude": "136.6846653",
+    "tel": "058-326-1133",
+    "address": "瑞穂市稲里630",
+    "access": "国道21号線沿い瑞穂市野田新田交差点近く",
+    "games": [
+      "REFLEC BEAT"
+    ]
+  },
+  {
+    "name": "モーリーファンタジーf岐阜",
+    "operation_time": "10:00～22:00",
+    "holiday": "無し",
+    "latitude": "35.44803841",
+    "longitude": "136.7447554",
+    "tel": "070-3100-3566",
+    "address": "岐阜市正木中1-2-1マーサ21 北館3F",
+    "access": "ジャスコ岐阜店北側3階",
+    "games": [
+      "REFLEC BEAT"
+    ]
+  },
+  {
+    "name": "A.Cグランド",
+    "operation_time": "9:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.38308553",
+    "longitude": "136.7461998",
+    "tel": "058-275-0351",
+    "address": "岐阜市茜部大川1-77",
+    "access": "名鉄新岐阜駅15分",
+    "games": [
+      "REFLEC BEAT"
+    ]
+  },
+  {
+    "name": "アピナ四日市店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "34.94000426",
+    "longitude": "136.6070666",
+    "tel": "059-349-5011",
+    "address": "四日市市泊小柳町4-34",
+    "access": "",
+    "games": [
+      "REFLEC BEAT"
+    ]
+  },
+  {
+    "name": "ファンタジープラザ名古屋店",
+    "operation_time": "10:00～翌5:00",
+    "holiday": "無し",
+    "latitude": "35.22569311",
+    "longitude": "136.908786",
+    "tel": "052-938-3461",
+    "address": "名古屋市北区玄馬町234-1クロスタウン2F",
+    "access": "比良駅徒歩6分/大我麻交差点付近",
+    "games": [
+      "REFLEC BEAT"
+    ]
+  },
+  {
+    "name": "ファンタジードーム八戸店",
+    "operation_time": "10:00～20:00",
+    "holiday": "無し",
+    "latitude": "40.5217548",
+    "longitude": "141.5034775",
+    "tel": "0178-47-1370",
+    "address": "八戸市江陽2-14-1ラピア八戸別棟",
+    "access": "長崎屋八戸店内",
+    "games": [
+      "REFLEC BEAT"
+    ]
+  },
+  {
+    "name": "キングジョイ",
+    "operation_time": "9:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.16797694",
+    "longitude": "136.9050444",
+    "tel": "052-241-9515",
+    "address": "名古屋市中区栄3-3-32",
+    "access": "地下鉄栄駅徒歩3分",
+    "games": [
+      "REFLEC BEAT"
+    ]
+  },
+  {
+    "name": "タイトーステーションフェドラ大須店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.15945319",
+    "longitude": "136.9054236",
+    "tel": "052-242-2011",
+    "address": "名古屋市中区大須3-30-31萬松寺駐車場ビル1F･2F",
+    "access": "地下鉄名城線上前津駅より徒歩1分",
+    "games": [
+      "REFLEC BEAT"
+    ]
+  },
+  {
+    "name": "コムテックスクウェア金山",
+    "operation_time": "9:00～24:00",
+    "holiday": "",
+    "latitude": "35.14401179",
+    "longitude": "136.8999767",
+    "tel": "052-321-5601",
+    "address": "名古屋市中区金山1-16-8",
+    "access": "名鉄金山駅徒歩3分",
+    "games": [
+      "REFLEC BEAT"
+    ]
+  },
+  {
+    "name": "アピナ松本",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "36.21052692",
+    "longitude": "137.9610526",
+    "tel": "0263-24-1133",
+    "address": "松本市双葉19-10",
+    "access": "国道19号線沿い、イトーヨーカドーそば",
+    "games": [
+      "REFLEC BEAT"
+    ]
+  },
+  {
+    "name": "M'Sパーク豊田店",
+    "operation_time": "一部24時間営業",
+    "holiday": "",
+    "latitude": "35.0565113",
+    "longitude": "137.1404324",
+    "tel": "0565-71-0027",
+    "address": "豊田市寿町3-10-11",
+    "access": "愛知環状鉄道三河豊田駅10分。名鉄三河線土橋駅より徒歩10分。",
+    "games": [
+      "REFLEC BEAT"
+    ]
+  },
+  {
+    "name": "ゲームゾーン岡谷",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "36.0601829",
+    "longitude": "138.0483111",
+    "tel": "0266-78-6008",
+    "address": "岡谷市中央町2-2-1",
+    "access": "",
+    "games": [
+      "REFLEC BEAT"
+    ]
+  },
+  {
+    "name": "ソユーファミリーゲームフィールド花巻店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "39.38633946",
+    "longitude": "141.1360354",
+    "tel": "0198-21-1030",
+    "address": "花巻市高木第16地割68-6銀河モール花巻内",
+    "access": "",
+    "games": [
+      "REFLEC BEAT"
+    ]
+  },
+  {
+    "name": "アピナ飯田店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.52993571",
+    "longitude": "137.8596325",
+    "tel": "026-559-7711",
+    "address": "飯田市座光寺3728-1",
+    "access": "国道153号線座光寺交差点近く",
+    "games": [
+      "REFLEC BEAT"
+    ]
+  },
+  {
+    "name": "GiGO会津若松",
+    "operation_time": "9:00～24:00",
+    "holiday": "無し",
+    "latitude": "37.51832577",
+    "longitude": "139.9222191",
+    "tel": "0242-37-0777",
+    "address": "会津若松市町北町上荒久田字宮下142",
+    "access": "磐越道会津若松IC側",
+    "games": [
+      "REFLEC BEAT"
+    ]
+  },
+  {
+    "name": "アミュージアム南アルプス店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "35.618069",
+    "longitude": "138.467232",
+    "tel": "055-283-3100",
+    "address": "南アルプス市小笠原1423-1トライアル南アルプス店1F",
+    "access": "",
+    "games": [
+      "REFLEC BEAT"
+    ]
+  },
+  {
+    "name": "アピナ磐田店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "34.727905",
+    "longitude": "137.877149",
+    "tel": "0538-36-2626",
+    "address": "磐田市西貝塚横須賀道北3690イオンタウン磐田内",
+    "access": "",
+    "games": [
+      "REFLEC BEAT"
+    ]
+  },
+  {
+    "name": "ゲームコーナー東部",
+    "operation_time": "9:00～24:00",
+    "holiday": "無し",
+    "latitude": "38.25101621",
+    "longitude": "140.9438974",
+    "tel": "022-287-5880",
+    "address": "仙台市若林区六丁の目中町26-60",
+    "access": "六丁目の交差点より多賀城方面へ向かい車で5分。産業通り沿い。",
+    "games": [
+      "REFLEC BEAT"
+    ]
+  },
+  {
+    "name": "アピナ大須賀店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "34.6769718",
+    "longitude": "137.9692623",
+    "tel": "0537-63-4650",
+    "address": "掛川市西大渕3359ロックタウン内",
+    "access": "",
+    "games": [
+      "REFLEC BEAT"
+    ]
+  },
+  {
+    "name": "アピナ太田店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "36.28282169",
+    "longitude": "139.3983139",
+    "tel": "0276-48-1489",
+    "address": "太田市内ヶ島町907-1",
+    "access": "太田駅より車で5分富士重工近く",
+    "games": [
+      "REFLEC BEAT"
+    ]
+  },
+  {
+    "name": "アピナ焼津店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "34.83371431",
+    "longitude": "138.3059489",
+    "tel": "054-623-8555",
+    "address": "焼津市道原585",
+    "access": "",
+    "games": [
+      "REFLEC BEAT"
+    ]
+  },
+  {
+    "name": "ソユーゲームフィールド熊谷店",
+    "operation_time": "10:00～21:00",
+    "holiday": "不定休",
+    "latitude": "36.13861007",
+    "longitude": "139.3937222",
+    "tel": "048-523-3080",
+    "address": "熊谷市銀座2-245ニットーモール4F",
+    "access": "JR熊谷駅より徒歩5分",
+    "games": [
+      "REFLEC BEAT"
+    ]
+  },
+  {
+    "name": "ソユーエンターテイメントスタジオ須賀川店",
+    "operation_time": "10:00～24:00",
+    "holiday": "",
+    "latitude": "37.29827338",
+    "longitude": "140.3853001",
+    "tel": "0248-63-8918",
+    "address": "須賀川市古河105イオンタウン須賀川B棟内",
+    "access": "",
+    "games": [
+      "REFLEC BEAT"
+    ]
+  },
+  {
+    "name": "キャロム 坂戸店",
+    "operation_time": "12:00～翌3:00/祝前日、土曜日 午前5:00まで",
+    "holiday": "無し",
+    "latitude": "35.95251751",
+    "longitude": "139.3985348",
+    "tel": "0492-84-7821",
+    "address": "坂戸市関間2-151-1",
+    "access": "西入間警察署裏",
+    "games": [
+      "REFLEC BEAT"
+    ]
+  },
+  {
+    "name": "アピナ小山店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "36.300419",
+    "longitude": "139.809126",
+    "tel": "0285-31-0050",
+    "address": "小山市駅南町4-27-18",
+    "access": "国道50号線沿い駅南町交差点",
+    "games": [
+      "REFLEC BEAT"
+    ]
+  },
+  {
+    "name": "ウェアハウス三橋店",
+    "operation_time": "一部24時間営業",
+    "holiday": "無し",
+    "latitude": "35.91589833",
+    "longitude": "139.5959286",
+    "tel": "048-795-8380",
+    "address": "さいたま市西区三橋6-955-1",
+    "access": "国道17号バイパス三橋六丁目交差点",
+    "games": [
+      "REFLEC BEAT"
+    ]
+  },
+  {
+    "name": "キャロム 所沢店",
+    "operation_time": "12:00～翌3:00/祝前日、土曜日翌5:00まで",
+    "holiday": "無し",
+    "latitude": "35.79106583",
+    "longitude": "139.5042181",
+    "tel": "042-946-2160",
+    "address": "所沢市下安松969-1",
+    "access": "旧463号沿い",
+    "games": [
+      "REFLEC BEAT"
+    ]
+  },
+  {
+    "name": "ビッグボウル杉戸",
+    "operation_time": "10:00～翌1:00",
+    "holiday": "無し",
+    "latitude": "36.04028926",
+    "longitude": "139.720837",
+    "tel": "0480-34-7870",
+    "address": "北葛飾郡杉戸町杉戸2338",
+    "access": "東武伊勢崎線東武動物公園駅より徒歩30分 国道4号線沿い",
+    "games": [
+      "REFLEC BEAT"
+    ]
+  },
+  {
+    "name": "アピナ下館店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "36.29325391",
+    "longitude": "139.944075",
+    "tel": "0296-28-0033",
+    "address": "筑西市玉戸1012-3",
+    "access": "R50号玉戸信号近く",
+    "games": [
+      "REFLEC BEAT"
+    ]
+  },
+  {
+    "name": "GiGO相模原",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.57350902",
+    "longitude": "139.3710322",
+    "tel": "080-7465-6268",
+    "address": "相模原市中央区中央2-1-5ムトス内",
+    "access": "JR横浜線相模原駅徒歩15分国道16号線近く",
+    "games": [
+      "REFLEC BEAT"
+    ]
+  },
+  {
+    "name": "ウェアハウス岩槻店",
+    "operation_time": "7:00～23:45",
+    "holiday": "無し",
+    "latitude": "35.94092949",
+    "longitude": "139.6859268",
+    "tel": "048-758-8755",
+    "address": "さいたま市岩槻区加倉3-3-63",
+    "access": "岩槻IC降りて直ぐ",
+    "games": [
+      "REFLEC BEAT"
+    ]
+  },
+  {
+    "name": "神奈川レジャーランド厚木店",
+    "operation_time": "一部24時間営業",
+    "holiday": "無し",
+    "latitude": "35.44802433",
+    "longitude": "139.3431365",
+    "tel": "050-1722-4336",
+    "address": "厚木市戸室5-31-1",
+    "access": "小田急本厚木駅よりバスにてアンリツ前バス停下車徒歩1分",
+    "games": [
+      "REFLEC BEAT"
+    ]
+  },
+  {
+    "name": "ウェアハウス入谷店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.80112943",
+    "longitude": "139.760997",
+    "tel": "03-3856-5833",
+    "address": "足立区入谷7-8-11",
+    "access": "足立ICから車で3分",
+    "games": [
+      "REFLEC BEAT"
+    ]
+  },
+  {
+    "name": "タイトーステーション池袋ロサ店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.732483",
+    "longitude": "139.709305",
+    "tel": "03-3982-1270",
+    "address": "豊島区西池袋1-37-12ロサ会館1F",
+    "access": "JR池袋駅西口、北口より徒歩3分",
+    "games": [
+      "REFLEC BEAT"
+    ]
+  },
+  {
+    "name": "ビリヤードウェアハウス草加店",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.83027597",
+    "longitude": "139.8209349",
+    "tel": "048-930-5033",
+    "address": "草加市稲荷2-36-33",
+    "access": "草加産業道路沿いウェアハウス草加店隣り",
+    "games": [
+      "REFLEC BEAT"
+    ]
+  },
+  {
+    "name": "ソユートイズニューヨーク守谷店",
+    "operation_time": "9:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.94486888",
+    "longitude": "139.991201",
+    "tel": "0297-47-1685",
+    "address": "守谷市百合ケ丘3-249-1イオンタウン守谷2F",
+    "access": "",
+    "games": [
+      "REFLEC BEAT"
+    ]
+  },
+  {
+    "name": "GiGOデイズタウンつくば",
+    "operation_time": "10:00～24:00",
+    "holiday": "無休",
+    "latitude": "36.07768145",
+    "longitude": "140.1153322",
+    "tel": "070-1459-0875",
+    "address": "つくば市竹園1-9-2デイズタウンつくばB1F",
+    "access": "つくば駅徒歩5分デイズタウンつくばB1F",
+    "games": [
+      "REFLEC BEAT"
+    ]
+  },
+  {
+    "name": "GiGOヒタチエ",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "36.59170086",
+    "longitude": "140.6592855",
+    "tel": "0294-23-2046",
+    "address": "日立市幸町1-16-1ヒタチエ5F",
+    "access": "",
+    "games": [
+      "REFLEC BEAT"
+    ]
+  },
+  {
+    "name": "アミューズメントエース津田沼",
+    "operation_time": "9:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.69228053",
+    "longitude": "140.0201572",
+    "tel": "047-475-8918",
+    "address": "船橋市前原西2-15-1ファミービル1-3F",
+    "access": "JR「津田沼駅」下車北口より徒歩1分",
+    "games": [
+      "REFLEC BEAT"
+    ]
+  },
+  {
+    "name": "ラッキー中央店(フェリシダ)",
+    "operation_time": "9:00～24:50",
+    "holiday": "無し",
+    "latitude": "35.61028144",
+    "longitude": "140.1182438",
+    "tel": "043-222-5610",
+    "address": "千葉市中央区富士見2-8-1",
+    "access": "JR千葉駅より徒歩5分",
+    "games": [
+      "REFLEC BEAT"
+    ]
+  },
+  {
+    "name": "タイトーステーション旭サンモール店",
+    "operation_time": "9:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.725157",
+    "longitude": "140.658686",
+    "tel": "0479-62-5215",
+    "address": "旭市イ-2676-1サンモール3F",
+    "access": "旭駅から歩いて5分。 イオン、サンモールの看板が目印",
+    "games": [
+      "REFLEC BEAT"
+    ]
+  }
+]
