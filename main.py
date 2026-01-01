@@ -143,7 +143,7 @@ async def scrape_shop_data():
             finally:
                 await browser.close()
             
-        save_to_json(shop_data, filename=f'{game_id}_shop_data.json')
+        save_to_json(shop_data, filename=f'./data/{game_id}_shop_data.json')
 
     return shop_data
 
