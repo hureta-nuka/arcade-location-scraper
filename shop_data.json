@@ -21,6 +21,16 @@
       "access": "JR筑肥線 九大学研都市駅 南口すぐ"
     },
     {
+      "name": "GiGO武雄",
+      "operation_time": "",
+      "holiday": "",
+      "latitude": "33.19933861",
+      "longitude": "130.0346407",
+      "tel": "0954-22-2087",
+      "address": "武雄市武雄町大字富岡12517-1",
+      "access": ""
+    },
+    {
       "name": "タイトーステーション福岡天神店",
       "operation_time": "10:00～翌1:00",
       "holiday": "無し",
@@ -78,6 +88,16 @@
       "longitude": "130.3015536",
       "tel": "0952-36-7070",
       "address": "佐賀市兵庫北4-2-1",
+      "access": ""
+    },
+    {
+      "name": "GiGO諫早",
+      "operation_time": "",
+      "holiday": "",
+      "latitude": "32.83163832",
+      "longitude": "130.0553573",
+      "tel": "070-1459-7051",
+      "address": "諫早市小川町90-1",
       "access": ""
     },
     {
@@ -141,6 +161,16 @@
       "access": "JR長府駅徒歩12分"
     },
     {
+      "name": "G-pala小倉店",
+      "operation_time": "",
+      "holiday": "",
+      "latitude": "33.83945824",
+      "longitude": "130.9109857",
+      "tel": "093-953-7405",
+      "address": "北九州市小倉南区上葛原1-14-1",
+      "access": ""
+    },
+    {
       "name": "パスカワールドグリーンランド",
       "operation_time": "10:00～翌3:00",
       "holiday": "無し",
@@ -158,6 +188,16 @@
       "longitude": "131.2615641",
       "tel": "0836-37-2626",
       "address": "宇部市海南町1675カッタの湯",
+      "access": ""
+    },
+    {
+      "name": "G-pala日田店",
+      "operation_time": "10:00～24:00",
+      "holiday": "無し",
+      "latitude": "33.32522467",
+      "longitude": "130.9114515",
+      "tel": "0973-25-5262",
+      "address": "日田市友田997-1",
       "access": ""
     },
     {
@@ -192,7 +232,7 @@
     },
     {
       "name": "ユーズランド三光店",
-      "operation_time": "",
+      "operation_time": "10:00～21:00",
       "holiday": "",
       "latitude": "33.559002",
       "longitude": "131.192857",
@@ -452,7 +492,7 @@
     },
     {
       "name": "ユーズランド倉敷店",
-      "operation_time": "10:00～22:00",
+      "operation_time": "10:00～21:00",
       "holiday": "無し",
       "latitude": "34.60290341",
       "longitude": "133.7454258",
@@ -892,7 +932,7 @@
     },
     {
       "name": "ユーズランド和歌山店",
-      "operation_time": "",
+      "operation_time": "10:00～21:00",
       "holiday": "",
       "latitude": "34.275743",
       "longitude": "135.149066",
@@ -936,7 +976,7 @@
       "holiday": "",
       "latitude": "34.70459687",
       "longitude": "135.4961906",
-      "tel": "070-3100-5248",
+      "tel": "070-3100-4088",
       "address": "大阪市北区大深町1-1ヨドバシ梅田タワーLINKS 5F",
       "access": ""
     },
@@ -1452,7 +1492,7 @@
     },
     {
       "name": "ユーズランド下田店",
-      "operation_time": "10:00～22:00",
+      "operation_time": "10:00～21:00",
       "holiday": "無し",
       "latitude": "40.60188383",
       "longitude": "141.4176032",
@@ -1701,6 +1741,16 @@
       "access": "名鉄常滑線豊田本町駅近く"
     },
     {
+      "name": "GiGOアドバンスモール松阪",
+      "operation_time": "",
+      "holiday": "",
+      "latitude": "34.553832",
+      "longitude": "136.514666",
+      "tel": "0598-21-5460",
+      "address": "松阪市田村町235-1",
+      "access": ""
+    },
+    {
       "name": "モーリーファンタジーf新瑞橋",
       "operation_time": "",
       "holiday": "",
@@ -1762,7 +1812,7 @@
     },
     {
       "name": "ユーズランド東浦店",
-      "operation_time": "10:00～23:00",
+      "operation_time": "10:00～21:00",
       "holiday": "無し",
       "latitude": "34.97885364",
       "longitude": "136.9741411",
@@ -2002,7 +2052,7 @@
     },
     {
       "name": "ユーズランド高崎店",
-      "operation_time": "10:00～23:00",
+      "operation_time": "10:00～21:00",
       "holiday": "",
       "latitude": "36.39047889",
       "longitude": "139.0067302",
@@ -2091,6 +2141,16 @@
       "access": "県道13号沿い、上信越道藤岡IC北 カーオプション店『ピット100』2階"
     },
     {
+      "name": "ラウンドワンスタジアム仙台泉店",
+      "operation_time": "",
+      "holiday": "",
+      "latitude": "38.35192551",
+      "longitude": "140.8797545",
+      "tel": "022-347-4471",
+      "address": "仙台市泉区大沢2-12-4仙台泉インターシティ1F",
+      "access": ""
+    },
+    {
       "name": "インターワールド伊勢崎店",
       "operation_time": "10:00～24:00",
       "holiday": "無し",
@@ -2171,6 +2231,16 @@
       "access": ""
     },
     {
+      "name": "ゲームフィールド仙台長町店",
+      "operation_time": "",
+      "holiday": "",
+      "latitude": "38.22565173",
+      "longitude": "140.8768793",
+      "tel": "022-304-2371",
+      "address": "仙台市太白区長町7-20-3ザ･モール仙台長町店3F",
+      "access": ""
+    },
+    {
       "name": "ラウンドワン仙台苦竹店",
       "operation_time": "",
       "holiday": "",
@@ -2202,7 +2272,7 @@
     },
     {
       "name": "ユーズランド大河原店",
-      "operation_time": "",
+      "operation_time": "10:00～21:00",
       "holiday": "",
       "latitude": "38.065153",
       "longitude": "140.737021",
@@ -2252,7 +2322,7 @@
     },
     {
       "name": "ユーズランド太田店",
-      "operation_time": "10:00～23:00",
+      "operation_time": "10:00～21:00",
       "holiday": "無し",
       "latitude": "36.29327372",
       "longitude": "139.4001931",
@@ -2279,6 +2349,16 @@
       "tel": "024-946-8222",
       "address": "郡山市安積町荒井字大久保35-1",
       "access": ""
+    },
+    {
+      "name": "ドラマ足利店",
+      "operation_time": "10:00～24:00",
+      "holiday": "無し",
+      "latitude": "36.32220259",
+      "longitude": "139.4503607",
+      "tel": "0284-73-9559",
+      "address": "足利市朝倉町244-1",
+      "access": "東武伊勢崎線足利市駅より徒歩10分"
     },
     {
       "name": "ラウンドワン静岡･駿河店",
@@ -3051,6 +3131,16 @@
       "access": "西武池袋線 東長崎駅より徒歩2分"
     },
     {
+      "name": "タイトーステーション池袋ロサ店",
+      "operation_time": "10:00～24:00",
+      "holiday": "無し",
+      "latitude": "35.732483",
+      "longitude": "139.709305",
+      "tel": "03-3982-1270",
+      "address": "豊島区西池袋1-37-12ロサ会館1F",
+      "access": "JR池袋駅西口、北口より徒歩3分"
+    },
+    {
       "name": "タイトーステーション池袋西口店",
       "operation_time": "",
       "holiday": "",
@@ -3201,6 +3291,16 @@
       "access": ""
     },
     {
+      "name": "ドラマ港北インター店",
+      "operation_time": "10:00～24:00",
+      "holiday": "無し",
+      "latitude": "35.51925659",
+      "longitude": "139.5847927",
+      "tel": "045-474-6604",
+      "address": "横浜市都筑区東方町321-6",
+      "access": "第三京浜港北IC右側交差点左折約500M"
+    },
+    {
       "name": "GiGO渋谷宮益坂",
       "operation_time": "",
       "holiday": "",
@@ -3229,6 +3329,16 @@
       "tel": "03-3260-7253",
       "address": "新宿区神楽坂2-11第2カグラヒルズ1F",
       "access": ""
+    },
+    {
+      "name": "ドラマ藤沢店",
+      "operation_time": "10:00～24:00",
+      "holiday": "無し",
+      "latitude": "35.35751243",
+      "longitude": "139.4682681",
+      "tel": "0466-82-0328",
+      "address": "藤沢市本藤沢5-6-8",
+      "access": "小田急江ノ島線善行駅より徒歩15分"
     },
     {
       "name": "ASO:VIBA!",
@@ -3322,7 +3432,7 @@
     },
     {
       "name": "ユーズランド水戸内原店",
-      "operation_time": "",
+      "operation_time": "10:00～21:00",
       "holiday": "",
       "latitude": "36.374428",
       "longitude": "140.3590138",
@@ -3489,16 +3599,6 @@
       "tel": "0246-73-1001",
       "address": "いわき市小名浜字辰巳町79イオンモールいわき小名浜3F",
       "access": ""
-    },
-    {
-      "name": "シルクハット伊勢佐木町",
-      "operation_time": "9:00～23:45",
-      "holiday": "無し",
-      "latitude": "35.44281185",
-      "longitude": "139.629987",
-      "tel": "",
-      "address": "横浜市中区伊勢佐木町3-96日活会館ビル3F",
-      "access": "JR関内駅北口より徒歩7分・京急線日ノ出町より徒歩6分・横浜市営地下鉄ブルーライン伊勢佐木長者町駅より徒歩4分"
     },
     {
       "name": "ラウンドワン南砂店",
@@ -3671,14 +3771,14 @@
       "access": "JR津田沼駅、京成新津田沼駅徒歩1分"
     },
     {
-      "name": "GiGOひたちなか別館",
-      "operation_time": "10:00～24:00",
-      "holiday": "無し",
-      "latitude": "36.34746899",
-      "longitude": "140.5800737",
-      "tel": "029-263-7615",
-      "address": "ひたちなか市田中後40-2",
-      "access": "北関東自動車道 ひたちなかインターから車で約5分"
+      "name": "GiGOひたちなか",
+      "operation_time": "",
+      "holiday": "",
+      "latitude": "36.34756197",
+      "longitude": "140.5803556",
+      "tel": "070-1449-2941",
+      "address": "ひたちなか市田中後40-11",
+      "access": ""
     },
     {
       "name": "ラウンドワン習志野店",
@@ -3731,16 +3831,6 @@
       "access": "JR千葉駅より徒歩5分"
     },
     {
-      "name": "スポーツウェーブ鉄腕24浜野店",
-      "operation_time": "一部24時間営業",
-      "holiday": "無し",
-      "latitude": "35.55423187",
-      "longitude": "140.1264305",
-      "tel": "043-300-8033",
-      "address": "千葉市中央区浜野町1025-59",
-      "access": "館山自動車道蘇我ICより車で8分"
-    },
-    {
       "name": "ラウンドワン市原店",
       "operation_time": "",
       "holiday": "",
@@ -3748,6 +3838,16 @@
       "longitude": "140.1233239",
       "tel": "0436-44-8801",
       "address": "市原市八幡北町3-5-1",
+      "access": ""
+    },
+    {
+      "name": "フリスポ佐原",
+      "operation_time": "",
+      "holiday": "",
+      "latitude": "35.90115035",
+      "longitude": "140.493442",
+      "tel": "0478-54-6160",
+      "address": "香取市佐原イ-4200",
       "access": ""
     },
     {
@@ -3781,8 +3881,8 @@
       "access": "国道126号線成東町姫島地内ローソン奥"
     }
   ],
-  "count": 378,
+  "count": 388,
   "source": "https://p.eagate.573.jp/game/facility/search/p/list.html",
-  "timestamp": "2025-10-25T22:04:58.788059",
+  "timestamp": "2026-01-01T01:12:28.747777",
   "description": "KONAMI e-amusement店舗検索から取得した全店舗データ"
 }
