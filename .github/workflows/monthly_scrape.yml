@@ -23,7 +23,7 @@ jobs:
         - name: Install the project
           run: uv sync --locked --all-extras --dev
 
-        - name: Run script
+        - name: Run scrape script
           run: |
             uv run playwright install
             uv run playwright install-deps
@@ -42,3 +42,7 @@ jobs:
             else
               echo "No changes to commit"
             fi
+        
+        - name: Run merge script
+          run: |
+            uv run merge.py
