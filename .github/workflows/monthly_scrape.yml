@@ -35,7 +35,10 @@ jobs:
             git config --global user.name "GitHub Actions"
             git config --global user.email "actions@github.com"
             git checkout -b new-shop-data
-            git add shop_data.json
-            git commit -m "Update shop data"
-            git push -f origin new-shop-data
-      
+            git add ./data/*.json
+            if ! git diff --cached --exit-code --quiet; then
+              git commit -m "Update shop data"
+              git push -f origin new-shop-data
+            else
+              echo "No changes to commit"
+            fi
