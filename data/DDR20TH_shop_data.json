@@ -18,7 +18,7 @@
     "holiday": "",
     "latitude": "33.589905",
     "longitude": "130.396633",
-    "tel": "092-771-8121",
+    "tel": "070-1458-1702",
     "address": "福岡市中央区天神2-7-6天神DADAビル",
     "access": "",
     "games": [
@@ -689,14 +689,14 @@
     ]
   },
   {
-    "name": "ゲームパニック堺",
-    "operation_time": "10:00～23:45",
+    "name": "ユーズランド高岡店",
+    "operation_time": "10:00～21:00",
     "holiday": "無し",
-    "latitude": "34.597817",
-    "longitude": "135.447433",
-    "tel": "072-224-8295",
-    "address": "堺市堺区築港八幡町1-1堺浜シーサイド内堺浜えんため館",
-    "access": "南海バス20系統「堺市内北回り」 堺駅西口→堺浜シーサイドステージ約17分 堺東駅→堺浜シーサイドステージ約25分",
+    "latitude": "36.72378877",
+    "longitude": "137.016935",
+    "tel": "0766-27-2411",
+    "address": "高岡市下伏間江383イオンモール高岡2F",
+    "access": "イオン高岡SC2FJR高岡駅よりバスで10分能越自動車道高岡ICより東へ約3km",
     "games": [
       "DanceDanceRevolution 20th anniversary model"
     ]
@@ -720,7 +720,7 @@
     "holiday": "",
     "latitude": "34.66848732",
     "longitude": "135.5017054",
-    "tel": "070-1458-4741",
+    "tel": "070-1459-1559",
     "address": "大阪市中央区道頓堀1-8-22頓座ビル1F-3F",
     "access": "",
     "games": [
@@ -811,7 +811,7 @@
     "holiday": "",
     "latitude": "34.646623",
     "longitude": "135.511677",
-    "tel": "06-6647-0716",
+    "tel": "070-1458-1519",
     "address": "大阪市阿倍野区阿倍野筋1-5-31アポロビル3F･4F",
     "access": "JR 天王寺駅・近鉄あべの橋駅より徒歩3分 アポロビル 3F",
     "games": [
@@ -902,7 +902,7 @@
     "holiday": "",
     "latitude": "34.66416946",
     "longitude": "135.5628455",
-    "tel": "06-6783-6999",
+    "tel": "070-1459-4020",
     "address": "東大阪市長堂1-1-1ロンモール布施内",
     "access": "",
     "games": [
@@ -1391,7 +1391,7 @@
     ]
   },
   {
-    "name": "ラウンドワンイーアス春日井店",
+    "name": "ラウンドワンスタジアムヨロッカ春日井店",
     "operation_time": "",
     "holiday": "",
     "latitude": "35.25898",
@@ -1526,7 +1526,7 @@
     "holiday": "",
     "latitude": "35.067883",
     "longitude": "137.123797",
-    "tel": "0565-26-6777",
+    "tel": "070-1459-2494",
     "address": "豊田市深田町1-65-1",
     "access": "",
     "games": [
@@ -1851,7 +1851,7 @@
     "holiday": "",
     "latitude": "38.26181",
     "longitude": "140.87675",
-    "tel": "022-211-1922",
+    "tel": "070-1458-0346",
     "address": "仙台市青葉区中央2-5-5三経60ビル",
     "access": "",
     "games": [
@@ -1937,7 +1937,7 @@
     ]
   },
   {
-    "name": "タイトーFステーション郡山オリエントパーク店",
+    "name": "タイトーFステーション郡山オリエントパーク",
     "operation_time": "",
     "holiday": "",
     "latitude": "37.37465045",
@@ -2046,7 +2046,7 @@
     "holiday": "",
     "latitude": "36.558326",
     "longitude": "139.90882",
-    "tel": "028-633-6082",
+    "tel": "070-1458-5967",
     "address": "宇都宮市東宿郷5-1-7",
     "access": "",
     "games": [
@@ -2358,7 +2358,7 @@
     "holiday": "",
     "latitude": "35.532177",
     "longitude": "139.436075",
-    "tel": "042-741-8195",
+    "tel": "070-1458-9839",
     "address": "相模原市南区相模大野3-13-2フレスコビル3F",
     "access": "",
     "games": [
@@ -2371,7 +2371,7 @@
     "holiday": "",
     "latitude": "35.54392",
     "longitude": "139.446987",
-    "tel": "042-723-6701",
+    "tel": "070-1458-7623",
     "address": "町田市原町田6-13-17アーバンミサワビル",
     "access": "",
     "games": [
@@ -2444,19 +2444,6 @@
     ]
   },
   {
-    "name": "テクモピア座間店",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "35.48001079",
-    "longitude": "139.431891",
-    "tel": "046-205-4719",
-    "address": "座間市ひばりが丘4-11-48",
-    "access": "",
-    "games": [
-      "DanceDanceRevolution 20th anniversary model"
-    ]
-  },
-  {
     "name": "アピナ荻窪店",
     "operation_time": "10:00～24:00 金土祝前日10:00～25:00",
     "holiday": "",
@@ -2522,19 +2509,6 @@
     ]
   },
   {
-    "name": "ユーズランド越谷店",
-    "operation_time": "10:00～21:00",
-    "holiday": "無し",
-    "latitude": "35.87763779",
-    "longitude": "139.8247477",
-    "tel": "048-934-3342",
-    "address": "越谷市レイクタウン4-2-2イオンレイクタウンKAZE 3F",
-    "access": "武蔵野線レイクタウン駅下車徒歩1分",
-    "games": [
-      "DanceDanceRevolution 20th anniversary model"
-    ]
-  },
-  {
     "name": "ラウンドワン池袋店",
     "operation_time": "",
     "holiday": "",
@@ -2567,7 +2541,7 @@
     "latitude": "35.73071",
     "longitude": "139.71644",
     "tel": "03-5904-8388",
-    "address": "豊島区東池袋1-29-1マルビル池袋2-3F",
+    "address": "豊島区東池袋1-29-1マルビル池袋B1-3F",
     "access": "",
     "games": [
       "DanceDanceRevolution 20th anniversary model"
@@ -2657,7 +2631,7 @@
     "holiday": "",
     "latitude": "35.660097",
     "longitude": "139.702644",
-    "tel": "03-3409-4737",
+    "tel": "070-1458-0880",
     "address": "渋谷区渋谷1-14-14EST 1F･7F",
     "access": "",
     "games": [
@@ -2696,7 +2670,7 @@
     "holiday": "",
     "latitude": "35.5364623",
     "longitude": "139.6324113",
-    "tel": "045-547-1199",
+    "tel": "070-1458-9945",
     "address": "横浜市港北区綱島西2-6-29城田ビル3F",
     "access": "",
     "games": [
@@ -2735,7 +2709,7 @@
     "holiday": "",
     "latitude": "35.699336",
     "longitude": "139.770908",
-    "tel": "03-5297-3601",
+    "tel": "070-1458-2284",
     "address": "千代田区外神田1-11-11外神田1丁目ビルディング",
     "access": "",
     "games": [
@@ -2761,7 +2735,7 @@
     "holiday": "",
     "latitude": "35.69871026",
     "longitude": "139.7709979",
-    "tel": "",
+    "tel": "044-589-4523",
     "address": "千代田区外神田1-10-9",
     "access": "",
     "games": [
@@ -2878,7 +2852,7 @@
     "holiday": "",
     "latitude": "35.590043",
     "longitude": "139.72823",
-    "tel": "03-5709-0669",
+    "tel": "070-1458-9581",
     "address": "大田区山王2-1-5大森駅ララビル2F",
     "access": "",
     "games": [
@@ -2943,7 +2917,7 @@
     "holiday": "",
     "latitude": "35.79133049",
     "longitude": "139.937777",
-    "tel": "047-392-4661",
+    "tel": "070-1458-8638",
     "address": "松戸市日暮1-1-1八柱駅第2ビル2F",
     "access": "",
     "games": [
@@ -3008,7 +2982,7 @@
     "holiday": "",
     "latitude": "36.369467",
     "longitude": "140.474532",
-    "tel": "029-231-1002",
+    "tel": "070-1458-0665",
     "address": "水戸市宮町1-7-44コムボックス310 3F",
     "access": "",
     "games": [
@@ -3068,6 +3042,19 @@
     ]
   },
   {
+    "name": "ラウンドワンさいか屋横須賀店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "35.28214943",
+    "longitude": "139.6695932",
+    "tel": "046-876-8208",
+    "address": "横須賀市大滝町1-13さいか屋横須賀店本館6F",
+    "access": "",
+    "games": [
+      "DanceDanceRevolution 20th anniversary model"
+    ]
+  },
+  {
     "name": "アミューズメントエース津田沼",
     "operation_time": "9:00～24:00",
     "holiday": "無し",
@@ -3099,7 +3086,7 @@
     "holiday": "",
     "latitude": "35.65022338",
     "longitude": "140.0425216",
-    "tel": "043-273-5261",
+    "tel": "070-1458-0443",
     "address": "千葉市美浜区ひび野1-8メッセアミューズモール1F",
     "access": "",
     "games": [

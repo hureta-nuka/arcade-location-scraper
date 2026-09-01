@@ -13,53 +13,27 @@
     ]
   },
   {
-    "name": "楽市街道箱崎店3F",
-    "operation_time": "10:00～24:00",
-    "holiday": "無し",
-    "latitude": "33.62410817",
-    "longitude": "130.4195897",
-    "tel": "092-642-0761",
-    "address": "福岡市東区箱崎5-1-8楽市街道箱崎店内3F",
-    "access": "3号線沿い九州大学そば",
-    "games": [
-      "PanicPirates"
-    ]
-  },
-  {
-    "name": "サープラ荒尾あそびタウン",
+    "name": "アミパラ下関駅南店",
     "operation_time": "",
     "holiday": "",
-    "latitude": "33.001771",
-    "longitude": "130.437759",
-    "tel": "096-882-8986",
-    "address": "荒尾市原万田700-1",
+    "latitude": "33.94509097",
+    "longitude": "130.9204956",
+    "tel": "083-250-5501",
+    "address": "下関市東大和町1-3-15",
     "access": "",
     "games": [
       "PanicPirates"
     ]
   },
   {
-    "name": "パスカワールドグリーンランド",
-    "operation_time": "10:00～翌3:00",
+    "name": "アミパラ下関長府店",
+    "operation_time": "10:00～24:00",
     "holiday": "無し",
-    "latitude": "32.98790587",
-    "longitude": "130.4711246",
-    "tel": "0968-69-3001",
-    "address": "荒尾市本井手1574-54",
-    "access": "三井グリーンランドウルトラマンランド横",
-    "games": [
-      "PanicPirates"
-    ]
-  },
-  {
-    "name": "パスカワールド宇土店",
-    "operation_time": "日曜～木曜 10:00～23:00  金曜・土曜 10:00～24:00",
-    "holiday": "無し",
-    "latitude": "32.68271108",
-    "longitude": "130.6679513",
-    "tel": "0964-22-5311",
-    "address": "宇土市善道寺町綾織95",
-    "access": "松橋ICより車で10分、宇土シティーショッピングセンター内",
+    "latitude": "34.02547781",
+    "longitude": "131.0073811",
+    "tel": "083-248-5008",
+    "address": "下関市長府才川1-42-48",
+    "access": "JR長府駅徒歩12分",
     "games": [
       "PanicPirates"
     ]
@@ -156,32 +130,6 @@
     ]
   },
   {
-    "name": "アミパラがいな店",
-    "operation_time": "10:00 ～ 24:00",
-    "holiday": "無し",
-    "latitude": "35.43797411",
-    "longitude": "133.3392651",
-    "tel": "0859-39-1800",
-    "address": "米子市日ノ出町1-8-13",
-    "access": "米子しんまち天満屋から南西へ300m",
-    "games": [
-      "PanicPirates"
-    ]
-  },
-  {
-    "name": "アミパラ日吉津店",
-    "operation_time": "10:00～24:00",
-    "holiday": "無し",
-    "latitude": "35.44581571",
-    "longitude": "133.3869124",
-    "tel": "0859-37-1959",
-    "address": "西伯郡日吉津村日吉津1160-1イオン日吉津SC西館2F",
-    "access": "米子道米子ICより北へ車で5分 イオン日吉津ショッピングセンター西館1階",
-    "games": [
-      "PanicPirates"
-    ]
-  },
-  {
     "name": "ラウンドワン宮崎店",
     "operation_time": "",
     "holiday": "",
@@ -273,13 +221,13 @@
     ]
   },
   {
-    "name": "ラウンドワン高松店",
+    "name": "アミパラ屋島店",
     "operation_time": "",
     "holiday": "",
-    "latitude": "34.33898638",
-    "longitude": "134.0669994",
-    "tel": "087-812-6115",
-    "address": "高松市松島町2-7-43",
+    "latitude": "34.33586322",
+    "longitude": "134.1013238",
+    "tel": "087-813-6570",
+    "address": "高松市新田町甲 甲35-2",
     "access": "",
     "games": [
       "PanicPirates"
@@ -330,7 +278,7 @@
     "holiday": "無し",
     "latitude": "42.65619751",
     "longitude": "141.6419704",
-    "tel": "0144-52-1212",
+    "tel": "080-7032-8310",
     "address": "苫小牧市柳町3-1-20イオンモール苫小牧2F",
     "access": "JR苫小牧駅よりバス20分",
     "games": [
@@ -377,6 +325,19 @@
     ]
   },
   {
+    "name": "GiGOつかしん",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "34.760868",
+    "longitude": "135.418336",
+    "tel": "070-1459-4912",
+    "address": "尼崎市塚口本町4-8-1つかしん内",
+    "access": "",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
     "name": "サープラ京都あそびタウン",
     "operation_time": "",
     "holiday": "",
@@ -384,19 +345,6 @@
     "longitude": "135.741185",
     "tel": "075-813-2150",
     "address": "京都市中京区西ノ京栂尾町107BiVi二条内2F",
-    "access": "",
-    "games": [
-      "PanicPirates"
-    ]
-  },
-  {
-    "name": "ラウンドワン高槻店",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "34.83266921",
-    "longitude": "135.6301782",
-    "tel": "072-672-9933",
-    "address": "高槻市辻子3-6-4",
     "access": "",
     "games": [
       "PanicPirates"
@@ -481,19 +429,6 @@
     ]
   },
   {
-    "name": "ラウンドワン東大阪店",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "34.6531932",
-    "longitude": "135.60637",
-    "tel": "06-6224-1700",
-    "address": "東大阪市若江南町1-2-12",
-    "access": "",
-    "games": [
-      "PanicPirates"
-    ]
-  },
-  {
     "name": "アピナ富山豊田店",
     "operation_time": "10:00～24:00",
     "holiday": "無し",
@@ -567,19 +502,6 @@
     "tel": "059-349-5011",
     "address": "四日市市泊小柳町4-34",
     "access": "",
-    "games": [
-      "PanicPirates"
-    ]
-  },
-  {
-    "name": "アミューズメントワールドメトロポリス小牧店",
-    "operation_time": "平日10:00～23:50 土日祝日前 9:00～23:50",
-    "holiday": "無し",
-    "latitude": "35.2951722",
-    "longitude": "136.905659",
-    "tel": "0568-71-0005",
-    "address": "小牧市村中新町33",
-    "access": "名神高速小牧インターより南へ1km R41号間々本町交差点角",
     "games": [
       "PanicPirates"
     ]
@@ -715,6 +637,19 @@
     ]
   },
   {
+    "name": "GiGO北岡崎",
+    "operation_time": "9:00～24:00",
+    "holiday": "無し",
+    "latitude": "34.97365547",
+    "longitude": "137.1600268",
+    "tel": "070-1393-5583",
+    "address": "岡崎市錦町2-4",
+    "access": "国道248号線沿い、愛知環状線北岡崎駅から徒歩3分",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
     "name": "ポート24幸田",
     "operation_time": "10:00～24:00",
     "holiday": "無休",
@@ -767,7 +702,7 @@
     ]
   },
   {
-    "name": "ドラマ足利店",
+    "name": "GiGO足利朝倉",
     "operation_time": "10:00～24:00",
     "holiday": "無し",
     "latitude": "36.32220259",
@@ -858,32 +793,6 @@
     ]
   },
   {
-    "name": "ラウンドワン宇都宮店",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "36.54080987",
-    "longitude": "139.8868656",
-    "tel": "028-614-8171",
-    "address": "宇都宮市江曽島町2072-1",
-    "access": "",
-    "games": [
-      "PanicPirates"
-    ]
-  },
-  {
-    "name": "ドラマ瑞穂店",
-    "operation_time": "10:00～24:00",
-    "holiday": "無し",
-    "latitude": "35.76337213",
-    "longitude": "139.3568934",
-    "tel": "042-556-6605",
-    "address": "西多摩郡瑞穂町武蔵382-1",
-    "access": "JR八高線「箱根ヶ崎駅」から武蔵村山市方面に徒歩25分",
-    "games": [
-      "PanicPirates"
-    ]
-  },
-  {
     "name": "アピナ小山店",
     "operation_time": "10:00～24:00",
     "holiday": "無し",
@@ -936,12 +845,12 @@
     ]
   },
   {
-    "name": "ドラマ八王子高倉店",
+    "name": "GiGO八王子高倉",
     "operation_time": "10:00～24:00",
     "holiday": "無し",
     "latitude": "35.66506526",
     "longitude": "139.3664795",
-    "tel": "0426-45-7050",
+    "tel": "042-645-7050",
     "address": "八王子市高倉町55-4",
     "access": "国道20号、八王子市高倉町「高倉町西」交差点を日野バイパス豊田方面右手",
     "games": [
@@ -996,6 +905,19 @@
     "tel": "0296-28-0033",
     "address": "筑西市玉戸1012-3",
     "access": "R50号玉戸信号近く",
+    "games": [
+      "PanicPirates"
+    ]
+  },
+  {
+    "name": "Amusement&Game MAGHREB",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.624024",
+    "longitude": "139.423196",
+    "tel": "042-371-5556",
+    "address": "多摩市落合1-39-2マグレブビル1F",
+    "access": "京王線・小田急線 多摩センター駅 徒歩3分/多摩モノレール多摩センター駅 徒歩1分",
     "games": [
       "PanicPirates"
     ]
@@ -1131,19 +1053,6 @@
     ]
   },
   {
-    "name": "アドアーズサンシャイン店",
-    "operation_time": "10:00～23:45",
-    "holiday": "無し",
-    "latitude": "35.72996953",
-    "longitude": "139.714918",
-    "tel": "03-3971-9601",
-    "address": "豊島区東池袋1-14-4シネマサンシャイン1-3F",
-    "access": "シネマサンシャインビル内",
-    "games": [
-      "PanicPirates"
-    ]
-  },
-  {
     "name": "タイトーステーション溝の口店",
     "operation_time": "",
     "holiday": "",
@@ -1196,7 +1105,7 @@
     ]
   },
   {
-    "name": "ドラマ港北インター店",
+    "name": "GiGO港北インター",
     "operation_time": "10:00～24:00",
     "holiday": "無し",
     "latitude": "35.51925659",
@@ -1235,7 +1144,7 @@
     ]
   },
   {
-    "name": "ドラマ藤沢店",
+    "name": "GiGO本藤沢",
     "operation_time": "10:00～24:00",
     "holiday": "無し",
     "latitude": "35.35751243",
@@ -1365,14 +1274,14 @@
     ]
   },
   {
-    "name": "大慶園",
-    "operation_time": "一部24時間営業",
-    "holiday": "無し",
-    "latitude": "35.76304297",
-    "longitude": "139.96933",
-    "tel": "047-337-5001",
-    "address": "市川市大町359",
-    "access": "JR市川大野駅下車 市川植物園行きバス乗車 市川斎場前下車徒歩10分・北総線大町駅から車5分",
+    "name": "ラウンドワンさいか屋横須賀店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "35.28214943",
+    "longitude": "139.6695932",
+    "tel": "046-876-8208",
+    "address": "横須賀市大滝町1-13さいか屋横須賀店本館6F",
+    "access": "",
     "games": [
       "PanicPirates"
     ]

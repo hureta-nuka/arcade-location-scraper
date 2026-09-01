@@ -260,19 +260,6 @@
     ]
   },
   {
-    "name": "アミパラ加古川店",
-    "operation_time": "10:00～24:00",
-    "holiday": "無し",
-    "latitude": "34.75139256",
-    "longitude": "134.8287077",
-    "tel": "079-456-0044",
-    "address": "加古川市尾上町今福71-2",
-    "access": "JR播但線 京口駅 徒歩20分",
-    "games": [
-      "GRANDCROSS GOLD"
-    ]
-  },
-  {
     "name": "ホムスタ加古川店",
     "operation_time": "10:00～24:00",
     "holiday": "無し",
@@ -346,19 +333,6 @@
     "tel": "076-245-1850",
     "address": "金沢市横川6-120-1",
     "access": "",
-    "games": [
-      "GRANDCROSS GOLD"
-    ]
-  },
-  {
-    "name": "ゲームパニック堺",
-    "operation_time": "10:00～23:45",
-    "holiday": "無し",
-    "latitude": "34.597817",
-    "longitude": "135.447433",
-    "tel": "072-224-8295",
-    "address": "堺市堺区築港八幡町1-1堺浜シーサイド内堺浜えんため館",
-    "access": "南海バス20系統「堺市内北回り」 堺駅西口→堺浜シーサイドステージ約17分 堺東駅→堺浜シーサイドステージ約25分",
     "games": [
       "GRANDCROSS GOLD"
     ]
@@ -559,7 +533,7 @@
     ]
   },
   {
-    "name": "ラウンドワンイーアス春日井店",
+    "name": "ラウンドワンスタジアムヨロッカ春日井店",
     "operation_time": "",
     "holiday": "",
     "latitude": "35.25898",
@@ -767,7 +741,7 @@
     ]
   },
   {
-    "name": "ドラマ足利店",
+    "name": "GiGO足利朝倉",
     "operation_time": "10:00～24:00",
     "holiday": "無し",
     "latitude": "36.32220259",
@@ -827,19 +801,6 @@
     "tel": "048-595-2001",
     "address": "鴻巣市箕田3163-7",
     "access": "",
-    "games": [
-      "GRANDCROSS GOLD"
-    ]
-  },
-  {
-    "name": "ドラマ瑞穂店",
-    "operation_time": "10:00～24:00",
-    "holiday": "無し",
-    "latitude": "35.76337213",
-    "longitude": "139.3568934",
-    "tel": "042-556-6605",
-    "address": "西多摩郡瑞穂町武蔵382-1",
-    "access": "JR八高線「箱根ヶ崎駅」から武蔵村山市方面に徒歩25分",
     "games": [
       "GRANDCROSS GOLD"
     ]
@@ -988,7 +949,7 @@
     ]
   },
   {
-    "name": "ドラマ港北インター店",
+    "name": "GiGO港北インター",
     "operation_time": "10:00～24:00",
     "holiday": "無し",
     "latitude": "35.51925659",
@@ -1014,7 +975,7 @@
     ]
   },
   {
-    "name": "ドラマ藤沢店",
+    "name": "GiGO本藤沢",
     "operation_time": "10:00～24:00",
     "holiday": "無し",
     "latitude": "35.35751243",

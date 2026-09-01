@@ -26,19 +26,6 @@
     ]
   },
   {
-    "name": "ビバーチャ",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "34.37953351",
-    "longitude": "132.4613726",
-    "tel": "082-504-8665",
-    "address": "広島市中区南竹屋町10-17",
-    "access": "",
-    "games": [
-      "Winning Eleven AC 2014(新筺体)"
-    ]
-  },
-  {
     "name": "GAME BANK",
     "operation_time": "9:00～24:00",
     "holiday": "無し",
@@ -52,53 +39,14 @@
     ]
   },
   {
-    "name": "アピナ小山店",
-    "operation_time": "10:00～24:00",
-    "holiday": "無し",
-    "latitude": "36.300419",
-    "longitude": "139.809126",
-    "tel": "0285-31-0050",
-    "address": "小山市駅南町4-27-18",
-    "access": "国道50号線沿い駅南町交差点",
-    "games": [
-      "Winning Eleven AC 2014(新筺体)"
-    ]
-  },
-  {
-    "name": "ドラマ八王子高倉店",
+    "name": "GiGO八王子高倉",
     "operation_time": "10:00～24:00",
     "holiday": "無し",
     "latitude": "35.66506526",
     "longitude": "139.3664795",
-    "tel": "0426-45-7050",
+    "tel": "042-645-7050",
     "address": "八王子市高倉町55-4",
     "access": "国道20号、八王子市高倉町「高倉町西」交差点を日野バイパス豊田方面右手",
-    "games": [
-      "Winning Eleven AC 2014(新筺体)"
-    ]
-  },
-  {
-    "name": "アピナ下館店",
-    "operation_time": "10:00～24:00",
-    "holiday": "無し",
-    "latitude": "36.29325391",
-    "longitude": "139.944075",
-    "tel": "0296-28-0033",
-    "address": "筑西市玉戸1012-3",
-    "access": "R50号玉戸信号近く",
-    "games": [
-      "Winning Eleven AC 2014(新筺体)"
-    ]
-  },
-  {
-    "name": "ランブルプラザ",
-    "operation_time": "10:00～24:00",
-    "holiday": "無し",
-    "latitude": "35.73238612",
-    "longitude": "139.7135866",
-    "tel": "03-5955-5066",
-    "address": "豊島区東池袋1-42-1",
-    "access": "池袋駅東口徒歩3分。ヤマダ電気様裏手。パチンコマルハン様向かい。",
     "games": [
       "Winning Eleven AC 2014(新筺体)"
     ]

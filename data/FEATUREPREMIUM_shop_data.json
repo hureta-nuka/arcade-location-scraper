@@ -135,7 +135,7 @@
     "holiday": "",
     "latitude": "33.8231005",
     "longitude": "130.721697",
-    "tel": "093-246-1941",
+    "tel": "070-1459-7012",
     "address": "中間市上蓮花寺3-1-1",
     "access": "",
     "games": [
@@ -156,19 +156,6 @@
     ]
   },
   {
-    "name": "遊道楽新合川",
-    "operation_time": "10:00～24:00",
-    "holiday": "無し",
-    "latitude": "33.32176241",
-    "longitude": "130.541007",
-    "tel": "0942-45-3335",
-    "address": "久留米市新合川1-6-7",
-    "access": "国道210号線バイパス沿い",
-    "games": [
-      "FEATURE Premium シリーズ"
-    ]
-  },
-  {
     "name": "楽市街道くるめ店",
     "operation_time": "10:00～24:00",
     "holiday": "無し",
@@ -177,6 +164,19 @@
     "tel": "0942-41-1450",
     "address": "久留米市新合川2-7-10久留米アミューズメントビル内",
     "access": "久留米ICから車で5分国道210号線沿い",
+    "games": [
+      "FEATURE Premium シリーズ"
+    ]
+  },
+  {
+    "name": "アミパラ下関駅南店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "33.94509097",
+    "longitude": "130.9204956",
+    "tel": "083-250-5501",
+    "address": "下関市東大和町1-3-15",
+    "access": "",
     "games": [
       "FEATURE Premium シリーズ"
     ]
@@ -268,19 +268,6 @@
     "tel": "096-372-5700",
     "address": "熊本市中央区九品寺5-10-15",
     "access": "JR豊肥本線南熊本駅徒歩10分",
-    "games": [
-      "FEATURE Premium シリーズ"
-    ]
-  },
-  {
-    "name": "パスカワールド宇土店",
-    "operation_time": "日曜～木曜 10:00～23:00  金曜・土曜 10:00～24:00",
-    "holiday": "無し",
-    "latitude": "32.68271108",
-    "longitude": "130.6679513",
-    "tel": "0964-22-5311",
-    "address": "宇土市善道寺町綾織95",
-    "access": "松橋ICより車で10分、宇土シティーショッピングセンター内",
     "games": [
       "FEATURE Premium シリーズ"
     ]
@@ -832,7 +819,7 @@
     ]
   },
   {
-    "name": "トップラン",
+    "name": "トップラン岩岡店",
     "operation_time": "10:00～24:00",
     "holiday": "無し",
     "latitude": "34.717655",
@@ -852,19 +839,6 @@
     "longitude": "134.564699",
     "tel": "088-612-0025",
     "address": "徳島市万代町4-19-1",
-    "access": "",
-    "games": [
-      "FEATURE Premium シリーズ"
-    ]
-  },
-  {
-    "name": "PALO小松島",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "34.00568188",
-    "longitude": "134.5726547",
-    "tel": "070-3100-5034",
-    "address": "小松島市小松島町字領田20小松島ショッピングプラザルピア1F",
     "access": "",
     "games": [
       "FEATURE Premium シリーズ"
@@ -954,7 +928,7 @@
     "holiday": "",
     "latitude": "34.760868",
     "longitude": "135.418336",
-    "tel": "06-6420-3621",
+    "tel": "070-1459-4912",
     "address": "尼崎市塚口本町4-8-1つかしん内",
     "access": "",
     "games": [
@@ -988,19 +962,6 @@
     ]
   },
   {
-    "name": "namco梅田店",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "34.70278573",
-    "longitude": "135.5003716",
-    "tel": "06-6313-0778",
-    "address": "大阪市北区小松原町3-3OSビル2F",
-    "access": "",
-    "games": [
-      "FEATURE Premium シリーズ"
-    ]
-  },
-  {
     "name": "ラウンドワン梅田店",
     "operation_time": "",
     "holiday": "",
@@ -1022,19 +983,6 @@
     "tel": "075-813-2150",
     "address": "京都市中京区西ノ京栂尾町107BiVi二条内2F",
     "access": "",
-    "games": [
-      "FEATURE Premium シリーズ"
-    ]
-  },
-  {
-    "name": "ゲームパニック堺",
-    "operation_time": "10:00～23:45",
-    "holiday": "無し",
-    "latitude": "34.597817",
-    "longitude": "135.447433",
-    "tel": "072-224-8295",
-    "address": "堺市堺区築港八幡町1-1堺浜シーサイド内堺浜えんため館",
-    "access": "南海バス20系統「堺市内北回り」 堺駅西口→堺浜シーサイドステージ約17分 堺東駅→堺浜シーサイドステージ約25分",
     "games": [
       "FEATURE Premium シリーズ"
     ]
@@ -1201,7 +1149,7 @@
     "holiday": "",
     "latitude": "34.66416946",
     "longitude": "135.5628455",
-    "tel": "06-6783-6999",
+    "tel": "070-1459-4020",
     "address": "東大阪市長堂1-1-1ロンモール布施内",
     "access": "",
     "games": [
@@ -1214,7 +1162,7 @@
     "holiday": "",
     "latitude": "34.690846",
     "longitude": "135.591293",
-    "tel": "06-6748-8310",
+    "tel": "070-1459-4347",
     "address": "東大阪市稲田新町3-9-64",
     "access": "",
     "games": [
@@ -1253,7 +1201,7 @@
     "holiday": "",
     "latitude": "34.936959",
     "longitude": "135.795071",
-    "tel": "075-603-3220",
+    "tel": "070-1459-3916",
     "address": "京都市伏見区桃山町山ノ下32京都SCビルAM棟2F",
     "access": "",
     "games": [
@@ -1352,19 +1300,6 @@
     ]
   },
   {
-    "name": "滋賀レジャーランド大津店",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "35.003875",
-    "longitude": "135.883431",
-    "tel": "077-548-7851",
-    "address": "大津市におの浜3-1-43",
-    "access": "",
-    "games": [
-      "FEATURE Premium シリーズ"
-    ]
-  },
-  {
     "name": "ラウンドワン青森店",
     "operation_time": "",
     "holiday": "",
@@ -1443,6 +1378,19 @@
     ]
   },
   {
+    "name": "Asobinoすてぇじ養老店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "35.33096631",
+    "longitude": "136.5637213",
+    "tel": "058-471-8214",
+    "address": "養老郡養老町宇田561イオンタウン養老SC",
+    "access": "",
+    "games": [
+      "FEATURE Premium シリーズ"
+    ]
+  },
+  {
     "name": "ラウンドワンモレラ岐阜店",
     "operation_time": "",
     "holiday": "",
@@ -1477,19 +1425,6 @@
     "tel": "058-326-1133",
     "address": "瑞穂市稲里630",
     "access": "国道21号線沿い瑞穂市野田新田交差点近く",
-    "games": [
-      "FEATURE Premium シリーズ"
-    ]
-  },
-  {
-    "name": "Asobinoすてぇじ輪之内店",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "35.29341233",
-    "longitude": "136.6497617",
-    "tel": "0584-69-4690",
-    "address": "安八郡輪之内町四郷新開229イオンタウン輪之内内",
-    "access": "",
     "games": [
       "FEATURE Premium シリーズ"
     ]
@@ -1677,6 +1612,19 @@
     ]
   },
   {
+    "name": "ラウンドワンスタジアムヨロッカ春日井店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "35.25898",
+    "longitude": "136.98241",
+    "tel": "0568-86-1600",
+    "address": "春日井市六軒屋町東丘22区画番号3010",
+    "access": "",
+    "games": [
+      "FEATURE Premium シリーズ"
+    ]
+  },
+  {
     "name": "ラウンドワン千種店",
     "operation_time": "",
     "holiday": "",
@@ -1729,6 +1677,19 @@
     ]
   },
   {
+    "name": "GiGO東名ボール",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "35.209234",
+    "longitude": "137.062873",
+    "tel": "070-1459-2466",
+    "address": "瀬戸市西原町2-114",
+    "access": "",
+    "games": [
+      "FEATURE Premium シリーズ"
+    ]
+  },
+  {
     "name": "ゲームパニック大高",
     "operation_time": "9:00～23:45",
     "holiday": "無し",
@@ -1760,7 +1721,7 @@
     "holiday": "",
     "latitude": "35.03882703",
     "longitude": "137.0267449",
-    "tel": "0566-36-4338",
+    "tel": "070-1459-3212",
     "address": "刈谷市東境町京和1",
     "access": "",
     "games": [
@@ -1807,14 +1768,14 @@
     ]
   },
   {
-    "name": "GiGO天童",
-    "operation_time": "10:00～24:00",
+    "name": "GiGO北岡崎",
+    "operation_time": "9:00～24:00",
     "holiday": "無し",
-    "latitude": "38.34302924",
-    "longitude": "140.3739732",
-    "tel": "023-656-9370",
-    "address": "天童市南町1-5-26",
-    "access": "JR「天童駅」より車で10分。国道13号線を南下し国道沿い左側。",
+    "latitude": "34.97365547",
+    "longitude": "137.1600268",
+    "tel": "070-1393-5583",
+    "address": "岡崎市錦町2-4",
+    "access": "国道248号線沿い、愛知環状線北岡崎駅から徒歩3分",
     "games": [
       "FEATURE Premium シリーズ"
     ]
@@ -1950,19 +1911,6 @@
     ]
   },
   {
-    "name": "GiGOイオン仙台中山",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "38.299061",
-    "longitude": "140.828497",
-    "tel": "022-347-3139",
-    "address": "仙台市泉区南中山1-35-57イオン仙台中山店別館3F",
-    "access": "",
-    "games": [
-      "FEATURE Premium シリーズ"
-    ]
-  },
-  {
     "name": "ラウンドワンスタジアム仙台泉店",
     "operation_time": "",
     "holiday": "",
@@ -2093,7 +2041,7 @@
     ]
   },
   {
-    "name": "タイトーFステーション郡山オリエントパーク店",
+    "name": "タイトーFステーション郡山オリエントパーク",
     "operation_time": "",
     "holiday": "",
     "latitude": "37.37465045",
@@ -2106,7 +2054,7 @@
     ]
   },
   {
-    "name": "ドラマ足利店",
+    "name": "GiGO足利朝倉",
     "operation_time": "10:00～24:00",
     "holiday": "無し",
     "latitude": "36.32220259",
@@ -2114,19 +2062,6 @@
     "tel": "0284-73-9559",
     "address": "足利市朝倉町244-1",
     "access": "東武伊勢崎線足利市駅より徒歩10分",
-    "games": [
-      "FEATURE Premium シリーズ"
-    ]
-  },
-  {
-    "name": "ラウンドワン静岡･駿河店",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "34.950991",
-    "longitude": "138.360524",
-    "tel": "054-201-1601",
-    "address": "静岡市駿河区向手越1-10-1",
-    "access": "",
     "games": [
       "FEATURE Premium シリーズ"
     ]
@@ -2210,19 +2145,6 @@
     ]
   },
   {
-    "name": "キャロム青梅店",
-    "operation_time": "10:00～翌5:00",
-    "holiday": "",
-    "latitude": "35.78660433",
-    "longitude": "139.2700032",
-    "tel": "0428-23-9208",
-    "address": "青梅市千ヶ瀬町4-326-1",
-    "access": "",
-    "games": [
-      "FEATURE Premium シリーズ"
-    ]
-  },
-  {
     "name": "テクモピアロックダムインターパーク店",
     "operation_time": "",
     "holiday": "",
@@ -2244,19 +2166,6 @@
     "tel": "042-960-1521",
     "address": "入間市小谷田3-7-25",
     "access": "",
-    "games": [
-      "FEATURE Premium シリーズ"
-    ]
-  },
-  {
-    "name": "ドラマ瑞穂店",
-    "operation_time": "10:00～24:00",
-    "holiday": "無し",
-    "latitude": "35.76337213",
-    "longitude": "139.3568934",
-    "tel": "042-556-6605",
-    "address": "西多摩郡瑞穂町武蔵382-1",
-    "access": "JR八高線「箱根ヶ崎駅」から武蔵村山市方面に徒歩25分",
     "games": [
       "FEATURE Premium シリーズ"
     ]
@@ -2353,12 +2262,12 @@
     ]
   },
   {
-    "name": "ドラマ八王子高倉店",
+    "name": "GiGO八王子高倉",
     "operation_time": "10:00～24:00",
     "holiday": "無し",
     "latitude": "35.66506526",
     "longitude": "139.3664795",
-    "tel": "0426-45-7050",
+    "tel": "042-645-7050",
     "address": "八王子市高倉町55-4",
     "access": "国道20号、八王子市高倉町「高倉町西」交差点を日野バイパス豊田方面右手",
     "games": [
@@ -2748,7 +2657,7 @@
     "holiday": "",
     "latitude": "35.79475047",
     "longitude": "139.7475357",
-    "tel": "048-226-1191",
+    "tel": "070-1458-8671",
     "address": "川口市東領家2-2-10",
     "access": "",
     "games": [
@@ -2886,7 +2795,7 @@
     ]
   },
   {
-    "name": "ドラマ港北インター店",
+    "name": "GiGO港北インター",
     "operation_time": "10:00～24:00",
     "holiday": "無し",
     "latitude": "35.51925659",
@@ -2925,7 +2834,7 @@
     ]
   },
   {
-    "name": "ドラマ藤沢店",
+    "name": "GiGO本藤沢",
     "operation_time": "10:00～24:00",
     "holiday": "無し",
     "latitude": "35.35751243",
@@ -3203,7 +3112,7 @@
     "holiday": "",
     "latitude": "36.350325",
     "longitude": "140.443003",
-    "tel": "029-244-1045",
+    "tel": "070-1458-6102",
     "address": "水戸市千波町2017-1",
     "access": "",
     "games": [
@@ -3219,19 +3128,6 @@
     "tel": "04-7190-1201",
     "address": "柏市大島田1-6-1セブンパークアリオ柏 1070",
     "access": "",
-    "games": [
-      "FEATURE Premium シリーズ"
-    ]
-  },
-  {
-    "name": "大慶園",
-    "operation_time": "一部24時間営業",
-    "holiday": "無し",
-    "latitude": "35.76304297",
-    "longitude": "139.96933",
-    "tel": "047-337-5001",
-    "address": "市川市大町359",
-    "access": "JR市川大野駅下車 市川植物園行きバス乗車 市川斎場前下車徒歩10分・北総線大町駅から車5分",
     "games": [
       "FEATURE Premium シリーズ"
     ]
@@ -3257,6 +3153,19 @@
     "longitude": "139.9267286",
     "tel": "047-318-3933",
     "address": "市川市妙典4-1-1イオン市川妙典店2番街2F",
+    "access": "",
+    "games": [
+      "FEATURE Premium シリーズ"
+    ]
+  },
+  {
+    "name": "ラウンドワンさいか屋横須賀店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "35.28214943",
+    "longitude": "139.6695932",
+    "tel": "046-876-8208",
+    "address": "横須賀市大滝町1-13さいか屋横須賀店本館6F",
     "access": "",
     "games": [
       "FEATURE Premium シリーズ"

@@ -83,21 +83,8 @@
     "holiday": "",
     "latitude": "33.8231005",
     "longitude": "130.721697",
-    "tel": "093-246-1941",
+    "tel": "070-1459-7012",
     "address": "中間市上蓮花寺3-1-1",
-    "access": "",
-    "games": [
-      "GI-WorldClassic GLORY"
-    ]
-  },
-  {
-    "name": "パスカランド黒崎店",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "33.86053",
-    "longitude": "130.760618",
-    "tel": "093-644-1188",
-    "address": "北九州市八幡西区西曲里町3-1イオンタウン黒崎店1F",
     "access": "",
     "games": [
       "GI-WorldClassic GLORY"
@@ -156,19 +143,6 @@
     ]
   },
   {
-    "name": "パスカワールド宇土店",
-    "operation_time": "日曜～木曜 10:00～23:00  金曜・土曜 10:00～24:00",
-    "holiday": "無し",
-    "latitude": "32.68271108",
-    "longitude": "130.6679513",
-    "tel": "0964-22-5311",
-    "address": "宇土市善道寺町綾織95",
-    "access": "松橋ICより車で10分、宇土シティーショッピングセンター内",
-    "games": [
-      "GI-WorldClassic GLORY"
-    ]
-  },
-  {
     "name": "ラウンドワン沖縄･宜野湾店",
     "operation_time": "",
     "holiday": "",
@@ -216,19 +190,6 @@
     "tel": "097-573-2800",
     "address": "大分市萩原2-13-17",
     "access": "",
-    "games": [
-      "GI-WorldClassic GLORY"
-    ]
-  },
-  {
-    "name": "アミパラ広島店",
-    "operation_time": "10:00～24:00",
-    "holiday": "無し",
-    "latitude": "34.39350431",
-    "longitude": "132.4360428",
-    "tel": "082-297-7135",
-    "address": "広島市西区西観音町3-17",
-    "access": "平和大通り沿い、西区区役所から東へすぐ",
     "games": [
       "GI-WorldClassic GLORY"
     ]
@@ -346,6 +307,19 @@
     "tel": "086-235-3332",
     "address": "岡山市北区青江1-13-8",
     "access": "2号線バイパス・青江交差点から北へすぐ",
+    "games": [
+      "GI-WorldClassic GLORY"
+    ]
+  },
+  {
+    "name": "Feedy Diner&Arcade綾川店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "34.251612",
+    "longitude": "133.931129",
+    "tel": "070-3100-3490",
+    "address": "綾歌郡綾川町萱原822-1イオンモール綾川3F",
+    "access": "",
     "games": [
       "GI-WorldClassic GLORY"
     ]
@@ -533,19 +507,6 @@
     ]
   },
   {
-    "name": "PALO小松島",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "34.00568188",
-    "longitude": "134.5726547",
-    "tel": "070-3100-5034",
-    "address": "小松島市小松島町字領田20小松島ショッピングプラザルピア1F",
-    "access": "",
-    "games": [
-      "GI-WorldClassic GLORY"
-    ]
-  },
-  {
     "name": "ラウンドワン三宮駅前店",
     "operation_time": "",
     "holiday": "",
@@ -585,19 +546,6 @@
     ]
   },
   {
-    "name": "ゲームSPOT207",
-    "operation_time": "7:00～24:00",
-    "holiday": "無し",
-    "latitude": "36.73235328",
-    "longitude": "137.0023356",
-    "tel": "0766-26-2070",
-    "address": "高岡市鐘紡町1655-3",
-    "access": "JR高岡駅から車で15分",
-    "games": [
-      "GI-WorldClassic GLORY"
-    ]
-  },
-  {
     "name": "ラウンドワン東淀川店",
     "operation_time": "",
     "holiday": "",
@@ -624,14 +572,14 @@
     ]
   },
   {
-    "name": "ゲームパニック堺",
-    "operation_time": "10:00～23:45",
+    "name": "サービスエリアイン高岡店",
+    "operation_time": "5:00～24:00",
     "holiday": "無し",
-    "latitude": "34.597817",
-    "longitude": "135.447433",
-    "tel": "072-224-8295",
-    "address": "堺市堺区築港八幡町1-1堺浜シーサイド内堺浜えんため館",
-    "access": "南海バス20系統「堺市内北回り」 堺駅西口→堺浜シーサイドステージ約17分 堺東駅→堺浜シーサイドステージ約25分",
+    "latitude": "36.76070699",
+    "longitude": "137.0468366",
+    "tel": "0766-28-1028",
+    "address": "高岡市石瀬下石瀬857-1",
+    "access": "国道8号線高新大橋超えてすぐ。",
     "games": [
       "GI-WorldClassic GLORY"
     ]
@@ -761,6 +709,19 @@
     "longitude": "135.747069",
     "tel": "075-754-7722",
     "address": "久世郡久御山町大字森大内337イオンタウン久御山内",
+    "access": "",
+    "games": [
+      "GI-WorldClassic GLORY"
+    ]
+  },
+  {
+    "name": "アミパラ大東店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "34.7010172",
+    "longitude": "135.6386857",
+    "tel": "072-813-7600",
+    "address": "大東市南新田2-3-5",
     "access": "",
     "games": [
       "GI-WorldClassic GLORY"
@@ -1123,7 +1084,7 @@
     "holiday": "",
     "latitude": "35.03882703",
     "longitude": "137.0267449",
-    "tel": "0566-36-4338",
+    "tel": "070-1459-3212",
     "address": "刈谷市東境町京和1",
     "access": "",
     "games": [
@@ -1391,7 +1352,7 @@
     ]
   },
   {
-    "name": "ドラマ足利店",
+    "name": "GiGO足利朝倉",
     "operation_time": "10:00～24:00",
     "holiday": "無し",
     "latitude": "36.32220259",
@@ -1521,25 +1482,12 @@
     ]
   },
   {
-    "name": "ドラマ瑞穂店",
-    "operation_time": "10:00～24:00",
-    "holiday": "無し",
-    "latitude": "35.76337213",
-    "longitude": "139.3568934",
-    "tel": "042-556-6605",
-    "address": "西多摩郡瑞穂町武蔵382-1",
-    "access": "JR八高線「箱根ヶ崎駅」から武蔵村山市方面に徒歩25分",
-    "games": [
-      "GI-WorldClassic GLORY"
-    ]
-  },
-  {
     "name": "GiGO小山",
     "operation_time": "",
     "holiday": "",
     "latitude": "36.29908128",
     "longitude": "139.8101531",
-    "tel": "0285-28-6281",
+    "tel": "070-1458-5850",
     "address": "小山市東城南1-1-18",
     "access": "",
     "games": [
@@ -1581,6 +1529,19 @@
     "tel": "048-778-3411",
     "address": "上尾市大字平塚917-1",
     "access": "",
+    "games": [
+      "GI-WorldClassic GLORY"
+    ]
+  },
+  {
+    "name": "GiGO八王子高倉",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.66506526",
+    "longitude": "139.3664795",
+    "tel": "042-645-7050",
+    "address": "八王子市高倉町55-4",
+    "access": "国道20号、八王子市高倉町「高倉町西」交差点を日野バイパス豊田方面右手",
     "games": [
       "GI-WorldClassic GLORY"
     ]
@@ -1859,7 +1820,7 @@
     ]
   },
   {
-    "name": "ドラマ港北インター店",
+    "name": "GiGO港北インター",
     "operation_time": "10:00～24:00",
     "holiday": "無し",
     "latitude": "35.51925659",
@@ -1898,7 +1859,7 @@
     ]
   },
   {
-    "name": "ドラマ藤沢店",
+    "name": "GiGO本藤沢",
     "operation_time": "10:00～24:00",
     "holiday": "無し",
     "latitude": "35.35751243",
@@ -2093,19 +2054,6 @@
     ]
   },
   {
-    "name": "タイトーステーションアリオ蘇我店",
-    "operation_time": "10:00～22:00",
-    "holiday": "無し",
-    "latitude": "35.5875372",
-    "longitude": "140.1222051",
-    "tel": "043-209-6761",
-    "address": "千葉市中央区川崎町52-7アリオ蘇我2F",
-    "access": "JR蘇我駅西口より徒歩15分、無料シャトルバス有(9:00～22:00)",
-    "games": [
-      "GI-WorldClassic GLORY"
-    ]
-  },
-  {
     "name": "スポーツウェーブ鉄腕24浜野店",
     "operation_time": "一部24時間営業",
     "holiday": "無し",
@@ -2127,19 +2075,6 @@
     "tel": "0436-44-8801",
     "address": "市原市八幡北町3-5-1",
     "access": "",
-    "games": [
-      "GI-WorldClassic GLORY"
-    ]
-  },
-  {
-    "name": "アミュージアム茂原店",
-    "operation_time": "10:00～24:00",
-    "holiday": "無し",
-    "latitude": "35.43657121",
-    "longitude": "140.2847395",
-    "tel": "0475-25-9996",
-    "address": "茂原市高師1622-1",
-    "access": "JR茂原駅から車で10分。茂原街道沿いラオックスビル2F",
     "games": [
       "GI-WorldClassic GLORY"
     ]

@@ -78,19 +78,6 @@
     ]
   },
   {
-    "name": "ゲームパニック堺",
-    "operation_time": "10:00～23:45",
-    "holiday": "無し",
-    "latitude": "34.597817",
-    "longitude": "135.447433",
-    "tel": "072-224-8295",
-    "address": "堺市堺区築港八幡町1-1堺浜シーサイド内堺浜えんため館",
-    "access": "南海バス20系統「堺市内北回り」 堺駅西口→堺浜シーサイドステージ約17分 堺東駅→堺浜シーサイドステージ約25分",
-    "games": [
-      "DreamSphere GRANDCROSS"
-    ]
-  },
-  {
     "name": "メジャーロード黒埼店",
     "operation_time": "8:00～24:00",
     "holiday": "無し",
@@ -182,19 +169,6 @@
     ]
   },
   {
-    "name": "ウェアハウス三橋店",
-    "operation_time": "一部24時間営業",
-    "holiday": "無し",
-    "latitude": "35.91589833",
-    "longitude": "139.5959286",
-    "tel": "048-795-8380",
-    "address": "さいたま市西区三橋6-955-1",
-    "access": "国道17号バイパス三橋六丁目交差点",
-    "games": [
-      "DreamSphere GRANDCROSS"
-    ]
-  },
-  {
     "name": "神奈川レジャーランド厚木店",
     "operation_time": "一部24時間営業",
     "holiday": "無し",
@@ -216,6 +190,19 @@
     "tel": "04-7120-3535",
     "address": "野田市吉春776-1",
     "access": "国道16号線沿い野田市吉春地内",
+    "games": [
+      "DreamSphere GRANDCROSS"
+    ]
+  },
+  {
+    "name": "タイトーステーションBIGBOX高田馬場",
+    "operation_time": "10:00～24:00",
+    "holiday": "無し",
+    "latitude": "35.712933",
+    "longitude": "139.70419",
+    "tel": "03-5272-9855",
+    "address": "新宿区高田馬場1-35-3BIGBOX6F",
+    "access": "西武新宿線・高田馬場駅より徒歩1分",
     "games": [
       "DreamSphere GRANDCROSS"
     ]

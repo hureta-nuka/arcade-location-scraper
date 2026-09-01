@@ -31,35 +31,9 @@
     "holiday": "",
     "latitude": "33.19933861",
     "longitude": "130.0346407",
-    "tel": "0954-22-2087",
+    "tel": "070-1459-7137",
     "address": "武雄市武雄町大字富岡12517-1",
     "access": "",
-    "games": [
-      "DANCERUSH STARDOM"
-    ]
-  },
-  {
-    "name": "ラウンドワン福岡天神店",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "33.58960223",
-    "longitude": "130.3968402",
-    "tel": "092-720-8101",
-    "address": "福岡市中央区天神2-6-12",
-    "access": "",
-    "games": [
-      "DANCERUSH STARDOM"
-    ]
-  },
-  {
-    "name": "遊道楽 嘉瀬店",
-    "operation_time": "11:00～24:00",
-    "holiday": "無し",
-    "latitude": "33.24215325",
-    "longitude": "130.2565663",
-    "tel": "0952-40-0952",
-    "address": "佐賀市嘉瀬町大字中原2488-1",
-    "access": "207号線沿い",
     "games": [
       "DANCERUSH STARDOM"
     ]
@@ -99,19 +73,6 @@
     "tel": "093-621-4800",
     "address": "北九州市八幡西区桜ヶ丘町1-3フレスポ黒崎2F",
     "access": "JR黒崎駅近く国道3号線沿い",
-    "games": [
-      "DANCERUSH STARDOM"
-    ]
-  },
-  {
-    "name": "ラウンドワン小倉店",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "33.89742877",
-    "longitude": "130.8598475",
-    "tel": "093-562-8805",
-    "address": "北九州市小倉北区西港町15-65",
-    "access": "",
     "games": [
       "DANCERUSH STARDOM"
     ]
@@ -239,7 +200,7 @@
     "holiday": "",
     "latitude": "33.24179967",
     "longitude": "131.6373957",
-    "tel": "0975-56-9072",
+    "tel": "070-1459-7329",
     "address": "大分市牧1-161-8",
     "access": "",
     "games": [
@@ -273,19 +234,6 @@
     ]
   },
   {
-    "name": "PALO境港",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "35.52243536",
-    "longitude": "133.2524414",
-    "tel": "070-3100-5063",
-    "address": "境港市竹内団地81-3",
-    "access": "",
-    "games": [
-      "DANCERUSH STARDOM"
-    ]
-  },
-  {
     "name": "ラウンドワン宮崎店",
     "operation_time": "",
     "holiday": "",
@@ -293,19 +241,6 @@
     "longitude": "131.4170876",
     "tel": "0985-63-1210",
     "address": "宮崎市中村東3-4-60",
-    "access": "",
-    "games": [
-      "DANCERUSH STARDOM"
-    ]
-  },
-  {
-    "name": "ラウンドワン松山店",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "33.8664873",
-    "longitude": "132.751593",
-    "tel": "089-911-5511",
-    "address": "松山市東長戸1-3-10",
     "access": "",
     "games": [
       "DANCERUSH STARDOM"
@@ -346,19 +281,6 @@
     "tel": "086-282-8851",
     "address": "岡山市南区妹尾3413-1",
     "access": "",
-    "games": [
-      "DANCERUSH STARDOM"
-    ]
-  },
-  {
-    "name": "アミパラテクノランド店",
-    "operation_time": "10:00～24:00",
-    "holiday": "",
-    "latitude": "34.679221",
-    "longitude": "133.927419",
-    "tel": "086-225-3377",
-    "address": "岡山市北区大和町1-7-12",
-    "access": "法界院駅から徒歩10分",
     "games": [
       "DANCERUSH STARDOM"
     ]
@@ -481,79 +403,14 @@
     ]
   },
   {
-    "name": "タイトーステーション千歳店",
-    "operation_time": "10:00-24:00",
-    "holiday": "無し",
-    "latitude": "42.833396",
-    "longitude": "141.6439587",
-    "tel": "0123-42-4195",
-    "address": "千歳市北栄2-12-5",
-    "access": "千歳駅から札幌方面に徒歩10分",
-    "games": [
-      "DANCERUSH STARDOM"
-    ]
-  },
-  {
-    "name": "ラウンドワン函館店",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "41.82459206",
-    "longitude": "140.7173548",
-    "tel": "0138-49-8401",
-    "address": "函館市西桔梗町848-11",
-    "access": "",
-    "games": [
-      "DANCERUSH STARDOM"
-    ]
-  },
-  {
-    "name": "ラウンドワン加古川店",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "34.74708002",
-    "longitude": "134.836935",
-    "tel": "0794-29-2513",
-    "address": "加古川市尾上町安田字小河原325番6号",
-    "access": "",
-    "games": [
-      "DANCERUSH STARDOM"
-    ]
-  },
-  {
     "name": "GiGO明石",
     "operation_time": "10:00～24:00",
     "holiday": "",
     "latitude": "34.72071543",
     "longitude": "134.8974952",
-    "tel": "078-941-7676",
+    "tel": "070-1459-5318",
     "address": "明石市魚住町清水2464-1ドライブインながさわ内",
     "access": "JR山陽本線 土山駅 より徒歩10分",
-    "games": [
-      "DANCERUSH STARDOM"
-    ]
-  },
-  {
-    "name": "ラウンドワン三宮駅前店",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "34.69403073",
-    "longitude": "135.1973402",
-    "tel": "078-252-7200",
-    "address": "神戸市中央区小野柄通り6-1-17",
-    "access": "",
-    "games": [
-      "DANCERUSH STARDOM"
-    ]
-  },
-  {
-    "name": "福井レジャーランド板垣店",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "36.042283",
-    "longitude": "136.233748",
-    "tel": "0776-33-5510",
-    "address": "福井市下馬3-112",
-    "access": "",
     "games": [
       "DANCERUSH STARDOM"
     ]
@@ -566,45 +423,6 @@
     "longitude": "136.626054",
     "tel": "076-245-1850",
     "address": "金沢市横川6-120-1",
-    "access": "",
-    "games": [
-      "DANCERUSH STARDOM"
-    ]
-  },
-  {
-    "name": "PALO五所川原",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "40.80095013",
-    "longitude": "140.4614581",
-    "tel": "070-3100-5496",
-    "address": "五所川原市大字唐笠柳字藤巻641-1",
-    "access": "",
-    "games": [
-      "DANCERUSH STARDOM"
-    ]
-  },
-  {
-    "name": "パルケ上賀茂店",
-    "operation_time": "平日12:00～24:00 土11:00～24:00 日12:00～24:00",
-    "holiday": "",
-    "latitude": "35.06680723",
-    "longitude": "135.7462635",
-    "tel": "075-711-4622",
-    "address": "京都市北区上賀茂西河原町1-1",
-    "access": "",
-    "games": [
-      "DANCERUSH STARDOM"
-    ]
-  },
-  {
-    "name": "ラウンドワン東淀川店",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "34.74289355",
-    "longitude": "135.5255278",
-    "tel": "06-6160-2221",
-    "address": "大阪市東淀川区菅原7-14-29",
     "access": "",
     "games": [
       "DANCERUSH STARDOM"
@@ -663,19 +481,6 @@
     ]
   },
   {
-    "name": "ラウンドワン高槻店",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "34.83266921",
-    "longitude": "135.6301782",
-    "tel": "072-672-9933",
-    "address": "高槻市辻子3-6-4",
-    "access": "",
-    "games": [
-      "DANCERUSH STARDOM"
-    ]
-  },
-  {
     "name": "ラウンドワン京都河原町店",
     "operation_time": "",
     "holiday": "",
@@ -715,52 +520,13 @@
     ]
   },
   {
-    "name": "ラウンドワン岸和田店",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "34.45649962",
-    "longitude": "135.3885278",
-    "tel": "072-429-1100",
-    "address": "岸和田市八阪町2-11-1",
-    "access": "",
-    "games": [
-      "DANCERUSH STARDOM"
-    ]
-  },
-  {
     "name": "GiGO布施",
     "operation_time": "",
     "holiday": "",
     "latitude": "34.66416946",
     "longitude": "135.5628455",
-    "tel": "06-6783-6999",
+    "tel": "070-1459-4020",
     "address": "東大阪市長堂1-1-1ロンモール布施内",
-    "access": "",
-    "games": [
-      "DANCERUSH STARDOM"
-    ]
-  },
-  {
-    "name": "ラウンドワン浜大津アーカス店",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "35.010557",
-    "longitude": "135.866804",
-    "tel": "077-526-8722",
-    "address": "大津市浜町2-1浜大津アーカス4F",
-    "access": "",
-    "games": [
-      "DANCERUSH STARDOM"
-    ]
-  },
-  {
-    "name": "ラウンドワン青森店",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "40.79867718",
-    "longitude": "140.7483213",
-    "tel": "017-762-3591",
-    "address": "青森市浜田3-1-1",
     "access": "",
     "games": [
       "DANCERUSH STARDOM"
@@ -775,32 +541,6 @@
     "tel": "076-433-3355",
     "address": "富山市豊田町2-12-66",
     "access": "国道8号線豊田東交差点近く",
-    "games": [
-      "DANCERUSH STARDOM"
-    ]
-  },
-  {
-    "name": "アミューズメントCUE奈良三条店",
-    "operation_time": "10:00～24:00",
-    "holiday": "無し",
-    "latitude": "34.68177805",
-    "longitude": "135.8221257",
-    "tel": "0742-25-5115",
-    "address": "奈良市三条町478-1",
-    "access": "JR奈良駅から三条通りを東へすぐ",
-    "games": [
-      "DANCERUSH STARDOM"
-    ]
-  },
-  {
-    "name": "ラウンドワン秋田店",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "39.70235247",
-    "longitude": "140.1092394",
-    "tel": "018-896-6711",
-    "address": "秋田市卸町1-1-2",
-    "access": "",
     "games": [
       "DANCERUSH STARDOM"
     ]
@@ -824,7 +564,7 @@
     "holiday": "",
     "latitude": "34.62355779",
     "longitude": "136.1036705",
-    "tel": "0595-62-1008",
+    "tel": "070-1459-3773",
     "address": "名張市希央台3-15",
     "access": "",
     "games": [
@@ -897,32 +637,6 @@
     ]
   },
   {
-    "name": "アピナ四日市店",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "34.94000426",
-    "longitude": "136.6070666",
-    "tel": "059-349-5011",
-    "address": "四日市市泊小柳町4-34",
-    "access": "",
-    "games": [
-      "DANCERUSH STARDOM"
-    ]
-  },
-  {
-    "name": "ラウンドワン新潟店",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "37.88807436",
-    "longitude": "139.0177537",
-    "tel": "025-280-1322",
-    "address": "新潟市中央区美咲町2-1-38",
-    "access": "",
-    "games": [
-      "DANCERUSH STARDOM"
-    ]
-  },
-  {
     "name": "namco新潟店",
     "operation_time": "",
     "holiday": "",
@@ -930,32 +644,6 @@
     "longitude": "139.064009",
     "tel": "025-384-4980",
     "address": "新潟市中央区南笹口1-1-1ひもろぎビル2F",
-    "access": "",
-    "games": [
-      "DANCERUSH STARDOM"
-    ]
-  },
-  {
-    "name": "GiGO春日井",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "35.26954",
-    "longitude": "136.96052",
-    "tel": "0568-89-3081",
-    "address": "春日井市岩野町4180",
-    "access": "",
-    "games": [
-      "DANCERUSH STARDOM"
-    ]
-  },
-  {
-    "name": "GiGOマーケットスクエアささしま",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "35.162736",
-    "longitude": "136.884929",
-    "tel": "070-1458-1766",
-    "address": "名古屋市中村区平池町4-60-14",
     "access": "",
     "games": [
       "DANCERUSH STARDOM"
@@ -1001,19 +689,6 @@
     ]
   },
   {
-    "name": "モーリーファンタジーf新潟亀田インター",
-    "operation_time": "9:00～22:00",
-    "holiday": "無し",
-    "latitude": "37.87624975",
-    "longitude": "139.0816577",
-    "tel": "070-3100-4212",
-    "address": "新潟市江南区下早通柳田1-1-1イオンモール新潟亀田インター2F",
-    "access": "新潟亀田ICから約5分。 JR新潟駅から約4キロ、JR亀田駅から約2.5キロ",
-    "games": [
-      "DANCERUSH STARDOM"
-    ]
-  },
-  {
     "name": "タイトーステーションフェドラ大須店",
     "operation_time": "10:00～24:00",
     "holiday": "無し",
@@ -1053,45 +728,6 @@
     ]
   },
   {
-    "name": "ゲームパニック大高",
-    "operation_time": "9:00～23:45",
-    "holiday": "無し",
-    "latitude": "35.04850561",
-    "longitude": "136.9496236",
-    "tel": "052-625-5360",
-    "address": "名古屋市緑区忠治山201グランドボウルB2F",
-    "access": "国道23号線大高町共和IC側道グランドボウルB2階",
-    "games": [
-      "DANCERUSH STARDOM"
-    ]
-  },
-  {
-    "name": "モーリーファンタジー中標津",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "43.53540619",
-    "longitude": "144.9776846",
-    "tel": "070-3100-4473",
-    "address": "標津郡中標津町南町3-10東武サウスヒルズ1F",
-    "access": "",
-    "games": [
-      "DANCERUSH STARDOM"
-    ]
-  },
-  {
-    "name": "ラウンドワン半田店",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "34.88609688",
-    "longitude": "136.9412056",
-    "tel": "0569-25-7351",
-    "address": "半田市瑞穂町6-7-8",
-    "access": "",
-    "games": [
-      "DANCERUSH STARDOM"
-    ]
-  },
-  {
     "name": "アピナ松本",
     "operation_time": "10:00～24:00",
     "holiday": "無し",
@@ -1118,19 +754,6 @@
     ]
   },
   {
-    "name": "PALO諏訪",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "36.00551011",
-    "longitude": "138.1283942",
-    "tel": "070-3100-3453",
-    "address": "諏訪市沖田町5-18ステーションパーク諏訪内",
-    "access": "",
-    "games": [
-      "DANCERUSH STARDOM"
-    ]
-  },
-  {
     "name": "アピナ佐久インター店",
     "operation_time": "10:00～24:00",
     "holiday": "無し",
@@ -1152,32 +775,6 @@
     "tel": "023-656-9370",
     "address": "天童市南町1-5-26",
     "access": "JR「天童駅」より車で10分。国道13号線を南下し国道沿い左側。",
-    "games": [
-      "DANCERUSH STARDOM"
-    ]
-  },
-  {
-    "name": "ラウンドワン豊橋店",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "34.7239242",
-    "longitude": "137.4323261",
-    "tel": "0532-65-2212",
-    "address": "豊橋市大岩町字岩田27-2",
-    "access": "",
-    "games": [
-      "DANCERUSH STARDOM"
-    ]
-  },
-  {
-    "name": "GiGO会津若松",
-    "operation_time": "9:00～24:00",
-    "holiday": "無し",
-    "latitude": "37.51832577",
-    "longitude": "139.9222191",
-    "tel": "0242-37-0777",
-    "address": "会津若松市町北町上荒久田字宮下142",
-    "access": "磐越道会津若松IC側",
     "games": [
       "DANCERUSH STARDOM"
     ]
@@ -1305,7 +902,7 @@
     "holiday": "",
     "latitude": "38.26181",
     "longitude": "140.87675",
-    "tel": "022-211-1922",
+    "tel": "070-1458-0346",
     "address": "仙台市青葉区中央2-5-5三経60ビル",
     "access": "",
     "games": [
@@ -1318,7 +915,7 @@
     "holiday": "",
     "latitude": "36.339538",
     "longitude": "139.231968",
-    "tel": "0270-62-3886",
+    "tel": "070-1458-2998",
     "address": "伊勢崎市西小保方町368スマーク伊勢崎3F302区画",
     "access": "",
     "games": [
@@ -1339,20 +936,7 @@
     ]
   },
   {
-    "name": "GiGO日和田",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "37.44821593",
-    "longitude": "140.3804189",
-    "tel": "070-1458-5583",
-    "address": "郡山市日和田町字西中島7-1",
-    "access": "",
-    "games": [
-      "DANCERUSH STARDOM"
-    ]
-  },
-  {
-    "name": "ドラマ足利店",
+    "name": "GiGO足利朝倉",
     "operation_time": "10:00～24:00",
     "holiday": "無し",
     "latitude": "36.32220259",
@@ -1360,45 +944,6 @@
     "tel": "0284-73-9559",
     "address": "足利市朝倉町244-1",
     "access": "東武伊勢崎線足利市駅より徒歩10分",
-    "games": [
-      "DANCERUSH STARDOM"
-    ]
-  },
-  {
-    "name": "ラウンドワン静岡･駿河店",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "34.950991",
-    "longitude": "138.360524",
-    "tel": "054-201-1601",
-    "address": "静岡市駿河区向手越1-10-1",
-    "access": "",
-    "games": [
-      "DANCERUSH STARDOM"
-    ]
-  },
-  {
-    "name": "ソユーゲームフィールド熊谷店",
-    "operation_time": "10:00～21:00",
-    "holiday": "不定休",
-    "latitude": "36.13861007",
-    "longitude": "139.3937222",
-    "tel": "048-523-3080",
-    "address": "熊谷市銀座2-245ニットーモール4F",
-    "access": "JR熊谷駅より徒歩5分",
-    "games": [
-      "DANCERUSH STARDOM"
-    ]
-  },
-  {
-    "name": "ラウンドワン富士店",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "35.15310644",
-    "longitude": "138.6938016",
-    "tel": "0545-51-3636",
-    "address": "富士市八代町4-15",
-    "access": "",
     "games": [
       "DANCERUSH STARDOM"
     ]
@@ -1417,25 +962,12 @@
     ]
   },
   {
-    "name": "ラウンドワン宇都宮店",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "36.54080987",
-    "longitude": "139.8868656",
-    "tel": "028-614-8171",
-    "address": "宇都宮市江曽島町2072-1",
-    "access": "",
-    "games": [
-      "DANCERUSH STARDOM"
-    ]
-  },
-  {
     "name": "GiGO宇都宮",
     "operation_time": "",
     "holiday": "",
     "latitude": "36.558326",
     "longitude": "139.90882",
-    "tel": "028-633-6082",
+    "tel": "070-1458-5967",
     "address": "宇都宮市東宿郷5-1-7",
     "access": "",
     "games": [
@@ -1451,19 +983,6 @@
     "tel": "028-657-6789",
     "address": "宇都宮市インターパーク6-5-1",
     "access": "国道4号線、北関東自動車道、宇都宮上三川インターインター降りてすぐ",
-    "games": [
-      "DANCERUSH STARDOM"
-    ]
-  },
-  {
-    "name": "ラウンドワン入間店",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "35.82812299",
-    "longitude": "139.3755366",
-    "tel": "042-960-1521",
-    "address": "入間市小谷田3-7-25",
-    "access": "",
     "games": [
       "DANCERUSH STARDOM"
     ]
@@ -1521,19 +1040,6 @@
     ]
   },
   {
-    "name": "ラウンドワン所沢店",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "35.78935214",
-    "longitude": "139.4700049",
-    "tel": "04-2940-8631",
-    "address": "所沢市東町5-22TOCOTOCO SQUARE6F",
-    "access": "",
-    "games": [
-      "DANCERUSH STARDOM"
-    ]
-  },
-  {
     "name": "タイトーステーション立川北口店",
     "operation_time": "",
     "holiday": "",
@@ -1554,19 +1060,6 @@
     "longitude": "139.6254963",
     "tel": "048-658-5666",
     "address": "さいたま市大宮区宮町4-90-7",
-    "access": "",
-    "games": [
-      "DANCERUSH STARDOM"
-    ]
-  },
-  {
-    "name": "タイトーステーション国分寺店",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "35.701889",
-    "longitude": "139.480156",
-    "tel": "042-401-0592",
-    "address": "国分寺市本町3-5-11",
     "access": "",
     "games": [
       "DANCERUSH STARDOM"
@@ -1612,32 +1105,6 @@
     ]
   },
   {
-    "name": "ラウンドワン町田店",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "35.54409488",
-    "longitude": "139.4432407",
-    "tel": "042-710-0091",
-    "address": "町田市森野1-13-14",
-    "access": "",
-    "games": [
-      "DANCERUSH STARDOM"
-    ]
-  },
-  {
-    "name": "ラウンドワン吉祥寺店",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "35.706276",
-    "longitude": "139.580884",
-    "tel": "0422-29-1051",
-    "address": "武蔵野市吉祥寺本町1-11-22",
-    "access": "",
-    "games": [
-      "DANCERUSH STARDOM"
-    ]
-  },
-  {
     "name": "タイトーステーション町田店",
     "operation_time": "10:00～24:00",
     "holiday": "無し",
@@ -1669,7 +1136,7 @@
     "holiday": "",
     "latitude": "35.79475047",
     "longitude": "139.7475357",
-    "tel": "048-226-1191",
+    "tel": "070-1458-8671",
     "address": "川口市東領家2-2-10",
     "access": "",
     "games": [
@@ -1747,7 +1214,7 @@
     "holiday": "",
     "latitude": "35.699336",
     "longitude": "139.770908",
-    "tel": "03-5297-3601",
+    "tel": "070-1458-2284",
     "address": "千代田区外神田1-11-11外神田1丁目ビルディング",
     "access": "",
     "games": [
@@ -1801,19 +1268,6 @@
     "longitude": "139.6180549",
     "tel": "045-412-0880",
     "address": "横浜市西区南幸2-8-16",
-    "access": "",
-    "games": [
-      "DANCERUSH STARDOM"
-    ]
-  },
-  {
-    "name": "namco松戸店",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "35.783581",
-    "longitude": "139.900789",
-    "tel": "047-711-7274",
-    "address": "松戸市松戸1230-1ピアザ松戸1F",
     "access": "",
     "games": [
       "DANCERUSH STARDOM"
@@ -1903,7 +1357,7 @@
     "holiday": "",
     "latitude": "36.369467",
     "longitude": "140.474532",
-    "tel": "029-231-1002",
+    "tel": "070-1458-0665",
     "address": "水戸市宮町1-7-44コムボックス310 3F",
     "access": "",
     "games": [
@@ -1942,8 +1396,21 @@
     "holiday": "",
     "latitude": "35.938535",
     "longitude": "140.195812",
-    "tel": "0296-61-3344",
+    "tel": "070-1458-7426",
     "address": "龍ケ崎市藤ケ丘4-2-8",
+    "access": "",
+    "games": [
+      "DANCERUSH STARDOM"
+    ]
+  },
+  {
+    "name": "ラウンドワンさいか屋横須賀店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "35.28214943",
+    "longitude": "139.6695932",
+    "tel": "046-876-8208",
+    "address": "横須賀市大滝町1-13さいか屋横須賀店本館6F",
     "access": "",
     "games": [
       "DANCERUSH STARDOM"

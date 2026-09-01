@@ -39,19 +39,6 @@
     ]
   },
   {
-    "name": "PALO松江",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "35.4639773",
-    "longitude": "133.0683985",
-    "tel": "070-3100-4323",
-    "address": "松江市東朝日町151イオン松江3F",
-    "access": "",
-    "games": [
-      "DanceEvolution ARCADE"
-    ]
-  },
-  {
     "name": "アピナ姫路店",
     "operation_time": "",
     "holiday": "",
@@ -59,19 +46,6 @@
     "longitude": "134.7151",
     "tel": "079-222-8811",
     "address": "姫路市東郷町1454-3姫路リオス2F",
-    "access": "",
-    "games": [
-      "DanceEvolution ARCADE"
-    ]
-  },
-  {
-    "name": "アピナ四日市店",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "34.94000426",
-    "longitude": "136.6070666",
-    "tel": "059-349-5011",
-    "address": "四日市市泊小柳町4-34",
     "access": "",
     "games": [
       "DanceEvolution ARCADE"

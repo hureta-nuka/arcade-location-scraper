@@ -148,7 +148,7 @@
     "holiday": "",
     "latitude": "33.589905",
     "longitude": "130.396633",
-    "tel": "092-771-8121",
+    "tel": "070-1458-1702",
     "address": "福岡市中央区天神2-7-6天神DADAビル",
     "access": "",
     "games": [
@@ -187,7 +187,7 @@
     "holiday": "",
     "latitude": "33.591529",
     "longitude": "130.419887",
-    "tel": "092-434-3721",
+    "tel": "0570-08-7638",
     "address": "福岡市博多区博多駅中央街2-1博多バスターミナル7F",
     "access": "",
     "games": [
@@ -278,7 +278,7 @@
     "holiday": "",
     "latitude": "33.8231005",
     "longitude": "130.721697",
-    "tel": "093-246-1941",
+    "tel": "070-1459-7012",
     "address": "中間市上蓮花寺3-1-1",
     "access": "",
     "games": [
@@ -364,14 +364,14 @@
     ]
   },
   {
-    "name": "アミパラ下関長府店",
-    "operation_time": "10:00～24:00",
-    "holiday": "無し",
-    "latitude": "34.02547781",
-    "longitude": "131.0073811",
-    "tel": "083-248-5008",
-    "address": "下関市長府才川1-42-48",
-    "access": "JR長府駅徒歩12分",
+    "name": "アミパラ下関駅南店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "33.94509097",
+    "longitude": "130.9204956",
+    "tel": "083-250-5501",
+    "address": "下関市東大和町1-3-15",
+    "access": "",
     "games": [
       "beatmania IIDX LIGHTNING MODEL"
     ]
@@ -546,19 +546,6 @@
     ]
   },
   {
-    "name": "パスカワールド宇土店",
-    "operation_time": "日曜～木曜 10:00～23:00  金曜・土曜 10:00～24:00",
-    "holiday": "無し",
-    "latitude": "32.68271108",
-    "longitude": "130.6679513",
-    "tel": "0964-22-5311",
-    "address": "宇土市善道寺町綾織95",
-    "access": "松橋ICより車で10分、宇土シティーショッピングセンター内",
-    "games": [
-      "beatmania IIDX LIGHTNING MODEL"
-    ]
-  },
-  {
     "name": "タイトーFステーションニシムタ出水",
     "operation_time": "",
     "holiday": "",
@@ -668,7 +655,7 @@
     "holiday": "",
     "latitude": "33.29561901",
     "longitude": "131.5030598",
-    "tel": "0977-25-3206",
+    "tel": "070-1459-7235",
     "address": "別府市餅ケ浜町161-2",
     "access": "",
     "games": [
@@ -759,7 +746,7 @@
     "holiday": "",
     "latitude": "33.24179967",
     "longitude": "131.6373957",
-    "tel": "0975-56-9072",
+    "tel": "070-1459-7329",
     "address": "大分市牧1-161-8",
     "access": "",
     "games": [
@@ -780,6 +767,19 @@
     ]
   },
   {
+    "name": "GiGOアルパーク北棟",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "34.37630292",
+    "longitude": "132.3950257",
+    "tel": "090-9155-1362",
+    "address": "広島市西区草津南4-7-1アルパーク北棟2F",
+    "access": "",
+    "games": [
+      "beatmania IIDX LIGHTNING MODEL"
+    ]
+  },
+  {
     "name": "ブラックジャックアクア",
     "operation_time": "10:00～24:00",
     "holiday": "無し",
@@ -788,19 +788,6 @@
     "tel": "082-831-3344",
     "address": "広島市安佐南区大町東4-12-11",
     "access": "アストラムライン 毘沙門台駅 徒歩4分",
-    "games": [
-      "beatmania IIDX LIGHTNING MODEL"
-    ]
-  },
-  {
-    "name": "アミパラ広島店",
-    "operation_time": "10:00～24:00",
-    "holiday": "無し",
-    "latitude": "34.39350431",
-    "longitude": "132.4360428",
-    "tel": "082-297-7135",
-    "address": "広島市西区西観音町3-17",
-    "access": "平和大通り沿い、西区区役所から東へすぐ",
     "games": [
       "beatmania IIDX LIGHTNING MODEL"
     ]
@@ -837,7 +824,7 @@
     "holiday": "",
     "latitude": "34.36767083",
     "longitude": "132.533669",
-    "tel": "082-824-5550",
+    "tel": "070-1459-6182",
     "address": "安芸郡海田町南大正町3-35",
     "access": "",
     "games": [
@@ -1027,6 +1014,19 @@
     ]
   },
   {
+    "name": "アミパラ津山店",
+    "operation_time": "9:00～22:00",
+    "holiday": "無し",
+    "latitude": "35.06470307",
+    "longitude": "134.0455074",
+    "tel": "0868-21-8071",
+    "address": "津山市河辺1000-1イオン津山SC内2F",
+    "access": "中国自動車道津山IC下車正面 イオン津山ショッピングセンター内2F",
+    "games": [
+      "beatmania IIDX LIGHTNING MODEL"
+    ]
+  },
+  {
     "name": "ユーズランド倉敷店",
     "operation_time": "10:00～21:00",
     "holiday": "無し",
@@ -1084,7 +1084,7 @@
     "holiday": "",
     "latitude": "34.66214987",
     "longitude": "133.9177027",
-    "tel": "086-227-7681",
+    "tel": "070-1458-4363",
     "address": "岡山市北区下石井1-2-1イオンモール岡山6F",
     "access": "",
     "games": [
@@ -1177,6 +1177,19 @@
     "longitude": "134.8163813",
     "tel": "0796-29-0102",
     "address": "豊岡市加広町7-32コープデイズ豊岡内",
+    "access": "",
+    "games": [
+      "beatmania IIDX LIGHTNING MODEL"
+    ]
+  },
+  {
+    "name": "Feedy Diner&Arcade綾川店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "34.251612",
+    "longitude": "133.931129",
+    "tel": "070-3100-3490",
+    "address": "綾歌郡綾川町萱原822-1イオンモール綾川3F",
     "access": "",
     "games": [
       "beatmania IIDX LIGHTNING MODEL"
@@ -1422,7 +1435,7 @@
     "holiday": "",
     "latitude": "34.828977",
     "longitude": "134.69114",
-    "tel": "0792-22-6455",
+    "tel": "070-1459-4929",
     "address": "姫路市駅前町254姫路OSビルB1F",
     "access": "",
     "games": [
@@ -1526,7 +1539,7 @@
     "holiday": "無し",
     "latitude": "42.65619751",
     "longitude": "141.6419704",
-    "tel": "0144-52-1212",
+    "tel": "080-7032-8310",
     "address": "苫小牧市柳町3-1-20イオンモール苫小牧2F",
     "access": "JR苫小牧駅よりバス20分",
     "games": [
@@ -1580,19 +1593,6 @@
     "longitude": "135.1868326",
     "tel": "080-7609-7318",
     "address": "三田市けやき台1-6-4イオン三田ウッディタウン店2番街",
-    "access": "",
-    "games": [
-      "beatmania IIDX LIGHTNING MODEL"
-    ]
-  },
-  {
-    "name": "PALO小松島",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "34.00568188",
-    "longitude": "134.5726547",
-    "tel": "070-3100-5034",
-    "address": "小松島市小松島町字領田20小松島ショッピングプラザルピア1F",
     "access": "",
     "games": [
       "beatmania IIDX LIGHTNING MODEL"
@@ -1747,7 +1747,7 @@
     "holiday": "",
     "latitude": "36.073357",
     "longitude": "136.243038",
-    "tel": "0776-52-0806",
+    "tel": "070-1459-1339",
     "address": "福井市丸山町1-410",
     "access": "",
     "games": [
@@ -1846,19 +1846,6 @@
     ]
   },
   {
-    "name": "PALO五所川原",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "40.80095013",
-    "longitude": "140.4614581",
-    "tel": "070-3100-5496",
-    "address": "五所川原市大字唐笠柳字藤巻641-1",
-    "access": "",
-    "games": [
-      "beatmania IIDX LIGHTNING MODEL"
-    ]
-  },
-  {
     "name": "ラウンドワン豊中店",
     "operation_time": "",
     "holiday": "",
@@ -1879,19 +1866,6 @@
     "longitude": "135.149066",
     "tel": "073-452-1668",
     "address": "和歌山市ふじと台23イオンモール和歌山2F",
-    "access": "",
-    "games": [
-      "beatmania IIDX LIGHTNING MODEL"
-    ]
-  },
-  {
-    "name": "ピタゴラス和歌山店",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "34.25253983",
-    "longitude": "135.1463143",
-    "tel": "070-1479-6710",
-    "address": "和歌山市土入73-1",
     "access": "",
     "games": [
       "beatmania IIDX LIGHTNING MODEL"
@@ -1919,19 +1893,6 @@
     "tel": "075-711-4622",
     "address": "京都市北区上賀茂西河原町1-1",
     "access": "",
-    "games": [
-      "beatmania IIDX LIGHTNING MODEL"
-    ]
-  },
-  {
-    "name": "ゲームSPOT207",
-    "operation_time": "7:00～24:00",
-    "holiday": "無し",
-    "latitude": "36.73235328",
-    "longitude": "137.0023356",
-    "tel": "0766-26-2070",
-    "address": "高岡市鐘紡町1655-3",
-    "access": "JR高岡駅から車で15分",
     "games": [
       "beatmania IIDX LIGHTNING MODEL"
     ]
@@ -1968,7 +1929,7 @@
     "holiday": "",
     "latitude": "34.70278573",
     "longitude": "135.5003716",
-    "tel": "06-6313-0778",
+    "tel": "0570-08-7610",
     "address": "大阪市北区小松原町3-3OSビル2F",
     "access": "",
     "games": [
@@ -1994,7 +1955,7 @@
     "holiday": "",
     "latitude": "34.69990767",
     "longitude": "135.4988323",
-    "tel": "06-6344-5270",
+    "tel": "070-1459-4197",
     "address": "大阪市北区梅田1-11-4駅前第4ビルB1F",
     "access": "",
     "games": [
@@ -2041,14 +2002,14 @@
     ]
   },
   {
-    "name": "ゲームパニック堺",
-    "operation_time": "10:00～23:45",
+    "name": "ザ･インドアゲーム",
+    "operation_time": "平日12:00～24:00 土日祝11:00～24:00",
     "holiday": "無し",
-    "latitude": "34.597817",
-    "longitude": "135.447433",
-    "tel": "072-224-8295",
-    "address": "堺市堺区築港八幡町1-1堺浜シーサイド内堺浜えんため館",
-    "access": "南海バス20系統「堺市内北回り」 堺駅西口→堺浜シーサイドステージ約17分 堺東駅→堺浜シーサイドステージ約25分",
+    "latitude": "34.72953957",
+    "longitude": "135.5440365",
+    "tel": "06-6955-4494",
+    "address": "大阪市旭区中宮5-6-19",
+    "access": "大阪工業大学正門前通り",
     "games": [
       "beatmania IIDX LIGHTNING MODEL"
     ]
@@ -2059,7 +2020,7 @@
     "holiday": "",
     "latitude": "34.66848732",
     "longitude": "135.5017054",
-    "tel": "070-1458-4741",
+    "tel": "070-1459-1559",
     "address": "大阪市中央区道頓堀1-8-22頓座ビル1F-3F",
     "access": "",
     "games": [
@@ -2176,7 +2137,7 @@
     "holiday": "",
     "latitude": "34.646623",
     "longitude": "135.511677",
-    "tel": "06-6647-0716",
+    "tel": "070-1458-1519",
     "address": "大阪市阿倍野区阿倍野筋1-5-31アポロビル3F･4F",
     "access": "JR 天王寺駅・近鉄あべの橋駅より徒歩3分 アポロビル 3F",
     "games": [
@@ -2293,7 +2254,7 @@
     "holiday": "",
     "latitude": "34.66416946",
     "longitude": "135.5628455",
-    "tel": "06-6783-6999",
+    "tel": "070-1459-4020",
     "address": "東大阪市長堂1-1-1ロンモール布施内",
     "access": "",
     "games": [
@@ -2306,7 +2267,7 @@
     "holiday": "",
     "latitude": "34.81956439",
     "longitude": "135.675398",
-    "tel": "072-898-9019",
+    "tel": "070-1459-3993",
     "address": "枚方市須山町83-1サンシャインプラザ枚方内",
     "access": "",
     "games": [
@@ -2340,19 +2301,6 @@
     ]
   },
   {
-    "name": "BIG BANG北見",
-    "operation_time": "",
-    "holiday": "無し",
-    "latitude": "43.796167",
-    "longitude": "143.850753",
-    "tel": "0157-36-9190",
-    "address": "北見市中央三輪7-446-1",
-    "access": "",
-    "games": [
-      "beatmania IIDX LIGHTNING MODEL"
-    ]
-  },
-  {
     "name": "PALOむつ",
     "operation_time": "",
     "holiday": "",
@@ -2360,6 +2308,19 @@
     "longitude": "141.1838083",
     "tel": "070-3100-4671",
     "address": "むつ市中央2-7-8",
+    "access": "",
+    "games": [
+      "beatmania IIDX LIGHTNING MODEL"
+    ]
+  },
+  {
+    "name": "アミューズメントシティ東武イーストモール店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "43.84131671",
+    "longitude": "143.9285665",
+    "tel": "0157-56-4311",
+    "address": "北見市端野町3区572-1",
     "access": "",
     "games": [
       "beatmania IIDX LIGHTNING MODEL"
@@ -2488,7 +2449,7 @@
     "holiday": "",
     "latitude": "35.02456418",
     "longitude": "135.9591575",
-    "tel": "077-561-6577",
+    "tel": "070-1459-3852",
     "address": "草津市西渋川1-23-23A-SQUARE SARA新棟2F",
     "access": "",
     "games": [
@@ -2683,7 +2644,7 @@
     "holiday": "",
     "latitude": "39.7042341",
     "longitude": "140.1035537",
-    "tel": "018-864-8421",
+    "tel": "070-1458-4886",
     "address": "秋田市茨島1-1-16",
     "access": "",
     "games": [
@@ -2712,6 +2673,19 @@
     "tel": "018-831-6900",
     "address": "秋田市広面字長沼301",
     "access": "",
+    "games": [
+      "beatmania IIDX LIGHTNING MODEL"
+    ]
+  },
+  {
+    "name": "ドリーム キャンディ",
+    "operation_time": "一部24時間",
+    "holiday": "無し",
+    "latitude": "34.775269",
+    "longitude": "136.122796",
+    "tel": "0595-26-7568",
+    "address": "伊賀市小田町711-1",
+    "access": "西大手駅から約13分",
     "games": [
       "beatmania IIDX LIGHTNING MODEL"
     ]
@@ -2769,12 +2743,25 @@
     ]
   },
   {
+    "name": "モーリーファンタジーf岐阜",
+    "operation_time": "10:00～22:00",
+    "holiday": "無し",
+    "latitude": "35.44803841",
+    "longitude": "136.7447554",
+    "tel": "070-3100-3566",
+    "address": "岐阜市正木中1-2-1マーサ21 北館3F",
+    "access": "ジャスコ岐阜店北側3階",
+    "games": [
+      "beatmania IIDX LIGHTNING MODEL"
+    ]
+  },
+  {
     "name": "ゲームファンタジアン柳津店",
     "operation_time": "一部24時間営業",
     "holiday": "無し",
     "latitude": "35.37596826",
     "longitude": "136.7145391",
-    "tel": "058-279-0085",
+    "tel": "070-1364-7332",
     "address": "岐阜市柳津町上佐波西3-68",
     "access": "岐阜県ふれあい会館から南に4分",
     "games": [
@@ -2800,7 +2787,7 @@
     "holiday": "",
     "latitude": "35.309294",
     "longitude": "136.77153",
-    "tel": "0586-47-5700",
+    "tel": "070-1459-3178",
     "address": "一宮市篭屋3-9-7アソビックスびさい1F",
     "access": "",
     "games": [
@@ -2813,7 +2800,7 @@
     "holiday": "",
     "latitude": "35.479716",
     "longitude": "136.900472",
-    "tel": "0575-23-6617",
+    "tel": "070-1459-1931",
     "address": "関市倉知516マーゴシネマ館2F",
     "access": "",
     "games": [
@@ -3086,7 +3073,7 @@
     "holiday": "",
     "latitude": "35.26954",
     "longitude": "136.96052",
-    "tel": "0568-89-3081",
+    "tel": "070-1459-2427",
     "address": "春日井市岩野町4180",
     "access": "",
     "games": [
@@ -3151,7 +3138,7 @@
     "holiday": "",
     "latitude": "40.519862",
     "longitude": "141.498255",
-    "tel": "0178-43-7817",
+    "tel": "070-1458-4824",
     "address": "八戸市城下4-25-14",
     "access": "",
     "games": [
@@ -3250,7 +3237,7 @@
     ]
   },
   {
-    "name": "ラウンドワンイーアス春日井店",
+    "name": "ラウンドワンスタジアムヨロッカ春日井店",
     "operation_time": "",
     "holiday": "",
     "latitude": "35.25898",
@@ -3281,7 +3268,7 @@
     "holiday": "",
     "latitude": "35.14264312",
     "longitude": "136.9023578",
-    "tel": "052-323-0121",
+    "tel": "070-1458-1256",
     "address": "名古屋市熱田区金山町1-19-2",
     "access": "",
     "games": [
@@ -3323,19 +3310,6 @@
     "tel": "052-694-6051",
     "address": "名古屋市南区内田橋2-26-22",
     "access": "名鉄常滑線豊田本町駅近く",
-    "games": [
-      "beatmania IIDX LIGHTNING MODEL"
-    ]
-  },
-  {
-    "name": "ゲームチャオ松阪店",
-    "operation_time": "10:00～24:00",
-    "holiday": "無し",
-    "latitude": "34.58867016",
-    "longitude": "136.5257638",
-    "tel": "0598-53-3918",
-    "address": "松阪市船江町782",
-    "access": "国道42号線沿い、松阪駅から車で5分",
     "games": [
       "beatmania IIDX LIGHTNING MODEL"
     ]
@@ -3458,13 +3432,13 @@
     ]
   },
   {
-    "name": "G3ポロス横手南店",
+    "name": "GiGOイオンモール新発田",
     "operation_time": "",
     "holiday": "",
-    "latitude": "39.29452197",
-    "longitude": "140.5520782",
-    "tel": "0182-23-5415",
-    "address": "横手市大字婦気大堤字中田4-1イオンスーパーセンター横手南店2F",
+    "latitude": "37.94267583",
+    "longitude": "139.3093577",
+    "tel": "070-3236-0453",
+    "address": "新発田市住吉町5-11-5イオンモール新発田店2F",
     "access": "",
     "games": [
       "beatmania IIDX LIGHTNING MODEL"
@@ -3515,7 +3489,7 @@
     "holiday": "",
     "latitude": "35.03882703",
     "longitude": "137.0267449",
-    "tel": "0566-36-4338",
+    "tel": "070-1459-3212",
     "address": "刈谷市東境町京和1",
     "access": "",
     "games": [
@@ -3567,21 +3541,8 @@
     "holiday": "",
     "latitude": "34.492142",
     "longitude": "136.678061",
-    "tel": "0596-21-1243",
+    "tel": "070-1459-3687",
     "address": "伊勢市中須町666",
-    "access": "",
-    "games": [
-      "beatmania IIDX LIGHTNING MODEL"
-    ]
-  },
-  {
-    "name": "HapipiLand十日町店",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "37.13648",
-    "longitude": "138.7456",
-    "tel": "080-7143-5507",
-    "address": "十日町市丑735-1",
     "access": "",
     "games": [
       "beatmania IIDX LIGHTNING MODEL"
@@ -3593,7 +3554,7 @@
     "holiday": "",
     "latitude": "35.067883",
     "longitude": "137.123797",
-    "tel": "0565-26-6777",
+    "tel": "070-1459-2494",
     "address": "豊田市深田町1-65-1",
     "access": "",
     "games": [
@@ -3645,7 +3606,7 @@
     "holiday": "",
     "latitude": "34.94737219",
     "longitude": "137.0732623",
-    "tel": "0566-77-2020",
+    "tel": "070-1459-2615",
     "address": "安城市百石町2-35-13",
     "access": "",
     "games": [
@@ -3783,19 +3744,6 @@
     ]
   },
   {
-    "name": "PALO諏訪",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "36.00551011",
-    "longitude": "138.1283942",
-    "tel": "070-3100-3453",
-    "address": "諏訪市沖田町5-18ステーションパーク諏訪内",
-    "access": "",
-    "games": [
-      "beatmania IIDX LIGHTNING MODEL"
-    ]
-  },
-  {
     "name": "ソユーファミリーゲームフィールド花巻店",
     "operation_time": "",
     "holiday": "",
@@ -3866,7 +3814,7 @@
     "holiday": "",
     "latitude": "34.7491",
     "longitude": "137.414002",
-    "tel": "0532-66-1001",
+    "tel": "070-1459-2804",
     "address": "豊橋市飯村町字西山25-121",
     "access": "",
     "games": [
@@ -3931,7 +3879,7 @@
     "holiday": "",
     "latitude": "37.91095607",
     "longitude": "140.133677",
-    "tel": "0238-24-0666",
+    "tel": "070-1458-5324",
     "address": "米沢市大字花沢字タナコ原177",
     "access": "",
     "games": [
@@ -4243,8 +4191,21 @@
     "holiday": "",
     "latitude": "38.26181",
     "longitude": "140.87675",
-    "tel": "022-211-1922",
+    "tel": "070-1458-0346",
     "address": "仙台市青葉区中央2-5-5三経60ビル",
+    "access": "",
+    "games": [
+      "beatmania IIDX LIGHTNING MODEL"
+    ]
+  },
+  {
+    "name": "namcoBiVi仙台駅東口店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "38.2610219",
+    "longitude": "140.8837672",
+    "tel": "022-352-6367",
+    "address": "仙台市宮城野区榴岡2-1-25BiVi仙台駅東口2F",
     "access": "",
     "games": [
       "beatmania IIDX LIGHTNING MODEL"
@@ -4256,7 +4217,7 @@
     "holiday": "",
     "latitude": "36.339538",
     "longitude": "139.231968",
-    "tel": "0270-62-3886",
+    "tel": "070-1458-2998",
     "address": "伊勢崎市西小保方町368スマーク伊勢崎3F302区画",
     "access": "",
     "games": [
@@ -4347,7 +4308,7 @@
     "holiday": "",
     "latitude": "38.1565798",
     "longitude": "140.8882353",
-    "tel": "022-384-8950",
+    "tel": "070-1458-5284",
     "address": "名取市飯野坂字土城堀57-1",
     "access": "",
     "games": [
@@ -4420,7 +4381,7 @@
     ]
   },
   {
-    "name": "タイトーFステーション郡山オリエントパーク店",
+    "name": "タイトーFステーション郡山オリエントパーク",
     "operation_time": "",
     "holiday": "",
     "latitude": "37.37465045",
@@ -4433,7 +4394,7 @@
     ]
   },
   {
-    "name": "ドラマ足利店",
+    "name": "GiGO足利朝倉",
     "operation_time": "10:00～24:00",
     "holiday": "無し",
     "latitude": "36.32220259",
@@ -4441,19 +4402,6 @@
     "tel": "0284-73-9559",
     "address": "足利市朝倉町244-1",
     "access": "東武伊勢崎線足利市駅より徒歩10分",
-    "games": [
-      "beatmania IIDX LIGHTNING MODEL"
-    ]
-  },
-  {
-    "name": "プレイタウンパル富士吉田店",
-    "operation_time": "10:00～24:00",
-    "holiday": "無し",
-    "latitude": "35.48301003",
-    "longitude": "138.7797075",
-    "tel": "0555-22-8668",
-    "address": "富士吉田市新西原4-12-15",
-    "access": "富士急ハイランドそば",
     "games": [
       "beatmania IIDX LIGHTNING MODEL"
     ]
@@ -4505,19 +4453,6 @@
     "longitude": "140.3957065",
     "tel": "024-941-3191",
     "address": "郡山市向河原町4-55",
-    "access": "",
-    "games": [
-      "beatmania IIDX LIGHTNING MODEL"
-    ]
-  },
-  {
-    "name": "namcoイオンタウン郡山店",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "37.389283",
-    "longitude": "140.390809",
-    "tel": "024-943-2715",
-    "address": "郡山市松木町2-88イオンタウン郡山",
     "access": "",
     "games": [
       "beatmania IIDX LIGHTNING MODEL"
@@ -4581,7 +4516,7 @@
     "holiday": "",
     "latitude": "36.895093",
     "longitude": "139.982317",
-    "tel": "0287-37-3077",
+    "tel": "070-1458-5832",
     "address": "那須塩原市南郷屋2-106-27",
     "access": "",
     "games": [
@@ -4649,19 +4584,6 @@
     "tel": "0248-63-8918",
     "address": "須賀川市古河105イオンタウン須賀川B棟内",
     "access": "",
-    "games": [
-      "beatmania IIDX LIGHTNING MODEL"
-    ]
-  },
-  {
-    "name": "サープラ富士あそびタウン",
-    "operation_time": "10:00～24:00 土日祝9:00～24:00",
-    "holiday": "無し",
-    "latitude": "35.16272123",
-    "longitude": "138.6694286",
-    "tel": "0545-67-7733",
-    "address": "富士市永田町2-94",
-    "access": "東名高速富士I.C車で10分",
     "games": [
       "beatmania IIDX LIGHTNING MODEL"
     ]
@@ -4776,7 +4698,7 @@
     "holiday": "",
     "latitude": "36.558326",
     "longitude": "139.90882",
-    "tel": "028-633-6082",
+    "tel": "070-1458-5967",
     "address": "宇都宮市東宿郷5-1-7",
     "access": "",
     "games": [
@@ -4815,7 +4737,7 @@
     "holiday": "",
     "latitude": "35.744653",
     "longitude": "139.324251",
-    "tel": "042-553-6290",
+    "tel": "070-1458-7359",
     "address": "福生市福生1076-1",
     "access": "",
     "games": [
@@ -4831,19 +4753,6 @@
     "tel": "0280-32-1138",
     "address": "古河市松並2-18-10マーケットシティ古河内",
     "access": "マーケットシティ古河内",
-    "games": [
-      "beatmania IIDX LIGHTNING MODEL"
-    ]
-  },
-  {
-    "name": "ドラマ瑞穂店",
-    "operation_time": "10:00～24:00",
-    "holiday": "無し",
-    "latitude": "35.76337213",
-    "longitude": "139.3568934",
-    "tel": "042-556-6605",
-    "address": "西多摩郡瑞穂町武蔵382-1",
-    "access": "JR八高線「箱根ヶ崎駅」から武蔵村山市方面に徒歩25分",
     "games": [
       "beatmania IIDX LIGHTNING MODEL"
     ]
@@ -4893,7 +4802,7 @@
     "holiday": "",
     "latitude": "36.29908128",
     "longitude": "139.8101531",
-    "tel": "0285-28-6281",
+    "tel": "070-1458-5850",
     "address": "小山市東城南1-1-18",
     "access": "",
     "games": [
@@ -5049,7 +4958,7 @@
     "holiday": "",
     "latitude": "35.109337",
     "longitude": "138.902823",
-    "tel": "055-972-5430",
+    "tel": "070-1458-3407",
     "address": "駿東郡清水町玉川61-2サントムーン柿田川2F",
     "access": "",
     "games": [
@@ -5083,12 +4992,12 @@
     ]
   },
   {
-    "name": "ドラマ八王子高倉店",
+    "name": "GiGO八王子高倉",
     "operation_time": "10:00～24:00",
     "holiday": "無し",
     "latitude": "35.66506526",
     "longitude": "139.3664795",
-    "tel": "0426-45-7050",
+    "tel": "042-645-7050",
     "address": "八王子市高倉町55-4",
     "access": "国道20号、八王子市高倉町「高倉町西」交差点を日野バイパス豊田方面右手",
     "games": [
@@ -5114,7 +5023,7 @@
     "holiday": "",
     "latitude": "35.78848",
     "longitude": "139.47187",
-    "tel": "042-926-9009",
+    "tel": "070-1458-6971",
     "address": "所沢市日吉町8-1",
     "access": "",
     "games": [
@@ -5153,7 +5062,7 @@
     "holiday": "",
     "latitude": "35.6972343",
     "longitude": "139.4142917",
-    "tel": "042-521-3050",
+    "tel": "070-1458-1147",
     "address": "立川市柴崎町3-2-1サザンビル1F",
     "access": "",
     "games": [
@@ -5291,19 +5200,6 @@
     ]
   },
   {
-    "name": "ウェアハウス一橋学園店",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "35.723438",
-    "longitude": "139.480703",
-    "tel": "042-349-7600",
-    "address": "小平市学園東町1-4-39平山ビル3F",
-    "access": "",
-    "games": [
-      "beatmania IIDX LIGHTNING MODEL"
-    ]
-  },
-  {
     "name": "GiGO相模原",
     "operation_time": "10:00～24:00",
     "holiday": "無し",
@@ -5408,19 +5304,6 @@
     ]
   },
   {
-    "name": "アドアーズ和光店",
-    "operation_time": "10:00～23:30",
-    "holiday": "無し",
-    "latitude": "35.78829096",
-    "longitude": "139.6116504",
-    "tel": "048-463-5108",
-    "address": "和光市本町3-5Million Annex 和光1-3F",
-    "access": "和光市駅南口駅前交番前",
-    "games": [
-      "beatmania IIDX LIGHTNING MODEL"
-    ]
-  },
-  {
     "name": "神奈川レジャーランド厚木店",
     "operation_time": "一部24時間営業",
     "holiday": "無し",
@@ -5442,19 +5325,6 @@
     "tel": "048-745-2501",
     "address": "春日部市下柳420-1イオンモール春日部2F 2037",
     "access": "庄和インターそば",
-    "games": [
-      "beatmania IIDX LIGHTNING MODEL"
-    ]
-  },
-  {
-    "name": "アピナ成増店",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "35.77813507",
-    "longitude": "139.6304654",
-    "tel": "03-6904-1677",
-    "address": "板橋区成増2-21-2MEGAドン･キホーテ成増店5F",
-    "access": "",
     "games": [
       "beatmania IIDX LIGHTNING MODEL"
     ]
@@ -5504,22 +5374,9 @@
     "holiday": "",
     "latitude": "35.532177",
     "longitude": "139.436075",
-    "tel": "042-741-8195",
+    "tel": "070-1458-9839",
     "address": "相模原市南区相模大野3-13-2フレスコビル3F",
     "access": "",
-    "games": [
-      "beatmania IIDX LIGHTNING MODEL"
-    ]
-  },
-  {
-    "name": "GiGOイオンモール浦和美園",
-    "operation_time": "9:00～23:00",
-    "holiday": "無し",
-    "latitude": "35.8909712",
-    "longitude": "139.7311429",
-    "tel": "080-4831-9105",
-    "address": "さいたま市緑区美園5-50-1イオンモール浦和美園2F",
-    "access": "イオン浦和美園ショッピングセンター内 2階",
     "games": [
       "beatmania IIDX LIGHTNING MODEL"
     ]
@@ -5543,7 +5400,7 @@
     "holiday": "",
     "latitude": "35.54392",
     "longitude": "139.446987",
-    "tel": "042-723-6701",
+    "tel": "070-1458-7623",
     "address": "町田市原町田6-13-17アーバンミサワビル",
     "access": "",
     "games": [
@@ -5556,7 +5413,7 @@
     "holiday": "",
     "latitude": "35.439044",
     "longitude": "139.361882",
-    "tel": "0462-23-7157",
+    "tel": "070-1458-9835",
     "address": "厚木市中町4-15-9",
     "access": "",
     "games": [
@@ -5603,19 +5460,6 @@
     ]
   },
   {
-    "name": "タイトーFステーション吉祥寺JOY",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "35.70436",
-    "longitude": "139.57963",
-    "tel": "090-7265-2005",
-    "address": "武蔵野市吉祥寺本町1-8-23河田ビル",
-    "access": "",
-    "games": [
-      "beatmania IIDX LIGHTNING MODEL"
-    ]
-  },
-  {
     "name": "タイトーステーション町田店",
     "operation_time": "10:00～24:00",
     "holiday": "無し",
@@ -5655,6 +5499,19 @@
     ]
   },
   {
+    "name": "アドアーズ蕨店",
+    "operation_time": "10:00～23:45",
+    "holiday": "無し",
+    "latitude": "35.82774017",
+    "longitude": "139.6915296",
+    "tel": "048-433-3886",
+    "address": "蕨市塚越1-4-4花見屋第2ビル2F",
+    "access": "塚越東口一番街通りを直進50m",
+    "games": [
+      "beatmania IIDX LIGHTNING MODEL"
+    ]
+  },
+  {
     "name": "ウェアハウス越谷店",
     "operation_time": "10:00～24:00",
     "holiday": "無し",
@@ -5686,7 +5543,7 @@
     "holiday": "",
     "latitude": "35.45161",
     "longitude": "139.39236",
-    "tel": "046-292-5812",
+    "tel": "070-1458-9763",
     "address": "海老名市中央1-4-31海老名プラザビル1F",
     "access": "",
     "games": [
@@ -5999,7 +5856,7 @@
     "latitude": "35.73071",
     "longitude": "139.71644",
     "tel": "03-5904-8388",
-    "address": "豊島区東池袋1-29-1マルビル池袋2-3F",
+    "address": "豊島区東池袋1-29-1マルビル池袋B1-3F",
     "access": "",
     "games": [
       "beatmania IIDX LIGHTNING MODEL"
@@ -6011,7 +5868,7 @@
     "holiday": "",
     "latitude": "35.7137",
     "longitude": "139.70374",
-    "tel": "03-5937-1515",
+    "tel": "070-1450-1280",
     "address": "新宿区高田馬場4-7-5高田馬場グランド東京ビル",
     "access": "",
     "games": [
@@ -6102,7 +5959,7 @@
     "holiday": "",
     "latitude": "35.54468479",
     "longitude": "139.5746128",
-    "tel": "045-945-7720",
+    "tel": "070-1459-0779",
     "address": "横浜市都筑区茅ケ崎中央3-25",
     "access": "",
     "games": [
@@ -6154,7 +6011,7 @@
     "holiday": "",
     "latitude": "35.69316847",
     "longitude": "139.7018443",
-    "tel": "03-3352-5489",
+    "tel": "070-1458-2717",
     "address": "新宿区新宿3-22-12",
     "access": "",
     "games": [
@@ -6193,7 +6050,7 @@
     "holiday": "",
     "latitude": "35.794794",
     "longitude": "139.792358",
-    "tel": "03-3858-2307",
+    "tel": "070-1458-9285",
     "address": "足立区竹の塚6-8-6ピーくんPlazaB",
     "access": "",
     "games": [
@@ -6227,7 +6084,7 @@
     ]
   },
   {
-    "name": "ドラマ港北インター店",
+    "name": "GiGO港北インター",
     "operation_time": "10:00～24:00",
     "holiday": "無し",
     "latitude": "35.51925659",
@@ -6258,7 +6115,7 @@
     "holiday": "",
     "latitude": "35.660097",
     "longitude": "139.702644",
-    "tel": "03-3409-4737",
+    "tel": "070-1458-0880",
     "address": "渋谷区渋谷1-14-14EST 1F･7F",
     "access": "",
     "games": [
@@ -6284,7 +6141,7 @@
     "holiday": "",
     "latitude": "35.701061",
     "longitude": "139.741994",
-    "tel": "03-3260-7253",
+    "tel": "070-1458-0950",
     "address": "新宿区神楽坂2-11第2カグラヒルズ1F",
     "access": "",
     "games": [
@@ -6310,7 +6167,7 @@
     "holiday": "",
     "latitude": "35.60845726",
     "longitude": "139.6676515",
-    "tel": "03-3725-3953",
+    "tel": "070-1458-9668",
     "address": "目黒区自由が丘2-10-9",
     "access": "",
     "games": [
@@ -6318,7 +6175,7 @@
     ]
   },
   {
-    "name": "ドラマ藤沢店",
+    "name": "GiGO本藤沢",
     "operation_time": "10:00～24:00",
     "holiday": "無し",
     "latitude": "35.35751243",
@@ -6388,7 +6245,7 @@
     "holiday": "",
     "latitude": "35.5364623",
     "longitude": "139.6324113",
-    "tel": "045-547-1199",
+    "tel": "070-1458-9945",
     "address": "横浜市港北区綱島西2-6-29城田ビル3F",
     "access": "",
     "games": [
@@ -6427,7 +6284,7 @@
     "holiday": "",
     "latitude": "35.699336",
     "longitude": "139.770908",
-    "tel": "03-5297-3601",
+    "tel": "070-1458-2284",
     "address": "千代田区外神田1-11-11外神田1丁目ビルディング",
     "access": "",
     "games": [
@@ -6466,7 +6323,7 @@
     "holiday": "",
     "latitude": "35.69871026",
     "longitude": "139.7709979",
-    "tel": "",
+    "tel": "044-589-4523",
     "address": "千代田区外神田1-10-9",
     "access": "",
     "games": [
@@ -6521,19 +6378,6 @@
     "tel": "0466-47-9153",
     "address": "藤沢市南藤沢21-1",
     "access": "",
-    "games": [
-      "beatmania IIDX LIGHTNING MODEL"
-    ]
-  },
-  {
-    "name": "ウェアハウス南流山店",
-    "operation_time": "10:00～24:00",
-    "holiday": "無し",
-    "latitude": "35.84020798",
-    "longitude": "139.9050111",
-    "tel": "04-7159-2351",
-    "address": "流山市南流山4-16-6",
-    "access": "南流山駅から徒歩3分",
     "games": [
       "beatmania IIDX LIGHTNING MODEL"
     ]
@@ -6700,7 +6544,7 @@
     "holiday": "",
     "latitude": "35.590043",
     "longitude": "139.72823",
-    "tel": "03-5709-0669",
+    "tel": "070-1458-9581",
     "address": "大田区山王2-1-5大森駅ララビル2F",
     "access": "",
     "games": [
@@ -6786,19 +6630,6 @@
     ]
   },
   {
-    "name": "ピンクパンサー 水戸赤塚店",
-    "operation_time": "10:00～24:00",
-    "holiday": "無し",
-    "latitude": "36.3807337",
-    "longitude": "140.4136026",
-    "tel": "029-309-1983",
-    "address": "水戸市河和田1-1",
-    "access": "JR水戸線 赤塚駅徒歩5分 フレスポ赤塚内",
-    "games": [
-      "beatmania IIDX LIGHTNING MODEL"
-    ]
-  },
-  {
     "name": "シルクハット伊勢佐木町",
     "operation_time": "9:00～23:45",
     "holiday": "無し",
@@ -6856,7 +6687,7 @@
     "holiday": "",
     "latitude": "35.79133049",
     "longitude": "139.937777",
-    "tel": "047-392-4661",
+    "tel": "070-1458-8638",
     "address": "松戸市日暮1-1-1八柱駅第2ビル2F",
     "access": "",
     "games": [
@@ -6895,7 +6726,7 @@
     "holiday": "",
     "latitude": "35.68469819",
     "longitude": "139.8639374",
-    "tel": "03-5676-2522",
+    "tel": "070-1458-8745",
     "address": "江戸川区船堀1-6-11",
     "access": "",
     "games": [
@@ -6908,7 +6739,7 @@
     "holiday": "",
     "latitude": "35.38563947",
     "longitude": "139.6189989",
-    "tel": "045-772-8230",
+    "tel": "070-1458-9950",
     "address": "横浜市磯子区杉田1-1-1らびすた新杉田2F",
     "access": "",
     "games": [
@@ -6934,7 +6765,7 @@
     "holiday": "",
     "latitude": "36.350325",
     "longitude": "140.443003",
-    "tel": "029-244-1045",
+    "tel": "070-1458-6102",
     "address": "水戸市千波町2017-1",
     "access": "",
     "games": [
@@ -6960,7 +6791,7 @@
     "holiday": "",
     "latitude": "36.369467",
     "longitude": "140.474532",
-    "tel": "029-231-1002",
+    "tel": "070-1458-0665",
     "address": "水戸市宮町1-7-44コムボックス310 3F",
     "access": "",
     "games": [
@@ -7124,6 +6955,19 @@
     ]
   },
   {
+    "name": "ラウンドワンさいか屋横須賀店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "35.28214943",
+    "longitude": "139.6695932",
+    "tel": "046-876-8208",
+    "address": "横須賀市大滝町1-13さいか屋横須賀店本館6F",
+    "access": "",
+    "games": [
+      "beatmania IIDX LIGHTNING MODEL"
+    ]
+  },
+  {
     "name": "アミューズメントエース津田沼",
     "operation_time": "9:00～24:00",
     "holiday": "無し",
@@ -7207,7 +7051,7 @@
     "holiday": "",
     "latitude": "35.65022338",
     "longitude": "140.0425216",
-    "tel": "043-273-5261",
+    "tel": "070-1458-0443",
     "address": "千葉市美浜区ひび野1-8メッセアミューズモール1F",
     "access": "",
     "games": [

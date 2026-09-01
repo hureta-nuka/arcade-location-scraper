@@ -18,7 +18,7 @@
     "holiday": "",
     "latitude": "33.589905",
     "longitude": "130.396633",
-    "tel": "092-771-8121",
+    "tel": "070-1458-1702",
     "address": "福岡市中央区天神2-7-6天神DADAビル",
     "access": "",
     "games": [
@@ -57,7 +57,7 @@
     "holiday": "",
     "latitude": "33.591529",
     "longitude": "130.419887",
-    "tel": "092-434-3721",
+    "tel": "0570-08-7638",
     "address": "福岡市博多区博多駅中央街2-1博多バスターミナル7F",
     "access": "",
     "games": [
@@ -156,14 +156,14 @@
     ]
   },
   {
-    "name": "アミパラ下関長府店",
-    "operation_time": "10:00～24:00",
-    "holiday": "無し",
-    "latitude": "34.02547781",
-    "longitude": "131.0073811",
-    "tel": "083-248-5008",
-    "address": "下関市長府才川1-42-48",
-    "access": "JR長府駅徒歩12分",
+    "name": "アミパラ下関駅南店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "33.94509097",
+    "longitude": "130.9204956",
+    "tel": "083-250-5501",
+    "address": "下関市東大和町1-3-15",
+    "access": "",
     "games": [
       "GITADORA DrumMania -ARENA MODEL-"
     ]
@@ -203,19 +203,6 @@
     "tel": "0979-85-0688",
     "address": "中津市下池永67-3",
     "access": "",
-    "games": [
-      "GITADORA DrumMania -ARENA MODEL-"
-    ]
-  },
-  {
-    "name": "パスカワールド宇土店",
-    "operation_time": "日曜～木曜 10:00～23:00  金曜・土曜 10:00～24:00",
-    "holiday": "無し",
-    "latitude": "32.68271108",
-    "longitude": "130.6679513",
-    "tel": "0964-22-5311",
-    "address": "宇土市善道寺町綾織95",
-    "access": "松橋ICより車で10分、宇土シティーショッピングセンター内",
     "games": [
       "GITADORA DrumMania -ARENA MODEL-"
     ]
@@ -294,19 +281,6 @@
     "tel": "097-556-2188",
     "address": "大分市萩原4-227-1ACS内3F",
     "access": "臨界産業道路沿い 大洲総合運動公園近く",
-    "games": [
-      "GITADORA DrumMania -ARENA MODEL-"
-    ]
-  },
-  {
-    "name": "アミパラ広島店",
-    "operation_time": "10:00～24:00",
-    "holiday": "無し",
-    "latitude": "34.39350431",
-    "longitude": "132.4360428",
-    "tel": "082-297-7135",
-    "address": "広島市西区西観音町3-17",
-    "access": "平和大通り沿い、西区区役所から東へすぐ",
     "games": [
       "GITADORA DrumMania -ARENA MODEL-"
     ]
@@ -416,6 +390,19 @@
     ]
   },
   {
+    "name": "スーパーヒーロー倉吉",
+    "operation_time": "10:00～翌3:00/土・休前日/10:00～翌5:00",
+    "holiday": "無し",
+    "latitude": "35.43833291",
+    "longitude": "133.8393183",
+    "tel": "0858-23-5255",
+    "address": "倉吉市見日町633",
+    "access": "バス・西倉吉方面行き/厚生病院前下車徒歩3分",
+    "games": [
+      "GITADORA DrumMania -ARENA MODEL-"
+    ]
+  },
+  {
     "name": "ラウンドワン福山店",
     "operation_time": "",
     "holiday": "",
@@ -424,19 +411,6 @@
     "tel": "084-973-9891",
     "address": "福山市明神町1-9-28",
     "access": "",
-    "games": [
-      "GITADORA DrumMania -ARENA MODEL-"
-    ]
-  },
-  {
-    "name": "ユーズランド倉敷店",
-    "operation_time": "10:00～21:00",
-    "holiday": "無し",
-    "latitude": "34.60290341",
-    "longitude": "133.7454258",
-    "tel": "086-430-5234",
-    "address": "倉敷市水江1イオン倉敷ショッピングセンター2F",
-    "access": "イオン倉敷SC2F倉敷駅北口1番乗場よりバスで10分山陽自動車道倉敷ICより約7分",
     "games": [
       "GITADORA DrumMania -ARENA MODEL-"
     ]
@@ -463,6 +437,19 @@
     "tel": "086-282-8851",
     "address": "岡山市南区妹尾3413-1",
     "access": "",
+    "games": [
+      "GITADORA DrumMania -ARENA MODEL-"
+    ]
+  },
+  {
+    "name": "アミパラテクノランド店",
+    "operation_time": "10:00～24:00",
+    "holiday": "",
+    "latitude": "34.679221",
+    "longitude": "133.927419",
+    "tel": "086-225-3377",
+    "address": "岡山市北区大和町1-7-12",
+    "access": "法界院駅から徒歩10分",
     "games": [
       "GITADORA DrumMania -ARENA MODEL-"
     ]
@@ -619,19 +606,6 @@
     "tel": "0166-49-5071",
     "address": "旭川市永山3条1-4-7",
     "access": "",
-    "games": [
-      "GITADORA DrumMania -ARENA MODEL-"
-    ]
-  },
-  {
-    "name": "MEGAGET室蘭",
-    "operation_time": "10:00～24:00",
-    "holiday": "無し",
-    "latitude": "42.35370861",
-    "longitude": "141.014187",
-    "tel": "0143-44-5222",
-    "address": "室蘭市中島本町2-8-1",
-    "access": "ショッピングセンターモルエ(MORUE)中島 側",
     "games": [
       "GITADORA DrumMania -ARENA MODEL-"
     ]
@@ -837,7 +811,7 @@
     "holiday": "",
     "latitude": "34.70278573",
     "longitude": "135.5003716",
-    "tel": "06-6313-0778",
+    "tel": "0570-08-7610",
     "address": "大阪市北区小松原町3-3OSビル2F",
     "access": "",
     "games": [
@@ -871,25 +845,12 @@
     ]
   },
   {
-    "name": "ゲームパニック堺",
-    "operation_time": "10:00～23:45",
-    "holiday": "無し",
-    "latitude": "34.597817",
-    "longitude": "135.447433",
-    "tel": "072-224-8295",
-    "address": "堺市堺区築港八幡町1-1堺浜シーサイド内堺浜えんため館",
-    "access": "南海バス20系統「堺市内北回り」 堺駅西口→堺浜シーサイドステージ約17分 堺東駅→堺浜シーサイドステージ約25分",
-    "games": [
-      "GITADORA DrumMania -ARENA MODEL-"
-    ]
-  },
-  {
     "name": "GiGO大阪道頓堀本店",
     "operation_time": "",
     "holiday": "",
     "latitude": "34.66848732",
     "longitude": "135.5017054",
-    "tel": "070-1458-4741",
+    "tel": "070-1459-1559",
     "address": "大阪市中央区道頓堀1-8-22頓座ビル1F-3F",
     "access": "",
     "games": [
@@ -993,7 +954,7 @@
     "holiday": "",
     "latitude": "34.646623",
     "longitude": "135.511677",
-    "tel": "06-6647-0716",
+    "tel": "070-1458-1519",
     "address": "大阪市阿倍野区阿倍野筋1-5-31アポロビル3F･4F",
     "access": "JR 天王寺駅・近鉄あべの橋駅より徒歩3分 アポロビル 3F",
     "games": [
@@ -1060,6 +1021,19 @@
     "longitude": "135.746198",
     "tel": "075-622-9911",
     "address": "京都市伏見区下鳥羽平塚町131",
+    "access": "",
+    "games": [
+      "GITADORA DrumMania -ARENA MODEL-"
+    ]
+  },
+  {
+    "name": "アミューズメントシティ東武イーストモール店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "43.84131671",
+    "longitude": "143.9285665",
+    "tel": "0157-56-4311",
+    "address": "北見市端野町3区572-1",
     "access": "",
     "games": [
       "GITADORA DrumMania -ARENA MODEL-"
@@ -1279,7 +1253,7 @@
     "holiday": "無し",
     "latitude": "35.37596826",
     "longitude": "136.7145391",
-    "tel": "058-279-0085",
+    "tel": "070-1364-7332",
     "address": "岐阜市柳津町上佐波西3-68",
     "access": "岐阜県ふれあい会館から南に4分",
     "games": [
@@ -1495,7 +1469,7 @@
     ]
   },
   {
-    "name": "ラウンドワンイーアス春日井店",
+    "name": "ラウンドワンスタジアムヨロッカ春日井店",
     "operation_time": "",
     "holiday": "",
     "latitude": "35.25898",
@@ -2015,7 +1989,20 @@
     ]
   },
   {
-    "name": "ドラマ足利店",
+    "name": "ユーズランド太田店",
+    "operation_time": "10:00～21:00",
+    "holiday": "無し",
+    "latitude": "36.29327372",
+    "longitude": "139.4001931",
+    "tel": "0276-47-8722",
+    "address": "太田市石原町81イオンモール太田2F",
+    "access": "イオン太田SC2F東武伊勢崎線太田駅よりバスで10分東北道館林ICよりR354～R122(太田バイパス)経由約30分",
+    "games": [
+      "GITADORA DrumMania -ARENA MODEL-"
+    ]
+  },
+  {
+    "name": "GiGO足利朝倉",
     "operation_time": "10:00～24:00",
     "holiday": "無し",
     "latitude": "36.32220259",
@@ -2150,7 +2137,7 @@
     "holiday": "",
     "latitude": "36.558326",
     "longitude": "139.90882",
-    "tel": "028-633-6082",
+    "tel": "070-1458-5967",
     "address": "宇都宮市東宿郷5-1-7",
     "access": "",
     "games": [
@@ -2475,7 +2462,7 @@
     "holiday": "",
     "latitude": "35.532177",
     "longitude": "139.436075",
-    "tel": "042-741-8195",
+    "tel": "070-1458-9839",
     "address": "相模原市南区相模大野3-13-2フレスコビル3F",
     "access": "",
     "games": [
@@ -2530,19 +2517,6 @@
     "tel": "046-292-5160",
     "address": "海老名市中央1-18-1ビナウォーク6番館2F",
     "access": "JR相模線、相鉄線、小田急線、海老名駅より徒歩5分",
-    "games": [
-      "GITADORA DrumMania -ARENA MODEL-"
-    ]
-  },
-  {
-    "name": "テクモピア座間店",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "35.48001079",
-    "longitude": "139.431891",
-    "tel": "046-205-4719",
-    "address": "座間市ひばりが丘4-11-48",
-    "access": "",
     "games": [
       "GITADORA DrumMania -ARENA MODEL-"
     ]
@@ -2613,19 +2587,6 @@
     ]
   },
   {
-    "name": "ユーズランド越谷店",
-    "operation_time": "10:00～21:00",
-    "holiday": "無し",
-    "latitude": "35.87763779",
-    "longitude": "139.8247477",
-    "tel": "048-934-3342",
-    "address": "越谷市レイクタウン4-2-2イオンレイクタウンKAZE 3F",
-    "access": "武蔵野線レイクタウン駅下車徒歩1分",
-    "games": [
-      "GITADORA DrumMania -ARENA MODEL-"
-    ]
-  },
-  {
     "name": "タイトーステーション池袋西口店",
     "operation_time": "",
     "holiday": "",
@@ -2671,7 +2632,7 @@
     "latitude": "35.73071",
     "longitude": "139.71644",
     "tel": "03-5904-8388",
-    "address": "豊島区東池袋1-29-1マルビル池袋2-3F",
+    "address": "豊島区東池袋1-29-1マルビル池袋B1-3F",
     "access": "",
     "games": [
       "GITADORA DrumMania -ARENA MODEL-"
@@ -2761,7 +2722,7 @@
     "holiday": "",
     "latitude": "35.69316847",
     "longitude": "139.7018443",
-    "tel": "03-3352-5489",
+    "tel": "070-1458-2717",
     "address": "新宿区新宿3-22-12",
     "access": "",
     "games": [
@@ -2795,7 +2756,7 @@
     ]
   },
   {
-    "name": "ドラマ港北インター店",
+    "name": "GiGO港北インター",
     "operation_time": "10:00～24:00",
     "holiday": "無し",
     "latitude": "35.51925659",
@@ -2865,7 +2826,7 @@
     "holiday": "",
     "latitude": "35.5364623",
     "longitude": "139.6324113",
-    "tel": "045-547-1199",
+    "tel": "070-1458-9945",
     "address": "横浜市港北区綱島西2-6-29城田ビル3F",
     "access": "",
     "games": [
@@ -2904,7 +2865,7 @@
     "holiday": "",
     "latitude": "35.699336",
     "longitude": "139.770908",
-    "tel": "03-5297-3601",
+    "tel": "070-1458-2284",
     "address": "千代田区外神田1-11-11外神田1丁目ビルディング",
     "access": "",
     "games": [
@@ -2930,7 +2891,7 @@
     "holiday": "",
     "latitude": "35.69871026",
     "longitude": "139.7709979",
-    "tel": "",
+    "tel": "044-589-4523",
     "address": "千代田区外神田1-10-9",
     "access": "",
     "games": [
@@ -3073,7 +3034,7 @@
     "holiday": "",
     "latitude": "35.590043",
     "longitude": "139.72823",
-    "tel": "03-5709-0669",
+    "tel": "070-1458-9581",
     "address": "大田区山王2-1-5大森駅ララビル2F",
     "access": "",
     "games": [
@@ -3244,6 +3205,19 @@
     "longitude": "139.9267286",
     "tel": "047-318-3933",
     "address": "市川市妙典4-1-1イオン市川妙典店2番街2F",
+    "access": "",
+    "games": [
+      "GITADORA DrumMania -ARENA MODEL-"
+    ]
+  },
+  {
+    "name": "ラウンドワンさいか屋横須賀店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "35.28214943",
+    "longitude": "139.6695932",
+    "tel": "046-876-8208",
+    "address": "横須賀市大滝町1-13さいか屋横須賀店本館6F",
     "access": "",
     "games": [
       "GITADORA DrumMania -ARENA MODEL-"

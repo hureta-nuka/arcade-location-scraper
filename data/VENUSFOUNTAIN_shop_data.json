@@ -1,18 +1,5 @@
 [
   {
-    "name": "遊道楽 嘉瀬店",
-    "operation_time": "11:00～24:00",
-    "holiday": "無し",
-    "latitude": "33.24215325",
-    "longitude": "130.2565663",
-    "tel": "0952-40-0952",
-    "address": "佐賀市嘉瀬町大字中原2488-1",
-    "access": "207号線沿い",
-    "games": [
-      "Venus Fountain"
-    ]
-  },
-  {
     "name": "キャッツアイ篠路店",
     "operation_time": "10:00～24:00",
     "holiday": "無し",
@@ -60,19 +47,6 @@
     "tel": "0566-74-8238",
     "address": "安城市浜富町6-8",
     "access": "JR東海道本線安城駅より車で3分・徒歩10分",
-    "games": [
-      "Venus Fountain"
-    ]
-  },
-  {
-    "name": "ゲームコーナー東部",
-    "operation_time": "9:00～24:00",
-    "holiday": "無し",
-    "latitude": "38.25101621",
-    "longitude": "140.9438974",
-    "tel": "022-287-5880",
-    "address": "仙台市若林区六丁の目中町26-60",
-    "access": "六丁目の交差点より多賀城方面へ向かい車で5分。産業通り沿い。",
     "games": [
       "Venus Fountain"
     ]

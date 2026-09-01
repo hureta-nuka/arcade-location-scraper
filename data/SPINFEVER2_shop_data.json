@@ -1,5 +1,18 @@
 [
   {
+    "name": "タイトーステーション摂津富田店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "34.83754117",
+    "longitude": "135.589478",
+    "tel": "072-648-3540",
+    "address": "高槻市大畑町13-1イオンフードスタイル摂津富田店2F",
+    "access": "",
+    "games": [
+      "SPIN FEVER2"
+    ]
+  },
+  {
     "name": "アミューズメントCUE大和高田",
     "operation_time": "10:00～24:00",
     "holiday": "無し",
@@ -112,19 +125,6 @@
     "tel": "03-5817-4511",
     "address": "台東区上野4-6-9湯島商事ビル",
     "access": "",
-    "games": [
-      "SPIN FEVER2"
-    ]
-  },
-  {
-    "name": "ウェアハウス南流山店",
-    "operation_time": "10:00～24:00",
-    "holiday": "無し",
-    "latitude": "35.84020798",
-    "longitude": "139.9050111",
-    "tel": "04-7159-2351",
-    "address": "流山市南流山4-16-6",
-    "access": "南流山駅から徒歩3分",
     "games": [
       "SPIN FEVER2"
     ]

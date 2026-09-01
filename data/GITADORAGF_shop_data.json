@@ -39,25 +39,12 @@
     ]
   },
   {
-    "name": "遊道楽時津店",
-    "operation_time": "10:00～24:00",
-    "holiday": "無し",
-    "latitude": "32.82008054",
-    "longitude": "129.8473546",
-    "tel": "095-813-2525",
-    "address": "西彼杵郡時津町元村郷863-10",
-    "access": "川平有料道路入り口井出園交差点付近",
-    "games": [
-      "GITADORA GuitarFreaks"
-    ]
-  },
-  {
     "name": "GiGO福岡天神",
     "operation_time": "",
     "holiday": "",
     "latitude": "33.589905",
     "longitude": "130.396633",
-    "tel": "092-771-8121",
+    "tel": "070-1458-1702",
     "address": "福岡市中央区天神2-7-6天神DADAビル",
     "access": "",
     "games": [
@@ -96,7 +83,7 @@
     "holiday": "",
     "latitude": "33.591529",
     "longitude": "130.419887",
-    "tel": "092-434-3721",
+    "tel": "0570-08-7638",
     "address": "福岡市博多区博多駅中央街2-1博多バスターミナル7F",
     "access": "",
     "games": [
@@ -247,14 +234,14 @@
     ]
   },
   {
-    "name": "アミパラ下関長府店",
-    "operation_time": "10:00～24:00",
-    "holiday": "無し",
-    "latitude": "34.02547781",
-    "longitude": "131.0073811",
-    "tel": "083-248-5008",
-    "address": "下関市長府才川1-42-48",
-    "access": "JR長府駅徒歩12分",
+    "name": "アミパラ下関駅南店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "33.94509097",
+    "longitude": "130.9204956",
+    "tel": "083-250-5501",
+    "address": "下関市東大和町1-3-15",
+    "access": "",
     "games": [
       "GITADORA GuitarFreaks"
     ]
@@ -333,19 +320,6 @@
     "tel": "0979-85-0688",
     "address": "中津市下池永67-3",
     "access": "",
-    "games": [
-      "GITADORA GuitarFreaks"
-    ]
-  },
-  {
-    "name": "パスカワールド宇土店",
-    "operation_time": "日曜～木曜 10:00～23:00  金曜・土曜 10:00～24:00",
-    "holiday": "無し",
-    "latitude": "32.68271108",
-    "longitude": "130.6679513",
-    "tel": "0964-22-5311",
-    "address": "宇土市善道寺町綾織95",
-    "access": "松橋ICより車で10分、宇土シティーショッピングセンター内",
     "games": [
       "GITADORA GuitarFreaks"
     ]
@@ -486,7 +460,7 @@
     "holiday": "",
     "latitude": "33.24179967",
     "longitude": "131.6373957",
-    "tel": "0975-56-9072",
+    "tel": "070-1459-7329",
     "address": "大分市牧1-161-8",
     "access": "",
     "games": [
@@ -507,14 +481,14 @@
     ]
   },
   {
-    "name": "アミパラ広島店",
-    "operation_time": "10:00～24:00",
-    "holiday": "無し",
-    "latitude": "34.39350431",
-    "longitude": "132.4360428",
-    "tel": "082-297-7135",
-    "address": "広島市西区西観音町3-17",
-    "access": "平和大通り沿い、西区区役所から東へすぐ",
+    "name": "モーリーファンタジーf広島祇園",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "34.443849",
+    "longitude": "132.461514",
+    "tel": "070-3100-4142",
+    "address": "広島市安佐南区祇園3-2-1イオンモール広島祇園店3F",
+    "access": "",
     "games": [
       "GITADORA GuitarFreaks"
     ]
@@ -572,19 +546,6 @@
     ]
   },
   {
-    "name": "PALO境港",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "35.52243536",
-    "longitude": "133.2524414",
-    "tel": "070-3100-5063",
-    "address": "境港市竹内団地81-3",
-    "access": "",
-    "games": [
-      "GITADORA GuitarFreaks"
-    ]
-  },
-  {
     "name": "アミパラがいな店",
     "operation_time": "10:00 ～ 24:00",
     "holiday": "無し",
@@ -605,19 +566,6 @@
     "longitude": "133.3329762",
     "tel": "070-3100-4311",
     "address": "米子市末広町311イオン米子駅前3F",
-    "access": "",
-    "games": [
-      "GITADORA GuitarFreaks"
-    ]
-  },
-  {
-    "name": "ビリヤードG'z",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "31.725703",
-    "longitude": "131.05961",
-    "tel": "0986-24-2344",
-    "address": "都城市牟田町4-2",
     "access": "",
     "games": [
       "GITADORA GuitarFreaks"
@@ -767,19 +715,6 @@
     ]
   },
   {
-    "name": "ユーズランド倉敷店",
-    "operation_time": "10:00～21:00",
-    "holiday": "無し",
-    "latitude": "34.60290341",
-    "longitude": "133.7454258",
-    "tel": "086-430-5234",
-    "address": "倉敷市水江1イオン倉敷ショッピングセンター2F",
-    "access": "イオン倉敷SC2F倉敷駅北口1番乗場よりバスで10分山陽自動車道倉敷ICより約7分",
-    "games": [
-      "GITADORA GuitarFreaks"
-    ]
-  },
-  {
     "name": "アミパラ倉敷店",
     "operation_time": "10:00～24:00",
     "holiday": "無し",
@@ -892,19 +827,6 @@
     "tel": "0877-24-6666",
     "address": "丸亀市飯野町西分字川縁甲584-1ハローズ棟",
     "access": "坂出ICから5分国道11号線沿い ニトリ隣",
-    "games": [
-      "GITADORA GuitarFreaks"
-    ]
-  },
-  {
-    "name": "GiGOイオン札幌手稲駅前SC",
-    "operation_time": "ゲームコーナー9:00～26:00 / メダルコーナー9:00～24:00",
-    "holiday": "無し",
-    "latitude": "43.12045749",
-    "longitude": "141.2452406",
-    "tel": "080-7127-7065",
-    "address": "札幌市手稲区前田1条11-3F",
-    "access": "西友手稲店3F",
     "games": [
       "GITADORA GuitarFreaks"
     ]
@@ -1118,19 +1040,6 @@
     ]
   },
   {
-    "name": "MEGAGET室蘭",
-    "operation_time": "10:00～24:00",
-    "holiday": "無し",
-    "latitude": "42.35370861",
-    "longitude": "141.014187",
-    "tel": "0143-44-5222",
-    "address": "室蘭市中島本町2-8-1",
-    "access": "ショッピングセンターモルエ(MORUE)中島 側",
-    "games": [
-      "GITADORA GuitarFreaks"
-    ]
-  },
-  {
     "name": "キャッツアイ恵庭店",
     "operation_time": "10:00～24:00",
     "holiday": "無し",
@@ -1214,7 +1123,7 @@
     "holiday": "無し",
     "latitude": "42.65619751",
     "longitude": "141.6419704",
-    "tel": "0144-52-1212",
+    "tel": "080-7032-8310",
     "address": "苫小牧市柳町3-1-20イオンモール苫小牧2F",
     "access": "JR苫小牧駅よりバス20分",
     "games": [
@@ -1227,7 +1136,7 @@
     "holiday": "",
     "latitude": "34.72071543",
     "longitude": "134.8974952",
-    "tel": "078-941-7676",
+    "tel": "070-1459-5318",
     "address": "明石市魚住町清水2464-1ドライブインながさわ内",
     "access": "JR山陽本線 土山駅 より徒歩10分",
     "games": [
@@ -1282,19 +1191,6 @@
     "tel": "088-664-0311",
     "address": "徳島市南沖洲1-93",
     "access": "徳島駅より東へ車で約15分",
-    "games": [
-      "GITADORA GuitarFreaks"
-    ]
-  },
-  {
-    "name": "PALO小松島",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "34.00568188",
-    "longitude": "134.5726547",
-    "tel": "070-3100-5034",
-    "address": "小松島市小松島町字領田20小松島ショッピングプラザルピア1F",
-    "access": "",
     "games": [
       "GITADORA GuitarFreaks"
     ]
@@ -1396,7 +1292,7 @@
     "holiday": "",
     "latitude": "36.073357",
     "longitude": "136.243038",
-    "tel": "0776-52-0806",
+    "tel": "070-1459-1339",
     "address": "福井市丸山町1-410",
     "access": "",
     "games": [
@@ -1521,19 +1417,6 @@
     ]
   },
   {
-    "name": "PALO五所川原",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "40.80095013",
-    "longitude": "140.4614581",
-    "tel": "070-3100-5496",
-    "address": "五所川原市大字唐笠柳字藤巻641-1",
-    "access": "",
-    "games": [
-      "GITADORA GuitarFreaks"
-    ]
-  },
-  {
     "name": "ラウンドワン豊中店",
     "operation_time": "",
     "holiday": "",
@@ -1541,19 +1424,6 @@
     "longitude": "135.465555",
     "tel": "06-6865-2200",
     "address": "豊中市名神口1-1-1",
-    "access": "",
-    "games": [
-      "GITADORA GuitarFreaks"
-    ]
-  },
-  {
-    "name": "ピタゴラス和歌山店",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "34.25253983",
-    "longitude": "135.1463143",
-    "tel": "070-1479-6710",
-    "address": "和歌山市土入73-1",
     "access": "",
     "games": [
       "GITADORA GuitarFreaks"
@@ -1604,7 +1474,7 @@
     "holiday": "",
     "latitude": "34.70278573",
     "longitude": "135.5003716",
-    "tel": "06-6313-0778",
+    "tel": "0570-08-7610",
     "address": "大阪市北区小松原町3-3OSビル2F",
     "access": "",
     "games": [
@@ -1638,25 +1508,12 @@
     ]
   },
   {
-    "name": "ゲームパニック堺",
-    "operation_time": "10:00～23:45",
-    "holiday": "無し",
-    "latitude": "34.597817",
-    "longitude": "135.447433",
-    "tel": "072-224-8295",
-    "address": "堺市堺区築港八幡町1-1堺浜シーサイド内堺浜えんため館",
-    "access": "南海バス20系統「堺市内北回り」 堺駅西口→堺浜シーサイドステージ約17分 堺東駅→堺浜シーサイドステージ約25分",
-    "games": [
-      "GITADORA GuitarFreaks"
-    ]
-  },
-  {
     "name": "GiGO大阪道頓堀本店",
     "operation_time": "",
     "holiday": "",
     "latitude": "34.66848732",
     "longitude": "135.5017054",
-    "tel": "070-1458-4741",
+    "tel": "070-1459-1559",
     "address": "大阪市中央区道頓堀1-8-22頓座ビル1F-3F",
     "access": "",
     "games": [
@@ -1760,7 +1617,7 @@
     "holiday": "",
     "latitude": "34.646623",
     "longitude": "135.511677",
-    "tel": "06-6647-0716",
+    "tel": "070-1458-1519",
     "address": "大阪市阿倍野区阿倍野筋1-5-31アポロビル3F･4F",
     "access": "JR 天王寺駅・近鉄あべの橋駅より徒歩3分 アポロビル 3F",
     "games": [
@@ -1864,7 +1721,7 @@
     "holiday": "",
     "latitude": "34.66416946",
     "longitude": "135.5628455",
-    "tel": "06-6783-6999",
+    "tel": "070-1459-4020",
     "address": "東大阪市長堂1-1-1ロンモール布施内",
     "access": "",
     "games": [
@@ -1898,13 +1755,13 @@
     ]
   },
   {
-    "name": "BIG BANG北見",
+    "name": "アミューズメントシティ東武イーストモール店",
     "operation_time": "",
-    "holiday": "無し",
-    "latitude": "43.796167",
-    "longitude": "143.850753",
-    "tel": "0157-36-9190",
-    "address": "北見市中央三輪7-446-1",
+    "holiday": "",
+    "latitude": "43.84131671",
+    "longitude": "143.9285665",
+    "tel": "0157-56-4311",
+    "address": "北見市端野町3区572-1",
     "access": "",
     "games": [
       "GITADORA GuitarFreaks"
@@ -1976,19 +1833,6 @@
     ]
   },
   {
-    "name": "滋賀レジャーランド大津店",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "35.003875",
-    "longitude": "135.883431",
-    "tel": "077-548-7851",
-    "address": "大津市におの浜3-1-43",
-    "access": "",
-    "games": [
-      "GITADORA GuitarFreaks"
-    ]
-  },
-  {
     "name": "ラウンドワン青森店",
     "operation_time": "",
     "holiday": "",
@@ -2036,19 +1880,6 @@
     "tel": "076-461-6644",
     "address": "富山市堀川町355-3",
     "access": "富山マイプラザ店内",
-    "games": [
-      "GITADORA GuitarFreaks"
-    ]
-  },
-  {
-    "name": "アピナ富山新庄店",
-    "operation_time": "10:00～24:00",
-    "holiday": "無し",
-    "latitude": "36.69533117",
-    "longitude": "137.2480753",
-    "tel": "076-491-7700",
-    "address": "富山市荒川3-2-12",
-    "access": "",
     "games": [
       "GITADORA GuitarFreaks"
     ]
@@ -2223,6 +2054,19 @@
     ]
   },
   {
+    "name": "ドリーム キャンディ",
+    "operation_time": "一部24時間",
+    "holiday": "無し",
+    "latitude": "34.775269",
+    "longitude": "136.122796",
+    "tel": "0595-26-7568",
+    "address": "伊賀市小田町711-1",
+    "access": "西大手駅から約13分",
+    "games": [
+      "GITADORA GuitarFreaks"
+    ]
+  },
+  {
     "name": "アミューズメントスペースコミ丸アリババ大垣店",
     "operation_time": "10:00～24:00",
     "holiday": "無し",
@@ -2280,7 +2124,7 @@
     "holiday": "無し",
     "latitude": "35.37596826",
     "longitude": "136.7145391",
-    "tel": "058-279-0085",
+    "tel": "070-1364-7332",
     "address": "岐阜市柳津町上佐波西3-68",
     "access": "岐阜県ふれあい会館から南に4分",
     "games": [
@@ -2306,7 +2150,7 @@
     "holiday": "",
     "latitude": "35.309294",
     "longitude": "136.77153",
-    "tel": "0586-47-5700",
+    "tel": "070-1459-3178",
     "address": "一宮市篭屋3-9-7アソビックスびさい1F",
     "access": "",
     "games": [
@@ -2361,19 +2205,6 @@
     "tel": "0178-50-3237",
     "address": "上北郡おいらせ町中野平40-1イオンモール下田1F",
     "access": "イオン下田SC1・2FJR下田駅よりバスで10分八戸市より車で約15km、三沢市より車で約15km",
-    "games": [
-      "GITADORA GuitarFreaks"
-    ]
-  },
-  {
-    "name": "アミューズメントスペースコミ丸四日市店",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "34.96631",
-    "longitude": "136.61633",
-    "tel": "059-325-7685",
-    "address": "四日市市鵜の森1-3-19",
-    "access": "",
     "games": [
       "GITADORA GuitarFreaks"
     ]
@@ -2613,25 +2444,12 @@
     ]
   },
   {
-    "name": "スイーツ･ハートイオン春日井店",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "35.237945",
-    "longitude": "136.962431",
-    "tel": "0568-41-9409",
-    "address": "春日井市柏井町4-17イオン春日井店内4F",
-    "access": "",
-    "games": [
-      "GITADORA GuitarFreaks"
-    ]
-  },
-  {
-    "name": "モーリーファンタジーf新潟亀田インター",
+    "name": "Feedy Diner&Arcade新潟亀田インター",
     "operation_time": "9:00～22:00",
     "holiday": "無し",
     "latitude": "37.87624975",
     "longitude": "139.0816577",
-    "tel": "070-3100-4212",
+    "tel": "070-3100-6096",
     "address": "新潟市江南区下早通柳田1-1-1イオンモール新潟亀田インター2F",
     "access": "新潟亀田ICから約5分。 JR新潟駅から約4キロ、JR亀田駅から約2.5キロ",
     "games": [
@@ -2665,7 +2483,7 @@
     ]
   },
   {
-    "name": "ラウンドワンイーアス春日井店",
+    "name": "ラウンドワンスタジアムヨロッカ春日井店",
     "operation_time": "",
     "holiday": "",
     "latitude": "35.25898",
@@ -2691,19 +2509,6 @@
     ]
   },
   {
-    "name": "GiGO金山",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "35.14264312",
-    "longitude": "136.9023578",
-    "tel": "052-323-0121",
-    "address": "名古屋市熱田区金山町1-19-2",
-    "access": "",
-    "games": [
-      "GITADORA GuitarFreaks"
-    ]
-  },
-  {
     "name": "ラウンドワン千種店",
     "operation_time": "",
     "holiday": "",
@@ -2711,19 +2516,6 @@
     "longitude": "136.9279985",
     "tel": "052-238-1615",
     "address": "名古屋市千種区新栄3-20-17タイホウ千種駅前南ビル8F",
-    "access": "",
-    "games": [
-      "GITADORA GuitarFreaks"
-    ]
-  },
-  {
-    "name": "ADXマミー春日井出川店",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "35.26729521",
-    "longitude": "137.012739",
-    "tel": "0568-54-8590",
-    "address": "春日井市不二が丘1-5",
     "access": "",
     "games": [
       "GITADORA GuitarFreaks"
@@ -2738,32 +2530,6 @@
     "tel": "052-694-6051",
     "address": "名古屋市南区内田橋2-26-22",
     "access": "名鉄常滑線豊田本町駅近く",
-    "games": [
-      "GITADORA GuitarFreaks"
-    ]
-  },
-  {
-    "name": "ゲームチャオ松阪店",
-    "operation_time": "10:00～24:00",
-    "holiday": "無し",
-    "latitude": "34.58867016",
-    "longitude": "136.5257638",
-    "tel": "0598-53-3918",
-    "address": "松阪市船江町782",
-    "access": "国道42号線沿い、松阪駅から車で5分",
-    "games": [
-      "GITADORA GuitarFreaks"
-    ]
-  },
-  {
-    "name": "モーリーファンタジーf新瑞橋",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "35.114661",
-    "longitude": "136.935117",
-    "tel": "070-3100-5209",
-    "address": "名古屋市南区菊住1-7-10イオン新瑞橋3F",
-    "access": "",
     "games": [
       "GITADORA GuitarFreaks"
     ]
@@ -2969,7 +2735,7 @@
     "holiday": "",
     "latitude": "35.067883",
     "longitude": "137.123797",
-    "tel": "0565-26-6777",
+    "tel": "070-1459-2494",
     "address": "豊田市深田町1-65-1",
     "access": "",
     "games": [
@@ -3245,19 +3011,6 @@
     "tel": "0279-25-0718",
     "address": "渋川市八木原1364",
     "access": "",
-    "games": [
-      "GITADORA GuitarFreaks"
-    ]
-  },
-  {
-    "name": "GiGO会津若松",
-    "operation_time": "9:00～24:00",
-    "holiday": "無し",
-    "latitude": "37.51832577",
-    "longitude": "139.9222191",
-    "tel": "0242-37-0777",
-    "address": "会津若松市町北町上荒久田字宮下142",
-    "access": "磐越道会津若松IC側",
     "games": [
       "GITADORA GuitarFreaks"
     ]
@@ -3549,19 +3302,6 @@
     ]
   },
   {
-    "name": "タイトーステーション仙台ベガロポリス店",
-    "operation_time": "10:00～24:00",
-    "holiday": "無し",
-    "latitude": "38.21973354",
-    "longitude": "140.8479417",
-    "tel": "022-307-3685",
-    "address": "仙台市太白区西多賀5-24-1",
-    "access": "国道286号沿い、JR長町駅より車で10分",
-    "games": [
-      "GITADORA GuitarFreaks"
-    ]
-  },
-  {
     "name": "ラウンドワン仙台苦竹店",
     "operation_time": "",
     "holiday": "",
@@ -3653,7 +3393,7 @@
     ]
   },
   {
-    "name": "ドラマ足利店",
+    "name": "GiGO足利朝倉",
     "operation_time": "10:00～24:00",
     "holiday": "無し",
     "latitude": "36.32220259",
@@ -3705,19 +3445,6 @@
     ]
   },
   {
-    "name": "アミューズパーク郡山店",
-    "operation_time": "店舗にてご確認ください",
-    "holiday": "無し",
-    "latitude": "37.37446344",
-    "longitude": "140.3838207",
-    "tel": "0249-44-9898",
-    "address": "郡山市安積町日出山2-80",
-    "access": "JR郡山駅より車で10分。東部幹線沿い。",
-    "games": [
-      "GITADORA GuitarFreaks"
-    ]
-  },
-  {
     "name": "アップルグランリバー 大井川店",
     "operation_time": "10:00～24:00",
     "holiday": "無し",
@@ -3736,7 +3463,7 @@
     "holiday": "",
     "latitude": "36.895093",
     "longitude": "139.982317",
-    "tel": "0287-37-3077",
+    "tel": "070-1458-5832",
     "address": "那須塩原市南郷屋2-106-27",
     "access": "",
     "games": [
@@ -3778,19 +3505,6 @@
     "tel": "070-3100-4102",
     "address": "熊谷市本石2-135イオン熊谷3F",
     "access": "国道17号線熊谷駅方面から本石南交差点手前左折 熊谷方面から本石南交差点右折",
-    "games": [
-      "GITADORA GuitarFreaks"
-    ]
-  },
-  {
-    "name": "大田原スポーツランド",
-    "operation_time": "10:00～翌2:00",
-    "holiday": "無し",
-    "latitude": "36.85195131",
-    "longitude": "139.9934495",
-    "tel": "0287-36-7137",
-    "address": "那須塩原市一区町104-60",
-    "access": "大田原ゴルフセンター入口付近(パチンコニラク前)",
     "games": [
       "GITADORA GuitarFreaks"
     ]
@@ -3918,21 +3632,8 @@
     "holiday": "",
     "latitude": "36.558326",
     "longitude": "139.90882",
-    "tel": "028-633-6082",
+    "tel": "070-1458-5967",
     "address": "宇都宮市東宿郷5-1-7",
-    "access": "",
-    "games": [
-      "GITADORA GuitarFreaks"
-    ]
-  },
-  {
-    "name": "キャロム青梅店",
-    "operation_time": "10:00～翌5:00",
-    "holiday": "",
-    "latitude": "35.78660433",
-    "longitude": "139.2700032",
-    "tel": "0428-23-9208",
-    "address": "青梅市千ヶ瀬町4-326-1",
     "access": "",
     "games": [
       "GITADORA GuitarFreaks"
@@ -3983,7 +3684,7 @@
     "holiday": "",
     "latitude": "35.744653",
     "longitude": "139.324251",
-    "tel": "042-553-6290",
+    "tel": "070-1458-7359",
     "address": "福生市福生1076-1",
     "access": "",
     "games": [
@@ -4264,19 +3965,6 @@
     ]
   },
   {
-    "name": "ビッグボウル杉戸",
-    "operation_time": "10:00～翌1:00",
-    "holiday": "無し",
-    "latitude": "36.04028926",
-    "longitude": "139.720837",
-    "tel": "0480-34-7870",
-    "address": "北葛飾郡杉戸町杉戸2338",
-    "access": "東武伊勢崎線東武動物公園駅より徒歩30分 国道4号線沿い",
-    "games": [
-      "GITADORA GuitarFreaks"
-    ]
-  },
-  {
     "name": "アピナ下館店",
     "operation_time": "10:00～24:00",
     "holiday": "無し",
@@ -4363,19 +4051,6 @@
     "tel": "080-7465-6268",
     "address": "相模原市中央区中央2-1-5ムトス内",
     "access": "JR横浜線相模原駅徒歩15分国道16号線近く",
-    "games": [
-      "GITADORA GuitarFreaks"
-    ]
-  },
-  {
-    "name": "タイトーステーション国分寺店",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "35.701889",
-    "longitude": "139.480156",
-    "tel": "042-401-0592",
-    "address": "国分寺市本町3-5-11",
-    "access": "",
     "games": [
       "GITADORA GuitarFreaks"
     ]
@@ -4555,7 +4230,7 @@
     "holiday": "",
     "latitude": "35.532177",
     "longitude": "139.436075",
-    "tel": "042-741-8195",
+    "tel": "070-1458-9839",
     "address": "相模原市南区相模大野3-13-2フレスコビル3F",
     "access": "",
     "games": [
@@ -4581,7 +4256,7 @@
     "holiday": "",
     "latitude": "35.439044",
     "longitude": "139.361882",
-    "tel": "0462-23-7157",
+    "tel": "070-1458-9835",
     "address": "厚木市中町4-15-9",
     "access": "",
     "games": [
@@ -4688,19 +4363,6 @@
     "tel": "046-292-5160",
     "address": "海老名市中央1-18-1ビナウォーク6番館2F",
     "access": "JR相模線、相鉄線、小田急線、海老名駅より徒歩5分",
-    "games": [
-      "GITADORA GuitarFreaks"
-    ]
-  },
-  {
-    "name": "テクモピア座間店",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "35.48001079",
-    "longitude": "139.431891",
-    "tel": "046-205-4719",
-    "address": "座間市ひばりが丘4-11-48",
-    "access": "",
     "games": [
       "GITADORA GuitarFreaks"
     ]
@@ -4823,19 +4485,6 @@
     ]
   },
   {
-    "name": "ユーズランド越谷店",
-    "operation_time": "10:00～21:00",
-    "holiday": "無し",
-    "latitude": "35.87763779",
-    "longitude": "139.8247477",
-    "tel": "048-934-3342",
-    "address": "越谷市レイクタウン4-2-2イオンレイクタウンKAZE 3F",
-    "access": "武蔵野線レイクタウン駅下車徒歩1分",
-    "games": [
-      "GITADORA GuitarFreaks"
-    ]
-  },
-  {
     "name": "タイトーステーション池袋ロサ店",
     "operation_time": "10:00～24:00",
     "holiday": "無し",
@@ -4894,7 +4543,7 @@
     "latitude": "35.73071",
     "longitude": "139.71644",
     "tel": "03-5904-8388",
-    "address": "豊島区東池袋1-29-1マルビル池袋2-3F",
+    "address": "豊島区東池袋1-29-1マルビル池袋B1-3F",
     "access": "",
     "games": [
       "GITADORA GuitarFreaks"
@@ -4997,7 +4646,7 @@
     "holiday": "",
     "latitude": "35.69316847",
     "longitude": "139.7018443",
-    "tel": "03-3352-5489",
+    "tel": "070-1458-2717",
     "address": "新宿区新宿3-22-12",
     "access": "",
     "games": [
@@ -5057,7 +4706,7 @@
     ]
   },
   {
-    "name": "ドラマ港北インター店",
+    "name": "GiGO港北インター",
     "operation_time": "10:00～24:00",
     "holiday": "無し",
     "latitude": "35.51925659",
@@ -5101,7 +4750,7 @@
     "holiday": "",
     "latitude": "35.60845726",
     "longitude": "139.6676515",
-    "tel": "03-3725-3953",
+    "tel": "070-1458-9668",
     "address": "目黒区自由が丘2-10-9",
     "access": "",
     "games": [
@@ -5140,7 +4789,7 @@
     "holiday": "",
     "latitude": "35.5364623",
     "longitude": "139.6324113",
-    "tel": "045-547-1199",
+    "tel": "070-1458-9945",
     "address": "横浜市港北区綱島西2-6-29城田ビル3F",
     "access": "",
     "games": [
@@ -5179,7 +4828,7 @@
     "holiday": "",
     "latitude": "35.699336",
     "longitude": "139.770908",
-    "tel": "03-5297-3601",
+    "tel": "070-1458-2284",
     "address": "千代田区外神田1-11-11外神田1丁目ビルディング",
     "access": "",
     "games": [
@@ -5205,7 +4854,7 @@
     "holiday": "",
     "latitude": "35.69871026",
     "longitude": "139.7709979",
-    "tel": "",
+    "tel": "044-589-4523",
     "address": "千代田区外神田1-10-9",
     "access": "",
     "games": [
@@ -5220,19 +4869,6 @@
     "longitude": "139.77165",
     "tel": "03-6285-2820",
     "address": "千代田区外神田1-13-1第122東京ビル",
-    "access": "",
-    "games": [
-      "GITADORA GuitarFreaks"
-    ]
-  },
-  {
-    "name": "アミューズパークいわき神谷店",
-    "operation_time": "9:00～24:00",
-    "holiday": "無し",
-    "latitude": "37.06530832",
-    "longitude": "140.9425725",
-    "tel": "0246-34-7217",
-    "address": "いわき市平下神谷字馬洗7-1",
     "access": "",
     "games": [
       "GITADORA GuitarFreaks"
@@ -5273,19 +4909,6 @@
     "tel": "0489-55-6700",
     "address": "三郷市戸ヶ崎5-131",
     "access": "",
-    "games": [
-      "GITADORA GuitarFreaks"
-    ]
-  },
-  {
-    "name": "ウェアハウス南流山店",
-    "operation_time": "10:00～24:00",
-    "holiday": "無し",
-    "latitude": "35.84020798",
-    "longitude": "139.9050111",
-    "tel": "04-7159-2351",
-    "address": "流山市南流山4-16-6",
-    "access": "南流山駅から徒歩3分",
     "games": [
       "GITADORA GuitarFreaks"
     ]
@@ -5413,7 +5036,7 @@
     "holiday": "",
     "latitude": "35.590043",
     "longitude": "139.72823",
-    "tel": "03-5709-0669",
+    "tel": "070-1458-9581",
     "address": "大田区山王2-1-5大森駅ララビル2F",
     "access": "",
     "games": [
@@ -5481,19 +5104,6 @@
     "tel": "",
     "address": "川崎市川崎区駅前本町8ダイスビルB2F",
     "access": "JR川崎駅アゼリア地下街と直結、京急川崎駅中央口徒歩1分",
-    "games": [
-      "GITADORA GuitarFreaks"
-    ]
-  },
-  {
-    "name": "ピンクパンサー 水戸赤塚店",
-    "operation_time": "10:00～24:00",
-    "holiday": "無し",
-    "latitude": "36.3807337",
-    "longitude": "140.4136026",
-    "tel": "029-309-1983",
-    "address": "水戸市河和田1-1",
-    "access": "JR水戸線 赤塚駅徒歩5分 フレスポ赤塚内",
     "games": [
       "GITADORA GuitarFreaks"
     ]
@@ -5569,7 +5179,7 @@
     "holiday": "",
     "latitude": "35.68469819",
     "longitude": "139.8639374",
-    "tel": "03-5676-2522",
+    "tel": "070-1458-8745",
     "address": "江戸川区船堀1-6-11",
     "access": "",
     "games": [
@@ -5608,7 +5218,7 @@
     "holiday": "",
     "latitude": "36.350325",
     "longitude": "140.443003",
-    "tel": "029-244-1045",
+    "tel": "070-1458-6102",
     "address": "水戸市千波町2017-1",
     "access": "",
     "games": [
@@ -5634,7 +5244,7 @@
     "holiday": "",
     "latitude": "36.369467",
     "longitude": "140.474532",
-    "tel": "029-231-1002",
+    "tel": "070-1458-0665",
     "address": "水戸市宮町1-7-44コムボックス310 3F",
     "access": "",
     "games": [
@@ -5759,6 +5369,19 @@
     ]
   },
   {
+    "name": "ラウンドワンさいか屋横須賀店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "35.28214943",
+    "longitude": "139.6695932",
+    "tel": "046-876-8208",
+    "address": "横須賀市大滝町1-13さいか屋横須賀店本館6F",
+    "access": "",
+    "games": [
+      "GITADORA GuitarFreaks"
+    ]
+  },
+  {
     "name": "アミューズメントエース津田沼",
     "operation_time": "9:00～24:00",
     "holiday": "無し",
@@ -5829,7 +5452,7 @@
     "holiday": "",
     "latitude": "35.65022338",
     "longitude": "140.0425216",
-    "tel": "043-273-5261",
+    "tel": "070-1458-0443",
     "address": "千葉市美浜区ひび野1-8メッセアミューズモール1F",
     "access": "",
     "games": [
@@ -5949,19 +5572,6 @@
     "tel": "070-1458-2514",
     "address": "神栖市神栖1-8-1",
     "access": "東関東自動車道:潮来I.Cから約10分",
-    "games": [
-      "GITADORA GuitarFreaks"
-    ]
-  },
-  {
-    "name": "タイトーステーション旭サンモール店",
-    "operation_time": "9:00～24:00",
-    "holiday": "無し",
-    "latitude": "35.725157",
-    "longitude": "140.658686",
-    "tel": "0479-62-5215",
-    "address": "旭市イ-2676-1サンモール3F",
-    "access": "旭駅から歩いて5分。 イオン、サンモールの看板が目印",
     "games": [
       "GITADORA GuitarFreaks"
     ]

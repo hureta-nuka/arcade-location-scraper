@@ -44,7 +44,7 @@
     "holiday": "",
     "latitude": "33.19933861",
     "longitude": "130.0346407",
-    "tel": "0954-22-2087",
+    "tel": "070-1459-7137",
     "address": "武雄市武雄町大字富岡12517-1",
     "access": "",
     "games": [
@@ -156,19 +156,6 @@
     ]
   },
   {
-    "name": "遊道楽新合川",
-    "operation_time": "10:00～24:00",
-    "holiday": "無し",
-    "latitude": "33.32176241",
-    "longitude": "130.541007",
-    "tel": "0942-45-3335",
-    "address": "久留米市新合川1-6-7",
-    "access": "国道210号線バイパス沿い",
-    "games": [
-      "jubeat"
-    ]
-  },
-  {
     "name": "PEP魚町",
     "operation_time": "10:00～翌1:00",
     "holiday": "無し",
@@ -260,19 +247,6 @@
     ]
   },
   {
-    "name": "ユーズランド三光店",
-    "operation_time": "10:00～21:00",
-    "holiday": "",
-    "latitude": "33.559002",
-    "longitude": "131.192857",
-    "tel": "0979-43-6562",
-    "address": "中津市三光佐知1032イオン三光SC2F",
-    "access": "",
-    "games": [
-      "jubeat"
-    ]
-  },
-  {
     "name": "スポラ菊陽店",
     "operation_time": "10:00～24:00",
     "holiday": "無し",
@@ -280,19 +254,6 @@
     "longitude": "130.8092457",
     "tel": "096-213-5720",
     "address": "菊池郡菊陽町津久礼駄飼代2617-2",
-    "access": "",
-    "games": [
-      "jubeat"
-    ]
-  },
-  {
-    "name": "ゲームスポットSPEED",
-    "operation_time": "9:00～24:00",
-    "holiday": "無し",
-    "latitude": "34.03418509",
-    "longitude": "131.8347616",
-    "tel": "0834-36-2828",
-    "address": "周南市久米3219",
     "access": "",
     "games": [
       "jubeat"
@@ -390,19 +351,6 @@
     ]
   },
   {
-    "name": "スペースV1廿日市店",
-    "operation_time": "10:00～24:00",
-    "holiday": "無し",
-    "latitude": "34.35185323",
-    "longitude": "132.3340207",
-    "tel": "0829-34-3311",
-    "address": "廿日市市本町4-23",
-    "access": "山陽本線廿日市駅下車2号線沿い東へ徒歩15分",
-    "games": [
-      "jubeat"
-    ]
-  },
-  {
     "name": "PALO松江",
     "operation_time": "",
     "holiday": "",
@@ -421,7 +369,7 @@
     "holiday": "",
     "latitude": "33.24179967",
     "longitude": "131.6373957",
-    "tel": "0975-56-9072",
+    "tel": "070-1459-7329",
     "address": "大分市牧1-161-8",
     "access": "",
     "games": [
@@ -501,32 +449,6 @@
     "longitude": "132.4613726",
     "tel": "082-504-8665",
     "address": "広島市中区南竹屋町10-17",
-    "access": "",
-    "games": [
-      "jubeat"
-    ]
-  },
-  {
-    "name": "PALO境港",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "35.52243536",
-    "longitude": "133.2524414",
-    "tel": "070-3100-5063",
-    "address": "境港市竹内団地81-3",
-    "access": "",
-    "games": [
-      "jubeat"
-    ]
-  },
-  {
-    "name": "モーリーファンタジー米子駅前",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "35.42297667",
-    "longitude": "133.3329762",
-    "tel": "070-3100-4311",
-    "address": "米子市末広町311イオン米子駅前3F",
     "access": "",
     "games": [
       "jubeat"
@@ -624,19 +546,6 @@
     ]
   },
   {
-    "name": "アミパラ倉敷店",
-    "operation_time": "10:00～24:00",
-    "holiday": "無し",
-    "latitude": "34.58364137",
-    "longitude": "133.7712207",
-    "tel": "086-430-2111",
-    "address": "倉敷市西中新田624-1アミパラボウル1F",
-    "access": "倉敷市役所前、アミパラボウル1F",
-    "games": [
-      "jubeat"
-    ]
-  },
-  {
     "name": "アミパラ岡山店",
     "operation_time": "10:00～24:00",
     "holiday": "無し",
@@ -697,19 +606,6 @@
     "tel": "011-766-2828",
     "address": "札幌市北区新川2条7-1-7",
     "access": "札樽自動車道新川IC前",
-    "games": [
-      "jubeat"
-    ]
-  },
-  {
-    "name": "ゲームえの木",
-    "operation_time": "10:00～24:00",
-    "holiday": "無し",
-    "latitude": "33.55611724",
-    "longitude": "133.5064153",
-    "tel": "088-825-3293",
-    "address": "高知市旭町3-104",
-    "access": "土佐電旭日町3丁目電停徒歩1分",
     "games": [
       "jubeat"
     ]
@@ -832,19 +728,6 @@
     ]
   },
   {
-    "name": "タイトーステーション千歳店",
-    "operation_time": "10:00-24:00",
-    "holiday": "無し",
-    "latitude": "42.833396",
-    "longitude": "141.6439587",
-    "tel": "0123-42-4195",
-    "address": "千歳市北栄2-12-5",
-    "access": "千歳駅から札幌方面に徒歩10分",
-    "games": [
-      "jubeat"
-    ]
-  },
-  {
     "name": "アピナ新千歳空港店",
     "operation_time": "10:00～22:00",
     "holiday": "無し",
@@ -853,19 +736,6 @@
     "tel": "0123-25-9958",
     "address": "千歳市美々1新千歳空港(国内線)旅客ターミナルビル4F",
     "access": "新千歳空港内4F",
-    "games": [
-      "jubeat"
-    ]
-  },
-  {
-    "name": "GiGOスーパーセンタートライアル上磯",
-    "operation_time": "月曜～木曜10:00～20:00 / 金曜10:00～22:00 / 土日祝9:00～22:00",
-    "holiday": "無し",
-    "latitude": "41.820743",
-    "longitude": "140.696058",
-    "tel": "080-7442-0075",
-    "address": "北斗市七重浜7-14-1スーパーセンタートライアル上磯1F",
-    "access": "",
     "games": [
       "jubeat"
     ]
@@ -884,25 +754,12 @@
     ]
   },
   {
-    "name": "ファンタジープラザ苫小牧店",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "42.64112709",
-    "longitude": "141.5953404",
-    "tel": "0144-34-4390",
-    "address": "苫小牧市木場町1-6-1MEGAドンキホーテ苫小牧店2F",
-    "access": "",
-    "games": [
-      "jubeat"
-    ]
-  },
-  {
     "name": "GiGOイオンモール苫小牧",
     "operation_time": "ゲームコーナー9:00～24:00 / メダルコーナー9:00～23:30",
     "holiday": "無し",
     "latitude": "42.65619751",
     "longitude": "141.6419704",
-    "tel": "0144-52-1212",
+    "tel": "080-7032-8310",
     "address": "苫小牧市柳町3-1-20イオンモール苫小牧2F",
     "access": "JR苫小牧駅よりバス20分",
     "games": [
@@ -936,19 +793,6 @@
     ]
   },
   {
-    "name": "PALO小松島",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "34.00568188",
-    "longitude": "134.5726547",
-    "tel": "070-3100-5034",
-    "address": "小松島市小松島町字領田20小松島ショッピングプラザルピア1F",
-    "access": "",
-    "games": [
-      "jubeat"
-    ]
-  },
-  {
     "name": "アミューズメント ミール",
     "operation_time": "10:00～24:00",
     "holiday": "無し",
@@ -970,19 +814,6 @@
     "tel": "078-414-8844",
     "address": "神戸市中央区琴ノ緒町5-2-3協律三宮センタービル3F",
     "access": "JR三ノ宮駅下車徒歩5分",
-    "games": [
-      "jubeat"
-    ]
-  },
-  {
-    "name": "ラウンドワン三宮駅前店",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "34.69403073",
-    "longitude": "135.1973402",
-    "tel": "078-252-7200",
-    "address": "神戸市中央区小野柄通り6-1-17",
-    "access": "",
     "games": [
       "jubeat"
     ]
@@ -1053,19 +884,6 @@
     ]
   },
   {
-    "name": "アルプラザボウル鯖江",
-    "operation_time": "10:00～24:00",
-    "holiday": "無し",
-    "latitude": "35.968299",
-    "longitude": "136.188691",
-    "tel": "0778-54-0089",
-    "address": "鯖江市下河端町16-6-1",
-    "access": "",
-    "games": [
-      "jubeat"
-    ]
-  },
-  {
     "name": "ラウンドワン金沢店",
     "operation_time": "",
     "holiday": "",
@@ -1126,19 +944,6 @@
     "tel": "0771-25-9886",
     "address": "亀岡市篠町野条上又11-1アルプラザ亀岡店3F",
     "access": "嵯峨野線馬堀駅徒歩15分",
-    "games": [
-      "jubeat"
-    ]
-  },
-  {
-    "name": "PALO五所川原",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "40.80095013",
-    "longitude": "140.4614581",
-    "tel": "070-3100-5496",
-    "address": "五所川原市大字唐笠柳字藤巻641-1",
-    "access": "",
     "games": [
       "jubeat"
     ]
@@ -1266,7 +1071,7 @@
     "holiday": "",
     "latitude": "34.70112",
     "longitude": "135.55743",
-    "tel": "06-6931-1875",
+    "tel": "070-1459-4145",
     "address": "大阪市城東区今福東1-9-34",
     "access": "",
     "games": [
@@ -1318,7 +1123,7 @@
     "holiday": "",
     "latitude": "34.66416946",
     "longitude": "135.5628455",
-    "tel": "06-6783-6999",
+    "tel": "070-1459-4020",
     "address": "東大阪市長堂1-1-1ロンモール布施内",
     "access": "",
     "games": [
@@ -1334,19 +1139,6 @@
     "tel": "080-7437-9057",
     "address": "北見市西三輪5-1-16",
     "access": "国道39号 大雪大通沿い",
-    "games": [
-      "jubeat"
-    ]
-  },
-  {
-    "name": "エースレーン堅田",
-    "operation_time": "10:00～23:45",
-    "holiday": "無し",
-    "latitude": "35.12458935",
-    "longitude": "135.9194764",
-    "tel": "077-571-1226",
-    "address": "大津市今堅田2-40-10ACT堅田ビル2F",
-    "access": "JR湖西線堅田駅下車徒歩10分",
     "games": [
       "jubeat"
     ]
@@ -1370,21 +1162,8 @@
     "holiday": "",
     "latitude": "34.936959",
     "longitude": "135.795071",
-    "tel": "075-603-3220",
+    "tel": "070-1459-3916",
     "address": "京都市伏見区桃山町山ノ下32京都SCビルAM棟2F",
-    "access": "",
-    "games": [
-      "jubeat"
-    ]
-  },
-  {
-    "name": "PALOむつ",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "41.2869745",
-    "longitude": "141.1838083",
-    "tel": "070-3100-4671",
-    "address": "むつ市中央2-7-8",
     "access": "",
     "games": [
       "jubeat"
@@ -1411,19 +1190,6 @@
     "longitude": "135.60637",
     "tel": "06-6224-1700",
     "address": "東大阪市若江南町1-2-12",
-    "access": "",
-    "games": [
-      "jubeat"
-    ]
-  },
-  {
-    "name": "滋賀レジャーランド大津店",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "35.003875",
-    "longitude": "135.883431",
-    "tel": "077-548-7851",
-    "address": "大津市におの浜3-1-43",
     "access": "",
     "games": [
       "jubeat"
@@ -1482,19 +1248,6 @@
     ]
   },
   {
-    "name": "アピナ富山新庄店",
-    "operation_time": "10:00～24:00",
-    "holiday": "無し",
-    "latitude": "36.69533117",
-    "longitude": "137.2480753",
-    "tel": "076-491-7700",
-    "address": "富山市荒川3-2-12",
-    "access": "",
-    "games": [
-      "jubeat"
-    ]
-  },
-  {
     "name": "エースレーン近江八幡",
     "operation_time": "月～木・日・祝09:00～24:00 金・土・祝前日09:00～翌2:00",
     "holiday": "無し",
@@ -1529,19 +1282,6 @@
     "tel": "0765-52-5141",
     "address": "黒部市沓掛645",
     "access": "国道8号線沿い黒部IC入口交差点近く",
-    "games": [
-      "jubeat"
-    ]
-  },
-  {
-    "name": "アミューズメントCUE奈良三条店",
-    "operation_time": "10:00～24:00",
-    "holiday": "無し",
-    "latitude": "34.68177805",
-    "longitude": "135.8221257",
-    "tel": "0742-25-5115",
-    "address": "奈良市三条町478-1",
-    "access": "JR奈良駅から三条通りを東へすぐ",
     "games": [
       "jubeat"
     ]
@@ -1669,7 +1409,7 @@
     "holiday": "",
     "latitude": "34.986457",
     "longitude": "136.601599",
-    "tel": "059-332-9988",
+    "tel": "070-1459-3531",
     "address": "四日市市生桑町299-1",
     "access": "",
     "games": [
@@ -1773,7 +1513,7 @@
     "holiday": "",
     "latitude": "35.26954",
     "longitude": "136.96052",
-    "tel": "0568-89-3081",
+    "tel": "070-1459-2427",
     "address": "春日井市岩野町4180",
     "access": "",
     "games": [
@@ -1846,19 +1586,6 @@
     ]
   },
   {
-    "name": "モーリーファンタジーf新潟亀田インター",
-    "operation_time": "9:00～22:00",
-    "holiday": "無し",
-    "latitude": "37.87624975",
-    "longitude": "139.0816577",
-    "tel": "070-3100-4212",
-    "address": "新潟市江南区下早通柳田1-1-1イオンモール新潟亀田インター2F",
-    "access": "新潟亀田ICから約5分。 JR新潟駅から約4キロ、JR亀田駅から約2.5キロ",
-    "games": [
-      "jubeat"
-    ]
-  },
-  {
     "name": "タイトーステーションフェドラ大須店",
     "operation_time": "10:00～24:00",
     "holiday": "無し",
@@ -1898,6 +1625,19 @@
     ]
   },
   {
+    "name": "ADXマミー春日井出川店",
+    "operation_time": "",
+    "holiday": "",
+    "latitude": "35.26729521",
+    "longitude": "137.012739",
+    "tel": "0568-54-8590",
+    "address": "春日井市不二が丘1-5",
+    "access": "",
+    "games": [
+      "jubeat"
+    ]
+  },
+  {
     "name": "名古屋レジャーランド内田橋店",
     "operation_time": "一部24時間営業",
     "holiday": "無し",
@@ -1906,19 +1646,6 @@
     "tel": "052-694-6051",
     "address": "名古屋市南区内田橋2-26-22",
     "access": "名鉄常滑線豊田本町駅近く",
-    "games": [
-      "jubeat"
-    ]
-  },
-  {
-    "name": "ゲームチャオ松阪店",
-    "operation_time": "10:00～24:00",
-    "holiday": "無し",
-    "latitude": "34.58867016",
-    "longitude": "136.5257638",
-    "tel": "0598-53-3918",
-    "address": "松阪市船江町782",
-    "access": "国道42号線沿い、松阪駅から車で5分",
     "games": [
       "jubeat"
     ]
@@ -2002,19 +1729,6 @@
     ]
   },
   {
-    "name": "ゲームセンターテクノポリス",
-    "operation_time": "10:00～24:00",
-    "holiday": "無し",
-    "latitude": "37.42498834",
-    "longitude": "138.8377613",
-    "tel": "0258-33-1516",
-    "address": "長岡市要町1-8-50",
-    "access": "JR「宮内駅」西口より徒歩で5分。県道498号線沿い。",
-    "games": [
-      "jubeat"
-    ]
-  },
-  {
     "name": "タイトーステーションイオンモール釧路昭和",
     "operation_time": "9:00-翌1:00",
     "holiday": "無し",
@@ -2072,21 +1786,8 @@
     "holiday": "",
     "latitude": "34.492142",
     "longitude": "136.678061",
-    "tel": "0596-21-1243",
+    "tel": "070-1459-3687",
     "address": "伊勢市中須町666",
-    "access": "",
-    "games": [
-      "jubeat"
-    ]
-  },
-  {
-    "name": "HapipiLand十日町店",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "37.13648",
-    "longitude": "138.7456",
-    "tel": "080-7143-5507",
-    "address": "十日町市丑735-1",
     "access": "",
     "games": [
       "jubeat"
@@ -2197,19 +1898,6 @@
     ]
   },
   {
-    "name": "PALO諏訪",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "36.00551011",
-    "longitude": "138.1283942",
-    "tel": "070-3100-3453",
-    "address": "諏訪市沖田町5-18ステーションパーク諏訪内",
-    "access": "",
-    "games": [
-      "jubeat"
-    ]
-  },
-  {
     "name": "ソユーファミリーゲームフィールド花巻店",
     "operation_time": "",
     "holiday": "",
@@ -2301,19 +1989,6 @@
     ]
   },
   {
-    "name": "パルケデアミーゴ",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "38.28378194",
-    "longitude": "140.3216374",
-    "tel": "023-682-1613",
-    "address": "山形市嶋北1-3-1",
-    "access": "",
-    "games": [
-      "jubeat"
-    ]
-  },
-  {
     "name": "テクノワールド",
     "operation_time": "店舗にてご確認ください",
     "holiday": "無し",
@@ -2335,45 +2010,6 @@
     "tel": "023-682-3356",
     "address": "山形市北町2-2-45山形ファミリーボウル内",
     "access": "",
-    "games": [
-      "jubeat"
-    ]
-  },
-  {
-    "name": "ラウンドワン豊橋店",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "34.7239242",
-    "longitude": "137.4323261",
-    "tel": "0532-65-2212",
-    "address": "豊橋市大岩町字岩田27-2",
-    "access": "",
-    "games": [
-      "jubeat"
-    ]
-  },
-  {
-    "name": "群馬レジャーランド渋川店",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "36.4742053",
-    "longitude": "139.0154654",
-    "tel": "0279-25-0718",
-    "address": "渋川市八木原1364",
-    "access": "",
-    "games": [
-      "jubeat"
-    ]
-  },
-  {
-    "name": "GiGO会津若松",
-    "operation_time": "9:00～24:00",
-    "holiday": "無し",
-    "latitude": "37.51832577",
-    "longitude": "139.9222191",
-    "tel": "0242-37-0777",
-    "address": "会津若松市町北町上荒久田字宮下142",
-    "access": "磐越道会津若松IC側",
     "games": [
       "jubeat"
     ]
@@ -2548,25 +2184,12 @@
     ]
   },
   {
-    "name": "タイトーステーション仙台ベガロポリス店",
-    "operation_time": "10:00～24:00",
-    "holiday": "無し",
-    "latitude": "38.21973354",
-    "longitude": "140.8479417",
-    "tel": "022-307-3685",
-    "address": "仙台市太白区西多賀5-24-1",
-    "access": "国道286号沿い、JR長町駅より車で10分",
-    "games": [
-      "jubeat"
-    ]
-  },
-  {
     "name": "GiGOスマーク伊勢崎",
     "operation_time": "",
     "holiday": "",
     "latitude": "36.339538",
     "longitude": "139.231968",
-    "tel": "0270-62-3886",
+    "tel": "070-1458-2998",
     "address": "伊勢崎市西小保方町368スマーク伊勢崎3F302区画",
     "access": "",
     "games": [
@@ -2582,19 +2205,6 @@
     "tel": "022-788-2581",
     "address": "仙台市宮城野区苦竹1-7-10",
     "access": "",
-    "games": [
-      "jubeat"
-    ]
-  },
-  {
-    "name": "GiGO利府",
-    "operation_time": "10:00～24:00",
-    "holiday": "無し",
-    "latitude": "38.32801132",
-    "longitude": "140.9756135",
-    "tel": "080-7500-4898",
-    "address": "宮城郡利府町加瀬字新前谷地55-1",
-    "access": "三陸自動車道 利府中IC下車利府バイパス沿い車で5分",
     "games": [
       "jubeat"
     ]
@@ -2691,7 +2301,7 @@
     ]
   },
   {
-    "name": "ドラマ足利店",
+    "name": "GiGO足利朝倉",
     "operation_time": "10:00～24:00",
     "holiday": "無し",
     "latitude": "36.32220259",
@@ -2751,19 +2361,6 @@
     "tel": "0287-36-7137",
     "address": "那須塩原市一区町104-60",
     "access": "大田原ゴルフセンター入口付近(パチンコニラク前)",
-    "games": [
-      "jubeat"
-    ]
-  },
-  {
-    "name": "ソユーゲームフィールド熊谷店",
-    "operation_time": "10:00～21:00",
-    "holiday": "不定休",
-    "latitude": "36.13861007",
-    "longitude": "139.3937222",
-    "tel": "048-523-3080",
-    "address": "熊谷市銀座2-245ニットーモール4F",
-    "access": "JR熊谷駅より徒歩5分",
     "games": [
       "jubeat"
     ]
@@ -2852,7 +2449,7 @@
     "holiday": "",
     "latitude": "36.558326",
     "longitude": "139.90882",
-    "tel": "028-633-6082",
+    "tel": "070-1458-5967",
     "address": "宇都宮市東宿郷5-1-7",
     "access": "",
     "games": [
@@ -2881,19 +2478,6 @@
     "tel": "042-960-1521",
     "address": "入間市小谷田3-7-25",
     "access": "",
-    "games": [
-      "jubeat"
-    ]
-  },
-  {
-    "name": "ドラマ瑞穂店",
-    "operation_time": "10:00～24:00",
-    "holiday": "無し",
-    "latitude": "35.76337213",
-    "longitude": "139.3568934",
-    "tel": "042-556-6605",
-    "address": "西多摩郡瑞穂町武蔵382-1",
-    "access": "JR八高線「箱根ヶ崎駅」から武蔵村山市方面に徒歩25分",
     "games": [
       "jubeat"
     ]
@@ -2990,12 +2574,12 @@
     ]
   },
   {
-    "name": "ドラマ八王子高倉店",
+    "name": "GiGO八王子高倉",
     "operation_time": "10:00～24:00",
     "holiday": "無し",
     "latitude": "35.66506526",
     "longitude": "139.3664795",
-    "tel": "0426-45-7050",
+    "tel": "042-645-7050",
     "address": "八王子市高倉町55-4",
     "access": "国道20号、八王子市高倉町「高倉町西」交差点を日野バイパス豊田方面右手",
     "games": [
@@ -3055,19 +2639,6 @@
     ]
   },
   {
-    "name": "キャロム 所沢店",
-    "operation_time": "12:00～翌3:00/祝前日、土曜日翌5:00まで",
-    "holiday": "無し",
-    "latitude": "35.79106583",
-    "longitude": "139.5042181",
-    "tel": "042-946-2160",
-    "address": "所沢市下安松969-1",
-    "access": "旧463号沿い",
-    "games": [
-      "jubeat"
-    ]
-  },
-  {
     "name": "埼玉スポーツセンター内スクウェアワン サイスポ店",
     "operation_time": "",
     "holiday": "",
@@ -3089,19 +2660,6 @@
     "tel": "042-512-5610",
     "address": "立川市羽衣町2-4-13羽衣長田ビル101",
     "access": "",
-    "games": [
-      "jubeat"
-    ]
-  },
-  {
-    "name": "ビッグボウル杉戸",
-    "operation_time": "10:00～翌1:00",
-    "holiday": "無し",
-    "latitude": "36.04028926",
-    "longitude": "139.720837",
-    "tel": "0480-34-7870",
-    "address": "北葛飾郡杉戸町杉戸2338",
-    "access": "東武伊勢崎線東武動物公園駅より徒歩30分 国道4号線沿い",
     "games": [
       "jubeat"
     ]
@@ -3141,45 +2699,6 @@
     "tel": "048-782-5461",
     "address": "さいたま市大宮区大門町1-1",
     "access": "大宮駅東口徒歩1分",
-    "games": [
-      "jubeat"
-    ]
-  },
-  {
-    "name": "ウェアハウス一橋学園店",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "35.723438",
-    "longitude": "139.480703",
-    "tel": "042-349-7600",
-    "address": "小平市学園東町1-4-39平山ビル3F",
-    "access": "",
-    "games": [
-      "jubeat"
-    ]
-  },
-  {
-    "name": "GiGO相模原",
-    "operation_time": "10:00～24:00",
-    "holiday": "無し",
-    "latitude": "35.57350902",
-    "longitude": "139.3710322",
-    "tel": "080-7465-6268",
-    "address": "相模原市中央区中央2-1-5ムトス内",
-    "access": "JR横浜線相模原駅徒歩15分国道16号線近く",
-    "games": [
-      "jubeat"
-    ]
-  },
-  {
-    "name": "タイトーステーション国分寺店",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "35.701889",
-    "longitude": "139.480156",
-    "tel": "042-401-0592",
-    "address": "国分寺市本町3-5-11",
-    "access": "",
     "games": [
       "jubeat"
     ]
@@ -3333,22 +2852,9 @@
     "holiday": "",
     "latitude": "35.532177",
     "longitude": "139.436075",
-    "tel": "042-741-8195",
+    "tel": "070-1458-9839",
     "address": "相模原市南区相模大野3-13-2フレスコビル3F",
     "access": "",
-    "games": [
-      "jubeat"
-    ]
-  },
-  {
-    "name": "GiGOイオンモール浦和美園",
-    "operation_time": "9:00～23:00",
-    "holiday": "無し",
-    "latitude": "35.8909712",
-    "longitude": "139.7311429",
-    "tel": "080-4831-9105",
-    "address": "さいたま市緑区美園5-50-1イオンモール浦和美園2F",
-    "access": "イオン浦和美園ショッピングセンター内 2階",
     "games": [
       "jubeat"
     ]
@@ -3372,22 +2878,9 @@
     "holiday": "",
     "latitude": "35.439044",
     "longitude": "139.361882",
-    "tel": "0462-23-7157",
+    "tel": "070-1458-9835",
     "address": "厚木市中町4-15-9",
     "access": "",
-    "games": [
-      "jubeat"
-    ]
-  },
-  {
-    "name": "ピンクパンサー 下妻店",
-    "operation_time": "12:00～24:00",
-    "holiday": "無し",
-    "latitude": "36.17067062",
-    "longitude": "139.9664734",
-    "tel": "0296-43-6880",
-    "address": "下妻市小島884-10",
-    "access": "国道旧294号線沿い",
     "games": [
       "jubeat"
     ]
@@ -3452,19 +2945,6 @@
     "longitude": "139.67879",
     "tel": "03-5922-3521",
     "address": "板橋区相生町16-13",
-    "access": "",
-    "games": [
-      "jubeat"
-    ]
-  },
-  {
-    "name": "ソユーゲームフィールド川口店",
-    "operation_time": "10:00～21:00",
-    "holiday": "母店に準ずる。",
-    "latitude": "35.80730808",
-    "longitude": "139.7139218",
-    "tel": "048-250-1206",
-    "address": "川口市並木元町1-79アリオ川口店3F",
     "access": "",
     "games": [
       "jubeat"
@@ -3536,19 +3016,6 @@
     ]
   },
   {
-    "name": "GiGO川口",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "35.79475047",
-    "longitude": "139.7475357",
-    "tel": "048-226-1191",
-    "address": "川口市東領家2-2-10",
-    "access": "",
-    "games": [
-      "jubeat"
-    ]
-  },
-  {
     "name": "ウェアハウス入谷店",
     "operation_time": "10:00～24:00",
     "holiday": "無し",
@@ -3607,7 +3074,7 @@
     "latitude": "35.73071",
     "longitude": "139.71644",
     "tel": "03-5904-8388",
-    "address": "豊島区東池袋1-29-1マルビル池袋2-3F",
+    "address": "豊島区東池袋1-29-1マルビル池袋B1-3F",
     "access": "",
     "games": [
       "jubeat"
@@ -3634,19 +3101,6 @@
     "longitude": "139.61245",
     "tel": "044-328-9262",
     "address": "川崎市高津区溝口1-11-8",
-    "access": "",
-    "games": [
-      "jubeat"
-    ]
-  },
-  {
-    "name": "ラウンドワン草加店",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "35.81240056",
-    "longitude": "139.7878993",
-    "tel": "048-920-3701",
-    "address": "草加市谷塚上町204-1",
     "access": "",
     "games": [
       "jubeat"
@@ -3736,7 +3190,7 @@
     "holiday": "",
     "latitude": "35.660097",
     "longitude": "139.702644",
-    "tel": "03-3409-4737",
+    "tel": "070-1458-0880",
     "address": "渋谷区渋谷1-14-14EST 1F･7F",
     "access": "",
     "games": [
@@ -3744,7 +3198,7 @@
     ]
   },
   {
-    "name": "ドラマ藤沢店",
+    "name": "GiGO本藤沢",
     "operation_time": "10:00～24:00",
     "holiday": "無し",
     "latitude": "35.35751243",
@@ -3775,7 +3229,7 @@
     "holiday": "",
     "latitude": "35.5364623",
     "longitude": "139.6324113",
-    "tel": "045-547-1199",
+    "tel": "070-1458-9945",
     "address": "横浜市港北区綱島西2-6-29城田ビル3F",
     "access": "",
     "games": [
@@ -3801,7 +3255,7 @@
     "holiday": "",
     "latitude": "35.699336",
     "longitude": "139.770908",
-    "tel": "03-5297-3601",
+    "tel": "070-1458-2284",
     "address": "千代田区外神田1-11-11外神田1丁目ビルディング",
     "access": "",
     "games": [
@@ -3822,19 +3276,6 @@
     ]
   },
   {
-    "name": "アミューズパークいわき神谷店",
-    "operation_time": "9:00～24:00",
-    "holiday": "無し",
-    "latitude": "37.06530832",
-    "longitude": "140.9425725",
-    "tel": "0246-34-7217",
-    "address": "いわき市平下神谷字馬洗7-1",
-    "access": "",
-    "games": [
-      "jubeat"
-    ]
-  },
-  {
     "name": "三郷ヤングボウル",
     "operation_time": "",
     "holiday": "",
@@ -3849,26 +3290,13 @@
   },
   {
     "name": "ソユートイズニューヨーク守谷店",
-    "operation_time": "9:00～24:00",
+    "operation_time": "10:00～21:00",
     "holiday": "無し",
     "latitude": "35.94486888",
     "longitude": "139.991201",
     "tel": "0297-47-1685",
     "address": "守谷市百合ケ丘3-249-1イオンタウン守谷2F",
     "access": "",
-    "games": [
-      "jubeat"
-    ]
-  },
-  {
-    "name": "ウェアハウス南流山店",
-    "operation_time": "10:00～24:00",
-    "holiday": "無し",
-    "latitude": "35.84020798",
-    "longitude": "139.9050111",
-    "tel": "04-7159-2351",
-    "address": "流山市南流山4-16-6",
-    "access": "南流山駅から徒歩3分",
     "games": [
       "jubeat"
     ]
@@ -3881,19 +3309,6 @@
     "longitude": "140.1047877",
     "tel": "029-846-1200",
     "address": "つくば市小野崎177-2",
-    "access": "",
-    "games": [
-      "jubeat"
-    ]
-  },
-  {
-    "name": "ユーズランド水戸内原店",
-    "operation_time": "10:00～21:00",
-    "holiday": "",
-    "latitude": "36.374428",
-    "longitude": "140.3590138",
-    "tel": "029-259-1218",
-    "address": "水戸市内原2-1イオンモール水戸内原2F",
     "access": "",
     "games": [
       "jubeat"
@@ -3921,19 +3336,6 @@
     "tel": "070-1459-0875",
     "address": "つくば市竹園1-9-2デイズタウンつくばB1F",
     "access": "つくば駅徒歩5分デイズタウンつくばB1F",
-    "games": [
-      "jubeat"
-    ]
-  },
-  {
-    "name": "嶺宝スポーツセンター",
-    "operation_time": "11:00～23:00",
-    "holiday": "火曜日",
-    "latitude": "36.97400283",
-    "longitude": "140.8903913",
-    "tel": "0246-58-8093",
-    "address": "いわき市小名浜住吉字折返2-2",
-    "access": "6号バイパス住吉交差点横",
     "games": [
       "jubeat"
     ]
@@ -3983,7 +3385,7 @@
     "holiday": "",
     "latitude": "35.590043",
     "longitude": "139.72823",
-    "tel": "03-5709-0669",
+    "tel": "070-1458-9581",
     "address": "大田区山王2-1-5大森駅ララビル2F",
     "access": "",
     "games": [
@@ -4030,19 +3432,6 @@
     ]
   },
   {
-    "name": "ピンクパンサー 水戸赤塚店",
-    "operation_time": "10:00～24:00",
-    "holiday": "無し",
-    "latitude": "36.3807337",
-    "longitude": "140.4136026",
-    "tel": "029-309-1983",
-    "address": "水戸市河和田1-1",
-    "access": "JR水戸線 赤塚駅徒歩5分 フレスポ赤塚内",
-    "games": [
-      "jubeat"
-    ]
-  },
-  {
     "name": "AMFマーズ",
     "operation_time": "8:30～翌1:00",
     "holiday": "無し",
@@ -4074,7 +3463,7 @@
     "holiday": "",
     "latitude": "35.79133049",
     "longitude": "139.937777",
-    "tel": "047-392-4661",
+    "tel": "070-1458-8638",
     "address": "松戸市日暮1-1-1八柱駅第2ビル2F",
     "access": "",
     "games": [
@@ -4126,7 +3515,7 @@
     "holiday": "",
     "latitude": "36.198702",
     "longitude": "140.303303",
-    "tel": "0299-26-8336",
+    "tel": "070-1458-8149",
     "address": "石岡市東大橋中峯1976-1",
     "access": "",
     "games": [
@@ -4139,7 +3528,7 @@
     "holiday": "",
     "latitude": "36.350325",
     "longitude": "140.443003",
-    "tel": "029-244-1045",
+    "tel": "070-1458-6102",
     "address": "水戸市千波町2017-1",
     "access": "",
     "games": [
@@ -4165,7 +3554,7 @@
     "holiday": "",
     "latitude": "36.369467",
     "longitude": "140.474532",
-    "tel": "029-231-1002",
+    "tel": "070-1458-0665",
     "address": "水戸市宮町1-7-44コムボックス310 3F",
     "access": "",
     "games": [
@@ -4251,13 +3640,13 @@
     ]
   },
   {
-    "name": "GiGO龍ヶ崎",
+    "name": "ラウンドワンさいか屋横須賀店",
     "operation_time": "",
     "holiday": "",
-    "latitude": "35.938535",
-    "longitude": "140.195812",
-    "tel": "0296-61-3344",
-    "address": "龍ケ崎市藤ケ丘4-2-8",
+    "latitude": "35.28214943",
+    "longitude": "139.6695932",
+    "tel": "046-876-8208",
+    "address": "横須賀市大滝町1-13さいか屋横須賀店本館6F",
     "access": "",
     "games": [
       "jubeat"
@@ -4308,7 +3697,7 @@
     "holiday": "",
     "latitude": "35.65022338",
     "longitude": "140.0425216",
-    "tel": "043-273-5261",
+    "tel": "070-1458-0443",
     "address": "千葉市美浜区ひび野1-8メッセアミューズモール1F",
     "access": "",
     "games": [
@@ -4337,19 +3726,6 @@
     "tel": "043-222-5610",
     "address": "千葉市中央区富士見2-8-1",
     "access": "JR千葉駅より徒歩5分",
-    "games": [
-      "jubeat"
-    ]
-  },
-  {
-    "name": "GiGOフェスティバルウォーク蘇我",
-    "operation_time": "",
-    "holiday": "",
-    "latitude": "35.592701",
-    "longitude": "140.117827",
-    "tel": "043-266-9012",
-    "address": "千葉市中央区川崎町51-1ハーバーシティ蘇我",
-    "access": "",
     "games": [
       "jubeat"
     ]
@@ -4415,19 +3791,6 @@
     "tel": "0475-24-0059",
     "address": "茂原市高師4-5",
     "access": "",
-    "games": [
-      "jubeat"
-    ]
-  },
-  {
-    "name": "タイトーステーション旭サンモール店",
-    "operation_time": "9:00～24:00",
-    "holiday": "無し",
-    "latitude": "35.725157",
-    "longitude": "140.658686",
-    "tel": "0479-62-5215",
-    "address": "旭市イ-2676-1サンモール3F",
-    "access": "旭駅から歩いて5分。 イオン、サンモールの看板が目印",
     "games": [
       "jubeat"
     ]
