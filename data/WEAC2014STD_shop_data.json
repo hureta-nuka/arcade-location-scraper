@@ -1,18 +1,5 @@
 [
   {
-    "name": "遊道楽時津店",
-    "operation_time": "10:00～24:00",
-    "holiday": "無し",
-    "latitude": "32.82008054",
-    "longitude": "129.8473546",
-    "tel": "095-813-2525",
-    "address": "西彼杵郡時津町元村郷863-10",
-    "access": "川平有料道路入り口井出園交差点付近",
-    "games": [
-      "Winning Eleven AC 2014(ｽﾀﾝﾀﾞｰﾄﾞ筺体)"
-    ]
-  },
-  {
     "name": "A.Cグランド",
     "operation_time": "9:00～24:00",
     "holiday": "無し",
@@ -34,19 +21,6 @@
     "tel": "023-682-1613",
     "address": "山形市嶋北1-3-1",
     "access": "",
-    "games": [
-      "Winning Eleven AC 2014(ｽﾀﾝﾀﾞｰﾄﾞ筺体)"
-    ]
-  },
-  {
-    "name": "タイトーステーション仙台ベガロポリス店",
-    "operation_time": "10:00～24:00",
-    "holiday": "無し",
-    "latitude": "38.21973354",
-    "longitude": "140.8479417",
-    "tel": "022-307-3685",
-    "address": "仙台市太白区西多賀5-24-1",
-    "access": "国道286号沿い、JR長町駅より車で10分",
     "games": [
       "Winning Eleven AC 2014(ｽﾀﾝﾀﾞｰﾄﾞ筺体)"
     ]

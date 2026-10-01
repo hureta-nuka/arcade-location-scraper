@@ -37,18 +37,5 @@
     "games": [
       "GI-HORSEPARK GX"
     ]
-  },
-  {
-    "name": "千葉レジャーランド野田店",
-    "operation_time": "一部24時間営業",
-    "holiday": "無し",
-    "latitude": "35.97154747",
-    "longitude": "139.8653487",
-    "tel": "04-7120-3535",
-    "address": "野田市吉春776-1",
-    "access": "国道16号線沿い野田市吉春地内",
-    "games": [
-      "GI-HORSEPARK GX"
-    ]
   }
 ]

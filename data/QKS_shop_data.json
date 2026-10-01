@@ -117,19 +117,6 @@
     ]
   },
   {
-    "name": "ゲームセンターテクノポリス",
-    "operation_time": "10:00～24:00",
-    "holiday": "無し",
-    "latitude": "37.42498834",
-    "longitude": "138.8377613",
-    "tel": "0258-33-1516",
-    "address": "長岡市要町1-8-50",
-    "access": "JR「宮内駅」西口より徒歩で5分。県道498号線沿い。",
-    "games": [
-      "QuizKnock STADIUM"
-    ]
-  },
-  {
     "name": "GiGO天童",
     "operation_time": "10:00～24:00",
     "holiday": "無し",

@@ -1,6 +1,19 @@
 [
   {
-    "name": "ドラマ藤沢店",
+    "name": "GiGO北岡崎",
+    "operation_time": "9:00～24:00",
+    "holiday": "無し",
+    "latitude": "34.97365547",
+    "longitude": "137.1600268",
+    "tel": "070-1393-5583",
+    "address": "岡崎市錦町2-4",
+    "access": "国道248号線沿い、愛知環状線北岡崎駅から徒歩3分",
+    "games": [
+      "WONDERMARCH"
+    ]
+  },
+  {
+    "name": "GiGO本藤沢",
     "operation_time": "10:00～24:00",
     "holiday": "無し",
     "latitude": "35.35751243",
